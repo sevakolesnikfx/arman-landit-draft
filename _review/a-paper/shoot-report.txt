@@ -1,0 +1,33 @@
+shoot: a-paper  30 shots, 0 with errors  (2026-10-01T12:52:42.599Z)
+shots: _review/a-paper/shots
+
+ok   login-phone
+ok   login-desktop
+ok   register-phone
+ok   register-desktop
+ok   questions-phone
+ok   questions-desktop
+ok   ack-phone
+ok   ack-desktop
+ok   chat-phone
+ok   chat-desktop
+ok   benefits-phone
+ok   benefits-desktop
+ok   benefit-phone
+ok   benefit-desktop
+ok   community-phone
+ok   community-desktop
+ok   settings-phone
+ok   settings-desktop
+ok   chat-ar-phone
+ok   chat-ar-desktop
+ok   chat-theme-sage-desktop
+ok   chat-theme-mist-desktop
+ok   chat-theme-evening-desktop
+ok   benefits-ar-phone
+ok   benefits-ar-desktop
+ok   benefits-theme-sage-desktop
+ok   benefits-theme-mist-desktop
+ok   benefits-theme-evening-desktop
+ok   benefits-xlarge-phone
+ok   chat-drawer-phone

@@ -1,0 +1,765 @@
+[
+ {
+  "name": "reset opens register",
+  "ok": true
+ },
+ {
+  "name": "question 1 has skip this + skip all",
+  "ok": false
+ },
+ {
+  "name": "skip one goes to Q2",
+  "ok": true
+ },
+ {
+  "name": "skip all leaves profile empty",
+  "ok": true,
+  "detail": {}
+ },
+ {
+  "name": "ack shows exact disclaimer",
+  "ok": false
+ },
+ {
+  "name": "no-status benefits count = match({}).open",
+  "ok": true,
+  "detail": 85
+ },
+ {
+  "name": "no-status: no blocked list",
+  "ok": true
+ },
+ {
+  "name": "sign in after ack goes to chat (ack is one-time)",
+  "ok": true
+ },
+ {
+  "name": "questions has Back from Q2",
+  "ok": true
+ },
+ {
+  "name": "chat empty shows disclaimer",
+  "ok": true
+ },
+ {
+  "name": "starters shown",
+  "ok": true,
+  "detail": [
+   "What can I claim?",
+   "Council tax as a student",
+   "What does no recourse to public funds mean?",
+   "Help with travel costs"
+  ]
+ },
+ {
+  "name": "voice typing control works (real or practice)",
+  "ok": true,
+  "detail": {
+   "hasSR": true,
+   "listenNote": "Listening (practice version: no microphone is used). A sample question will appear.",
+   "pressed": "true",
+   "afterVoice": "What can I claim?",
+   "status": "Done. Check the words, then press Send."
+  }
+ },
+ {
+  "name": "disclaimer visible on screen while reply cards visible",
+  "ok": false,
+  "detail": {
+   "viewDisc": {
+    "inViewport": false,
+    "top": 2335,
+    "vh": 844
+   },
+   "cardsVisible": true
+  }
+ },
+ {
+  "name": "reply has read aloud",
+  "ok": true
+ },
+ {
+  "name": "read aloud toggles to Stop",
+  "ok": true,
+  "detail": "Read aloud -> Stop"
+ },
+ {
+  "name": "What can I claim cards",
+  "ok": true,
+  "detail": [
+   "Council Tax student exemption (Class N)",
+   "British Gas Energy Trust grants",
+   "University hardship fund"
+  ]
+ },
+ {
+  "name": "suggested replies shown",
+  "ok": true,
+  "detail": [
+   "Which documents do I need?",
+   "What does no recourse to public funds mean?",
+   "How does tracking work?"
+  ]
+ },
+ {
+  "name": "chat card share link",
+  "ok": true,
+  "detail": "https://landit-uk.com/council-tax-student/"
+ },
+ {
+  "name": "share dialog shows disclaimer? (names a scheme)",
+  "ok": false,
+  "detail": "Share Council Tax student exemption (Class N) Link to this benefit Copy link Send this link to a friend, a family member or an adviser."
+ },
+ {
+  "name": "track from chat card saved",
+  "ok": true,
+  "detail": "bg-energy-trust"
+ },
+ {
+  "name": "Open from chat card goes to detail",
+  "ok": true,
+  "detail": "#/benefit/council-tax-student"
+ },
+ {
+  "name": "chat history persists after leaving",
+  "ok": true
+ },
+ {
+  "name": "no chat history list / new chat (not requested)",
+  "ok": true,
+  "detail": {
+   "newChatControls": 0
+  }
+ },
+ {
+  "name": "phone drawer button aria-label",
+  "ok": true,
+  "detail": "My applications, 3 tracked"
+ },
+ {
+  "name": "tracked row present",
+  "ok": true
+ },
+ {
+  "name": "needed / might be needed groups",
+  "ok": true,
+  "detail": [
+   "Needed",
+   "Might be needed"
+  ]
+ },
+ {
+  "name": "needed items match data",
+  "ok": true,
+  "detail": [
+   "Student certificate from your university (free, ask the registry)",
+   "Your tenancy agreement"
+  ]
+ },
+ {
+  "name": "count text 1 of 3",
+  "ok": true,
+  "detail": "1 of 3 documents ticked"
+ },
+ {
+  "name": "ticks persist after reload",
+  "ok": true,
+  "detail": {
+   "checked": [
+    true,
+    true,
+    false
+   ],
+   "expandedAfterReload": "false"
+  }
+ },
+ {
+  "name": "uni-hardship row shows Applied and 4 of 4",
+  "ok": true,
+  "detail": "University hardship fund Applied 4 of 4 documents ticked"
+ },
+ {
+  "name": "sidebar/drawer itself carries disclaimer (shows specific schemes)",
+  "ok": false
+ },
+ {
+  "name": "header count",
+  "ok": true
+ },
+ {
+  "name": "total and label",
+  "ok": true,
+  "detail": "£8,464"
+ },
+ {
+  "name": "nrpf note counts",
+  "ok": true,
+  "detail": "Your visa carries a \"no recourse to public funds\" condition. Landit set aside 13 public-funds schemes and shows the 80 options your condition does not touch."
+ },
+ {
+  "name": "visa-blocked list = match.blocked",
+  "ok": true,
+  "detail": 13
+ },
+ {
+  "name": "blocked panel intro",
+  "ok": true,
+  "detail": "These are public funds (paragraph 6.2 of the Immigration Rules). Your visa condition applies to them, so they are not open to you right now. Everything else Landit shows you is outside that list, and your condition does not affect it.\n\nPublic funds (8)\n\nThis is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.\n\nPersonal Independence Payment\nWelfare support\nUniversal Credit\nWelfare support\nCarer's Allowance\nWelfare support\nCrisis and Resilience Fund\nCouncil help\nLocal welfare assistance, England\nCouncil help\nCouncil Tax Reduction\nCouncil help\n"
+ },
+ {
+  "name": "tiles",
+  "ok": true,
+  "detail": [
+   "All benefits 80 benefits. Sort by money, speed or ease.",
+   "Money 5 benefits Highest amount £1,000 Max bonus per year",
+   "Council help 5 benefits Highest amount £1,800 Typical annual saving",
+   "Health 8 benefits Highest amount £100 Could be worth, a year",
+   "Education 19 benefits Highest amount £2,000 Could be worth",
+   "Work 3 benefits No set amounts",
+   "Transport 10 benefits Highest amount £212 Average yearly saving",
+   "Energy 7 benefits Highest amount £1,700 Up to, one-off",
+   "Water 3 benefits No set amounts",
+   "Phone and internet 5 benefits No set amounts",
+   "Food 4 benefits No set amounts",
+   "Charity 6 benefits No set amounts",
+   "Visa and legal 4 benefits No set amounts",
+   "Business 1 benefit No set amounts"
+  ]
+ },
+ {
+  "name": "sort value matches LANDIT.sortBenefits",
+  "ok": true,
+  "detail": [
+   "Free Courses for Jobs",
+   "Council Tax student exemption (Class N)",
+   "British Gas Energy Trust grants",
+   "University hardship fund",
+   "Lifetime ISA",
+   "Marriage Allowance",
+   "16-25 Railcard",
+   "Prescription charges and the prepayment certificate"
+  ]
+ },
+ {
+  "name": "sort time matches LANDIT.sortBenefits",
+  "ok": true,
+  "detail": [
+   "Marriage Allowance",
+   "16-25 Railcard",
+   "National Insurance number",
+   "GP registration",
+   "Community Fibre Essential",
+   "HMRC tax refunds",
+   "Council Tax student exemption (Class N)",
+   "Turn2us grants search"
+  ]
+ },
+ {
+  "name": "sort easy (custom)",
+  "ok": true,
+  "detail": [
+   "GP registration",
+   "Food banks (Trussell + independents)",
+   "Community Fibre Essential",
+   "Fuel Bank Foundation vouchers",
+   "Basic bank account",
+   "National Insurance number",
+   "Council Tax student exemption (Class N)",
+   "Warm Homes: Local Grant / ECO4 LA Flex"
+  ]
+ },
+ {
+  "name": "sort az matches LANDIT.sortBenefits",
+  "ok": true,
+  "detail": [
+   "16-25 Railcard",
+   "18+ Student Oyster photocard",
+   "4th Utility Social Tariff",
+   "Advanced Learner Loan and the Access to HE write-off",
+   "Bank accounts for international students",
+   "Basic bank account",
+   "British Gas Energy Trust grants",
+   "British Red Cross refugee services"
+  ]
+ },
+ {
+  "name": "filter options",
+  "ok": true,
+  "detail": [
+   "All benefits (80)",
+   "Money (5)",
+   "Council help (5)",
+   "Health (8)",
+   "Education (19)",
+   "Work (3)",
+   "Transport (10)",
+   "Energy (7)",
+   "Water (3)",
+   "Phone and internet (5)",
+   "Food (4)",
+   "Charity (6)",
+   "Visa and legal (4)",
+   "Business (1)"
+  ]
+ },
+ {
+  "name": "every row value/category/sub/effort matches data",
+  "ok": true,
+  "detail": []
+ },
+ {
+  "name": "detail council-tax-student",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £1,800 Typical annual saving",
+   "cells": [
+    "Time to apply 20 minutes",
+    "Documents 2 needed 1 more may be needed"
+   ],
+   "more": [
+    "Decision 2 to 6 weeks",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Some paperwork: 2 documents, 20 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: Scales with band; exemption also covers a student's non-working non-British spouse or dependant",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail uni-hardship-fund",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £1,400 Typical amount",
+   "cells": [
+    "Time to apply 1 to 2 hours",
+    "Documents 4 needed"
+   ],
+   "more": [
+    "Decision Typically 2 to 6 weeks",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "More paperwork: 4 documents, 1 to 2 hours Based on the number of documents and steps",
+   "valueNote": "About the amount: Sector range £500 to £3,000 (Save the Student); Greenwich international fund up to £1,000/yr",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail railcard-16-25",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £212 Average yearly saving",
+   "cells": [
+    "Time to apply 10 minutes",
+    "Documents 3 needed"
+   ],
+   "more": [
+    "Decision Instant for digital",
+    "Cost £35 for the year",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Some paperwork: 3 documents, 10 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: £35/year card (2026); mature full-time students over 25 qualify; 26-30 card avg saves £283; 16-17 Saver 50% off",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail lisa",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £1,000 Max bonus per year",
+   "cells": [
+    "Time to apply 20 minutes",
+    "Documents 4 needed"
+   ],
+   "more": [
+    "Decision Account opens same day",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "More paperwork: 4 documents, 20 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: 25% on up to £4,000/yr toward a first home (£450k cap) or age 60; withdrawal charge otherwise",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail bg-energy-trust",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £1,700 Up to, one-off",
+   "cells": [
+    "Time to apply 2 hours including the advice session",
+    "Documents 4 needed"
+   ],
+   "more": [
+    "Decision 6 to 12 weeks",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "More paperwork: 4 documents, 2 hours including the advice session Based on the number of documents and steps",
+   "valueNote": "About the amount: Clears energy debt of £50 to £1,700; open to any supplier's customers",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail free-courses-for-jobs",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £2,000 Could be worth",
+   "cells": [
+    "Time to apply Not listed",
+    "Documents Not listed Check the official page"
+   ],
+   "more": [
+    "Decision Not listed",
+    "Cost Not listed",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Effort not listed yet Based on the number of documents and steps",
+   "valueNote": "About the amount: Courses typically £2,000 to £4,000",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail marriage-allowance",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £252 Could be worth, a year",
+   "cells": [
+    "Time to apply 10 minutes",
+    "Documents 3 needed"
+   ],
+   "more": [
+    "Decision Within 2 months",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Some paperwork: 3 documents, 10 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: Backdatable 4 years: first claim can be worth about £1,000",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail prescription-charges-and-the-prepayment",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £100 Could be worth, a year",
+   "cells": [
+    "Time to apply Not listed",
+    "Documents Not listed Check the official page"
+   ],
+   "more": [
+    "Decision Not listed",
+    "Cost Not listed",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Effort not listed yet Based on the number of documents and steps",
+   "valueNote": "About the amount: £100+/yr saved with a 12-month PPC on 2 items a month",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail community-fibre-essential",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £12.50 per month",
+   "cells": [
+    "Time to apply 15 minutes",
+    "Documents 1 needed"
+   ],
+   "more": [
+    "Decision Install within days",
+    "Cost £12.50 a month",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Quick and simple: 1 document, 15 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: 35 Mbit/s full fibre; no benefit check per the provider; 4th Utility (£13.99) similar in its buildings",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail fuel-bank-vouchers",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £49 per voucher (£89 winter)",
+   "cells": [
+    "Time to apply One appointment",
+    "Documents 1 needed"
+   ],
+   "more": [
+    "Decision Same day",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Quick and simple: 1 document, one appointment Based on the number of documents and steps",
+   "valueNote": "About the amount: About a week of energy; repeatable; referral via food banks, councils, advice agencies",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail water-income-tariffs",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth 25% to 99% off",
+   "cells": [
+    "Time to apply 30 minutes",
+    "Documents 3 needed 1 more may be needed"
+   ],
+   "more": [
+    "Decision 2 to 6 weeks",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "More paperwork: 3 documents, 30 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: Thames WaterHelp (bill over 5% of income), Severn Trent Big Difference (under £22,010), Yorkshire WaterSupport (bill cut to £295/yr), Anglian LITE, Southern Essentials (45-90% off), UU Back on Track; plus £1-for-£1 debt matching",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail tax-refund",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth Actual overpayment",
+   "cells": [
+    "Time to apply 20 minutes",
+    "Documents 3 needed"
+   ],
+   "more": [
+    "Decision 5 days to 8 weeks",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Some paperwork: 3 documents, 20 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: Common for first-job newcomers on emergency codes; claims go back 4 tax years; uniform flat rate £60 to £185/yr",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail student-oyster",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth 30% off season tickets",
+   "cells": [
+    "Time to apply 20 minutes",
+    "Documents 3 needed"
+   ],
+   "more": [
+    "Decision Up to 2 weeks for the card",
+    "Cost £20 admin fee",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Some paperwork: 3 documents, 20 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: £20 fee; international students routinely hold one; Zip cards give under-18s free or half fare",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail trussell-food-banks",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth 3-day parcels",
+   "cells": [
+    "Time to apply One phone call",
+    "Documents None needed 1 more may be needed"
+   ],
+   "more": [
+    "Decision Same day",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Quick and simple: No documents, one phone call Based on the number of documents and steps",
+   "valueNote": "About the amount: No immigration check; community fridges and baby banks need no referral at all",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail nino",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth Free",
+   "cells": [
+    "Time to apply About 15 minutes",
+    "Documents 2 needed"
+   ],
+   "more": [
+    "Decision Up to 4 weeks",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Some paperwork: 2 documents, about 15 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: Builds New Style JSA/ESA and State Pension entitlement; needed for childcare accounts and LISA",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail universal-credit",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth £5,099 Single 25+ standard allowance, per year",
+   "cells": [
+    "Time to apply 1 hour",
+    "Documents 4 needed 2 more may be needed"
+   ],
+   "more": [
+    "Decision First payment about 5 weeks",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "More paperwork: 4 documents, 1 hour Based on the number of documents and steps",
+   "valueNote": "About the amount: £424.90/month single 25+ (2026/27, verified); child element £303.94/child, two-child limit abolished April 2026; childcare 85% to £1,071.09; LCWRA £217.26 for new claims",
+   "standing": "Not open to you now. This is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you."
+  }
+ },
+ {
+  "name": "detail turn2us-grants",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth Non-repayable grants",
+   "cells": [
+    "Time to apply 20 minutes to search, then per-fund applications",
+    "Documents 3 needed"
+   ],
+   "more": [
+    "Decision Varies by fund",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Some paperwork: 3 documents, 20 minutes to search, then per-fund applications Based on the number of documents and steps",
+   "valueNote": "About the amount: Matched by occupation, nationality, location, situation; each fund sets its own rules",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail gp-registration",
+  "ok": true,
+  "detail": {
+   "worth": "Could be worth Free care",
+   "cells": [
+    "Time to apply 15 minutes",
+    "Documents None needed"
+   ],
+   "more": [
+    "Decision Usually same day to 2 weeks",
+    "Cost Free",
+    "Approval rate No published rate yet"
+   ],
+   "effort": "Quick and simple: No documents, 15 minutes Based on the number of documents and steps",
+   "valueNote": "About the amount: Gateway to all NHS services",
+   "standing": null
+  }
+ },
+ {
+  "name": "detail share url",
+  "ok": true
+ },
+ {
+  "name": "claim status Approved saved",
+  "ok": true
+ },
+ {
+  "name": "claim saved message",
+  "ok": true,
+  "detail": "Saved. You can change this at any time."
+ },
+ {
+  "name": "community disclaimer",
+  "ok": true
+ },
+ {
+  "name": "community sample note",
+  "ok": true
+ },
+ {
+  "name": "posts listed = sample posts",
+  "ok": true,
+  "detail": 10
+ },
+ {
+  "name": "reply counts",
+  "ok": true,
+  "detail": [
+   "2 replies",
+   "2 replies",
+   "1 reply",
+   "1 reply",
+   "1 reply",
+   "0",
+   "1 reply",
+   "0",
+   "1 reply",
+   "1 reply"
+  ]
+ },
+ {
+  "name": "ratings list count",
+  "ok": true,
+  "detail": 8
+ },
+ {
+  "name": "council-tax-student rating counts in words",
+  "ok": true,
+  "detail": "Council Tax student exemption (Class N) 7 people rated it (sample). Worth it? 6 of 7 people said it was very much worth it. Very 6 people Somewhat 1 person Not really 0 people How quick? 4 of 7 people said it took an average time. Quick 1 person Average 4 people Slow 2 people How easy? 4 of 7 people said it was easy. Easy 4 people OK 3 people Hard 0 people Rate this scheme"
+ },
+ {
+  "name": "no numeric scores / stars",
+  "ok": true
+ },
+ {
+  "name": "settings sections",
+  "ok": true,
+  "detail": "A\nMy profile\n\nYour account and preferences.\n\nYour details\nName\nAmara\nEdit\nName\nEmail\namara@example.com\nEdit\nEmail\nYour answers\n\nThese decide which benefits Landit shows you. Right now: 80 benefits.\n\nV"
+ },
+ {
+  "name": "no scam quiz",
+  "ok": true
+ },
+ {
+  "name": "settings benefits count sentence",
+  "ok": true
+ },
+ {
+  "name": "read aloud setting off hides read buttons",
+  "ok": true
+ },
+ {
+  "name": "help now lists every England number",
+  "ok": true,
+  "detail": []
+ },
+ {
+  "name": "tel links match data",
+  "ok": true,
+  "detail": {
+   "got": 22,
+   "want": 22
+  }
+ },
+ {
+  "name": "RTL mirrored (sidebar right on desktop / badge on right)",
+  "ok": true,
+  "detail": {
+   "sideLeft": 404.0400085449219,
+   "sideRight": 755.0400390625,
+   "mainLeft": 0,
+   "w": 390,
+   "badgeX": 299,
+   "nameX": 55.28125,
+   "scrollW": 390
+  }
+ },
+ {
+  "name": "delete clears state",
+  "ok": true,
+  "detail": {
+   "user": null,
+   "chat": 0
+  }
+ },
+ {
+  "name": "no console errors",
+  "ok": true,
+  "detail": []
+ }
+]

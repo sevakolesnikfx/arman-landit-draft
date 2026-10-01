@@ -1,0 +1,423 @@
+{
+ "chat": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Good morning, Amara. How can I help?",
+   "H2:Or try one of these"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 1296,
+  "hscroll": false,
+  "disc": [
+   "575px composer-disclaimer"
+  ]
+ },
+ "chat#reply": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54",
+   "a.ccard-name \"16-25 Railcard\" 135x25"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Chat"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h1.sr-only \"Chat\" 77>1"
+  ],
+  "docH": 2616,
+  "hscroll": false,
+  "disc": [
+   "2393px composer-disclaimer"
+  ]
+ },
+ "benefits": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:You may be able to get 79 benefits",
+   "H2:Choose a group"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 3447,
+  "hscroll": false,
+  "disc": [
+   "3079px disclaimer"
+  ]
+ },
+ "benefits#blocked": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54",
+   "a. \"Universal Credit\" 136x23",
+   "a. \"Carer's Allowance\" 149x23",
+   "a. \"Council Tax Reduction\" 188x23",
+   "a. \"Budgeting Advance\" 163x23",
+   "a. \"Cold Weather Payment\" 191x23",
+   "a. \"Help to Save\" 107x23",
+   "a. \"Warm Home Discount\" 182x23",
+   "a. \"WaterSure\" 87x23"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:You may be able to get 79 benefits",
+   "H2:Choose a group",
+   "H3:Public funds (8)",
+   "H3:Need a public fund to qualify (5)"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 5200,
+  "hscroll": false,
+  "disc": [
+   "4832px disclaimer"
+  ]
+ },
+ "benefits/all": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:All benefits"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 31044,
+  "hscroll": false,
+  "disc": [
+   "30676px disclaimer"
+  ]
+ },
+ "benefits/money": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Money"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 2968,
+  "hscroll": false,
+  "disc": [
+   "2600px disclaimer"
+  ]
+ },
+ "benefit/council-tax-student": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Council Tax student exemption (Class N)",
+   "H2:Who can get it",
+   "H2:What you need",
+   "H2:How to apply",
+   "H2:Improve your chances",
+   "H3:Most common mistake",
+   "H2:Where is your application up to?",
+   "H2:What people said",
+   "H2:Sources"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 5990,
+  "hscroll": false,
+  "disc": [
+   "5621px disclaimer"
+  ]
+ },
+ "benefit/universal-credit": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Universal Credit",
+   "H2:Who can get it",
+   "H2:What you need",
+   "H2:How to apply",
+   "H2:Improve your chances",
+   "H3:Most common mistake",
+   "H2:Where is your application up to?",
+   "H2:What people said",
+   "H2:Sources"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 5754,
+  "hscroll": false,
+  "disc": [
+   "5385px disclaimer"
+  ]
+ },
+ "community": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Community",
+   "H2:Council tax as a student",
+   "H2:Hardship fund: write a clear budget",
+   "H2:Railcard with a passport from home",
+   "H2:Registering with a GP with no proof of a",
+   "H2:Help with prescriptions and the dentist",
+   "H2:My first UK bank account",
+   "H2:Emergency tax on my first payslip",
+   "H2:Student Oyster card in London",
+   "H2:One folder for all my letters",
+   "H2:Asking for help with forms"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 5793,
+  "hscroll": false,
+  "disc": [
+   "5424px disclaimer"
+  ]
+ },
+ "community#replies": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Community",
+   "H2:Council tax as a student",
+   "H2:Hardship fund: write a clear budget",
+   "H2:Railcard with a passport from home",
+   "H2:Registering with a GP with no proof of a",
+   "H2:Help with prescriptions and the dentist",
+   "H2:My first UK bank account",
+   "H2:Emergency tax on my first payslip",
+   "H2:Student Oyster card in London",
+   "H2:One folder for all my letters",
+   "H2:Asking for help with forms"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 6270,
+  "hscroll": false,
+  "disc": [
+   "5902px disclaimer"
+  ]
+ },
+ "community/ratings": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Community",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 9456,
+  "hscroll": false,
+  "disc": [
+   "9088px disclaimer"
+  ]
+ },
+ "settings": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:My profile",
+   "H2:Your details",
+   "H2:Your answers",
+   "H2:Colours",
+   "H2:Text size",
+   "H2:Language",
+   "H2:Read aloud",
+   "H2:Help now",
+   "H2:Account",
+   "H2:About"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 4803,
+  "hscroll": false,
+  "disc": [
+   "4460px disclaimer"
+  ]
+ },
+ "settings/help": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Help now",
+   "H2:Emergency, right now",
+   "H2:Police, not an emergency",
+   "H2:Health",
+   "H2:Scams and fraud",
+   "H2:Abuse, violence and exploitation",
+   "H2:Children",
+   "H2:Home and consumer"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 7483,
+  "hscroll": false,
+  "disc": [
+   "7114px disclaimer"
+  ]
+ },
+ "settings/answer/status": {
+  "small": [
+   "a.brand-link \"Landit, Chat\" 43x54"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:What is your visa or immigration status?"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 1858,
+  "hscroll": false,
+  "disc": []
+ },
+ "chat#drawer": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Chat (sr)"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 2605,
+  "hscroll": false,
+  "disc": []
+ },
+ "questions": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:What is your visa or immigration status?"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 1834,
+  "hscroll": false,
+  "disc": []
+ },
+ "ack": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:Before you start"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 844,
+  "hscroll": false,
+  "disc": [
+   "281px ack-text"
+  ]
+ },
+ "login": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:Know what you need.",
+   "H2:Sign in"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h2.sr-only \"Sign in\" 88>1"
+  ],
+  "docH": 1261,
+  "hscroll": false,
+  "disc": [
+   "1033px disclaimer"
+  ]
+ },
+ "register": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:Know what you need.",
+   "H2:Create account"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h2.sr-only \"Create account\" 188>1"
+  ],
+  "docH": 1382,
+  "hscroll": false,
+  "disc": [
+   "1154px disclaimer"
+  ]
+ },
+ "errors": []
+}

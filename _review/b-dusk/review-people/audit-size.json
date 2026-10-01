@@ -1,0 +1,1864 @@
+{
+ "phone:login": {
+  "small": {
+   "p.free-label.only-phone @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   },
+   "label.field-label @15px": {
+    "n": 2,
+    "sample": "Email"
+   },
+   "span @14px": {
+    "n": 2,
+    "sample": "This is a prototype. Any details work, and nothing is sent anywhere."
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": []
+ },
+ "phone:register": {
+  "small": {
+   "p.free-label.only-phone @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   },
+   "label.field-label @15px": {
+    "n": 3,
+    "sample": "Your name"
+   },
+   "span @14px": {
+    "n": 2,
+    "sample": "This is a prototype. Any details work, and nothing is sent anywhere."
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": []
+ },
+ "phone:questions": {
+  "small": {
+   "span @15px": {
+    "n": 1,
+    "sample": "of 7 answered"
+   },
+   "strong.num @15px": {
+    "n": 1,
+    "sample": "0"
+   },
+   "p.q-num @13px": {
+    "n": 7,
+    "sample": "Question 1 of 7"
+   },
+   "button#qskip-status.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-nation.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-work.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-study.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-children.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-housing.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-age.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   }
+  },
+  "targets": []
+ },
+ "phone:ack": {
+  "small": {},
+  "targets": []
+ },
+ "phone:chat": {
+  "small": {
+   "span.cat-label @13px": {
+    "n": 3,
+    "sample": "Council help"
+   },
+   "span.qual @13px": {
+    "n": 3,
+    "sample": "Typical annual saving"
+   },
+   "a.btn.btn-secondary.btn-sm @15px": {
+    "n": 3,
+    "sample": "Open"
+   },
+   "span.track-text @15px": {
+    "n": 3,
+    "sample": "Tracking"
+   },
+   "span @15px": {
+    "n": 4,
+    "sample": "Share"
+   },
+   "button.chip @15px": {
+    "n": 3,
+    "sample": "Which documents do I need?"
+   },
+   "p.composer-note @13px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "a.bcard-name \"British Gas Energy Trust grants\" 242x30",
+   "a.bcard-name \"University hardship fund\" 242x30"
+  ]
+ },
+ "phone:benefits": {
+  "small": {
+   "span @15px": {
+    "n": 8,
+    "sample": "Student visa"
+   },
+   "p.total-sub @14px": {
+    "n": 1,
+    "sample": "Adds up the 8 schemes with a fixed amount. The other 72 have no fixed "
+   },
+   "p.total-rates @13px": {
+    "n": 1,
+    "sample": "2026/27 rates (April 2026)"
+   },
+   "span @14px": {
+    "n": 35,
+    "sample": "Worth the most"
+   },
+   "span.gtile-q @14px": {
+    "n": 3,
+    "sample": "Could be worth"
+   },
+   "bdi @15px": {
+    "n": 3,
+    "sample": "Free Courses for Jobs"
+   },
+   "span.bar-pot @13px": {
+    "n": 4,
+    "sample": "potential"
+   },
+   "span.bar-q @13px": {
+    "n": 4,
+    "sample": "2 schemes: could be worth; typical amount"
+   },
+   "p#bf-count.list-count @15px": {
+    "n": 1,
+    "sample": "80 benefits"
+   },
+   "label.tool-label @14px": {
+    "n": 3,
+    "sample": "Search"
+   },
+   "span.cat-label @13px": {
+    "n": 20,
+    "sample": "Education"
+   },
+   "span.tag @13px": {
+    "n": 1,
+    "sample": "Depends on your situation"
+   },
+   "span.brow-subtext @14px": {
+    "n": 20,
+    "sample": "Free A-level-equivalent qualification from the approved list"
+   },
+   "span.qual @13px": {
+    "n": 8,
+    "sample": "Could be worth"
+   },
+   "span.worth-text @15px": {
+    "n": 12,
+    "sample": "Free"
+   },
+   "p.list-more-text @15px": {
+    "n": 1,
+    "sample": "Showing 20 of 80."
+   },
+   "span.count.num @13px": {
+    "n": 1,
+    "sample": "13"
+   },
+   "span.disclosure-hint @14px": {
+    "n": 1,
+    "sample": "Shown so you know why"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   }
+  },
+  "targets": [
+   "a#row-free-courses-for-jobs.row-link \"Free Courses for Jobs\" 220x21",
+   "a#row-council-tax-student.row-link \"Council Tax student exemption (Class N)\" 220x42",
+   "a#row-bg-energy-trust.row-link \"British Gas Energy Trust grants\" 220x42",
+   "a#row-uni-hardship-fund.row-link \"University hardship fund\" 220x21",
+   "a#row-lisa.row-link \"Lifetime ISA\" 220x21",
+   "a#row-marriage-allowance.row-link \"Marriage Allowance\" 220x21",
+   "a#row-railcard-16-25.row-link \"16-25 Railcard\" 220x21",
+   "a#row-prescription-charges-and-the-prepayment.row-link \"Prescription charges and the prepayment \" 220x42",
+   "a#row-nino.row-link \"National Insurance number\" 220x21",
+   "a#row-gp-registration.row-link \"GP registration\" 220x21",
+   "a#row-nhs-services-that-are-always.row-link \"NHS services that are always free\" 220x42",
+   "a#row-immigration-health-surcharge-entitlement.row-link \"Immigration Health Surcharge entitlement\" 220x42",
+   "a#row-nhs-low-income-scheme.row-link \"NHS Low Income Scheme (HC2/HC3)\" 220x42",
+   "a#row-nhs-dental.row-link \"NHS dental\" 220x21",
+   "a#row-free-vitamins.row-link \"Free vitamins\" 220x21",
+   "a#row-public-libraries.row-link \"Public libraries\" 220x21",
+   "a#row-student-discount-platforms.row-link \"Student discount platforms\" 220x21",
+   "a#row-national-minimum-wage-enforcement.row-link \"National Minimum Wage enforcement\" 220x42",
+   "a#row-holiday-pay.row-link \"Holiday pay\" 220x21",
+   "a#row-tax-refund.row-link \"HMRC tax refunds\" 220x21"
+  ]
+ },
+ "phone:benefit-overview": {
+  "small": {
+   "span @15px": {
+    "n": 7,
+    "sample": "Back to Benefits"
+   },
+   "span.cat-label @13px": {
+    "n": 1,
+    "sample": "Transport"
+   },
+   "span @14px": {
+    "n": 1,
+    "sample": "England, Scotland and Wales"
+   },
+   "p.bp-worth-k @14px": {
+    "n": 1,
+    "sample": "Could be worth"
+   },
+   "p.bp-value-note @14px": {
+    "n": 1,
+    "sample": "£35/year card (2026); mature full-time students over 25 qualify; 26-30"
+   },
+   "span @13px": {
+    "n": 6,
+    "sample": "To apply"
+   },
+   "dd @15px": {
+    "n": 5,
+    "sample": "10 minutes"
+   },
+   "span.fact-extra @13px": {
+    "n": 1,
+    "sample": "Based on the number of documents and steps"
+   },
+   "dd.is-muted @15px": {
+    "n": 1,
+    "sample": "No published rate yet"
+   },
+   "button#tab-overview.tab @15px": {
+    "n": 1,
+    "sample": "Overview"
+   },
+   "button#tab-apply.tab @15px": {
+    "n": 1,
+    "sample": "How to apply"
+   },
+   "button#tab-community.tab @15px": {
+    "n": 1,
+    "sample": "Community"
+   },
+   "p#claim-hint.bp-hint @14px": {
+    "n": 1,
+    "sample": "Choosing one also adds this to Tracked applications."
+   },
+   "p.disclaimer.bp-disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": []
+ },
+ "phone:benefit-apply": {
+  "small": {
+   "span @15px": {
+    "n": 2,
+    "sample": "Back to Benefits"
+   },
+   "span.cat-label @13px": {
+    "n": 1,
+    "sample": "Transport"
+   },
+   "span @14px": {
+    "n": 1,
+    "sample": "England, Scotland and Wales"
+   },
+   "p.bp-worth-k @14px": {
+    "n": 1,
+    "sample": "Could be worth"
+   },
+   "p.bp-value-note @14px": {
+    "n": 1,
+    "sample": "£35/year card (2026); mature full-time students over 25 qualify; 26-30"
+   },
+   "span @13px": {
+    "n": 6,
+    "sample": "To apply"
+   },
+   "dd @15px": {
+    "n": 5,
+    "sample": "10 minutes"
+   },
+   "span.fact-extra @13px": {
+    "n": 1,
+    "sample": "Based on the number of documents and steps"
+   },
+   "dd.is-muted @15px": {
+    "n": 1,
+    "sample": "No published rate yet"
+   },
+   "button#tab-overview.tab @15px": {
+    "n": 1,
+    "sample": "Overview"
+   },
+   "button#tab-apply.tab @15px": {
+    "n": 1,
+    "sample": "How to apply"
+   },
+   "button#tab-community.tab @15px": {
+    "n": 1,
+    "sample": "Community"
+   },
+   "p.group-h @13px": {
+    "n": 1,
+    "sample": "What you need"
+   },
+   "p.bp-hint @14px": {
+    "n": 2,
+    "sample": "Track this to keep the checklist in your sidebar."
+   },
+   "span#steps-count.num @14px": {
+    "n": 1,
+    "sample": "0 of 4 steps done"
+   },
+   "p.disclaimer.bp-disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": []
+ },
+ "phone:benefit-community": {
+  "small": {
+   "span @15px": {
+    "n": 3,
+    "sample": "Back to Benefits"
+   },
+   "span.cat-label @13px": {
+    "n": 1,
+    "sample": "Transport"
+   },
+   "span @14px": {
+    "n": 1,
+    "sample": "England, Scotland and Wales"
+   },
+   "p.bp-worth-k @14px": {
+    "n": 1,
+    "sample": "Could be worth"
+   },
+   "p.bp-value-note @14px": {
+    "n": 1,
+    "sample": "£35/year card (2026); mature full-time students over 25 qualify; 26-30"
+   },
+   "span @13px": {
+    "n": 6,
+    "sample": "To apply"
+   },
+   "dd @15px": {
+    "n": 5,
+    "sample": "10 minutes"
+   },
+   "span.fact-extra @13px": {
+    "n": 1,
+    "sample": "Based on the number of documents and steps"
+   },
+   "dd.is-muted @15px": {
+    "n": 1,
+    "sample": "No published rate yet"
+   },
+   "button#tab-overview.tab @15px": {
+    "n": 1,
+    "sample": "Overview"
+   },
+   "button#tab-apply.tab @15px": {
+    "n": 1,
+    "sample": "How to apply"
+   },
+   "button#tab-community.tab @15px": {
+    "n": 1,
+    "sample": "Community"
+   },
+   "p.rt-lead @15px": {
+    "n": 1,
+    "sample": "8 of 9 people said it was easy."
+   },
+   "span.tag @13px": {
+    "n": 2,
+    "sample": "Sample"
+   },
+   "span.rt-label @14px": {
+    "n": 3,
+    "sample": "Worth it?"
+   },
+   "span.mini-post-author @14px": {
+    "n": 1,
+    "sample": "Daniel"
+   },
+   "p.mini-post-body @15px": {
+    "n": 1,
+    "sample": "I thought I needed a UK ID for the railcard. You do not. I used my own"
+   },
+   "p.bp-hint @14px": {
+    "n": 1,
+    "sample": "These are example posts, written to show how this page could work."
+   },
+   "p.disclaimer.bp-disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": []
+ },
+ "phone:community": {
+  "small": {
+   "span.tag.tag-strong @13px": {
+    "n": 1,
+    "sample": "Sample posts"
+   },
+   "span @15px": {
+    "n": 13,
+    "sample": "These are example posts, written to show how this page could work."
+   },
+   "label.field-label @15px": {
+    "n": 1,
+    "sample": "What happened? What helped?"
+   },
+   "label.tool-label @14px": {
+    "n": 2,
+    "sample": "About a benefit (optional)"
+   },
+   "span @14px": {
+    "n": 2,
+    "sample": "Please do not share your address, phone number or any case reference n"
+   },
+   "span.post-when @14px": {
+    "n": 10,
+    "sample": "2 days ago"
+   },
+   "span.tag @13px": {
+    "n": 10,
+    "sample": "Example post"
+   },
+   "bdi @15px": {
+    "n": 8,
+    "sample": "Council Tax student exemption (Class N)"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   }
+  },
+  "targets": []
+ },
+ "phone:community-ratings": {
+  "small": {
+   "span.tag.tag-strong @13px": {
+    "n": 1,
+    "sample": "Sample posts"
+   },
+   "span @15px": {
+    "n": 11,
+    "sample": "These are example posts, written to show how this page could work."
+   },
+   "p.rt-lead @15px": {
+    "n": 8,
+    "sample": "5 of 10 people said it was easy."
+   },
+   "span.tag @13px": {
+    "n": 8,
+    "sample": "Sample"
+   },
+   "span.rt-label @14px": {
+    "n": 24,
+    "sample": "Worth it?"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   },
+   "span @14px": {
+    "n": 1,
+    "sample": "2026/27 rates (April 2026)"
+   }
+  },
+  "targets": []
+ },
+ "phone:settings": {
+  "small": {
+   "span @15px": {
+    "n": 12,
+    "sample": "Edit"
+   },
+   "p.drow-label @14px": {
+    "n": 7,
+    "sample": "Visa or status"
+   },
+   "strong.num @15px": {
+    "n": 1,
+    "sample": "80"
+   },
+   "a.st-result-link @15px": {
+    "n": 1,
+    "sample": "See Benefits"
+   },
+   "span.theme-kind @13px": {
+    "n": 4,
+    "sample": "Dark"
+   },
+   "span.disclosure-text @15px": {
+    "n": 7,
+    "sample": "Emergency, right now"
+   },
+   "p.safety-label @15px": {
+    "n": 4,
+    "sample": "Police, fire, ambulance, coastguard"
+   },
+   "p.safety-note @15px": {
+    "n": 4,
+    "sample": "Free, 24/7, any phone. 112 works exactly the same. Location is passed "
+   },
+   "span.safety-num.plain @15px": {
+    "n": 1,
+    "sample": "Say \"Help\" then your language"
+   },
+   "a.safety-link @14px": {
+    "n": 1,
+    "sample": "999bsl.co.uk"
+   },
+   "p.safety-foot @14px": {
+    "n": 1,
+    "sample": "Helplines like Victim Support, Rape Crisis and the domestic abuse line"
+   },
+   "span.free-label @14px": {
+    "n": 2,
+    "sample": "Free for first users"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span @14px": {
+    "n": 1,
+    "sample": "2026/27 rates (April 2026)"
+   }
+  },
+  "targets": [
+   "button#ra-switch.switch \"\" 56x32"
+  ]
+ },
+ "phone:sidebar": {
+  "small": {
+   "span @14px": {
+    "n": 1,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 2,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 2,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "p.trk-group-h @13px": {
+    "n": 1,
+    "sample": "What you need"
+   },
+   "span @15px": {
+    "n": 8,
+    "sample": "3 months of bank statements"
+   },
+   "a.trk-link @15px": {
+    "n": 1,
+    "sample": "Open details"
+   },
+   "span.cat-label @13px": {
+    "n": 3,
+    "sample": "Council help"
+   },
+   "span.qual @13px": {
+    "n": 3,
+    "sample": "Typical annual saving"
+   },
+   "a.btn.btn-secondary.btn-sm @15px": {
+    "n": 3,
+    "sample": "Open"
+   },
+   "span.track-text @15px": {
+    "n": 3,
+    "sample": "Tracking"
+   },
+   "button.chip @15px": {
+    "n": 3,
+    "sample": "Which documents do I need?"
+   },
+   "p.composer-note @13px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "a.bcard-name \"British Gas Energy Trust grants\" 242x30",
+   "a.bcard-name \"University hardship fund\" 242x30"
+  ]
+ },
+ "phone:avatar-menu": {
+  "small": {
+   "span.menu-user-mail @14px": {
+    "n": 1,
+    "sample": "amara@example.com"
+   },
+   "span.menu-extra @14px": {
+    "n": 3,
+    "sample": "English (UK)"
+   },
+   "span.cat-label @13px": {
+    "n": 3,
+    "sample": "Council help"
+   },
+   "span.qual @13px": {
+    "n": 3,
+    "sample": "Typical annual saving"
+   },
+   "a.btn.btn-secondary.btn-sm @15px": {
+    "n": 3,
+    "sample": "Open"
+   },
+   "span.track-text @15px": {
+    "n": 3,
+    "sample": "Tracking"
+   },
+   "span @15px": {
+    "n": 4,
+    "sample": "Share"
+   },
+   "button.chip @15px": {
+    "n": 3,
+    "sample": "Which documents do I need?"
+   },
+   "p.composer-note @13px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "a.bcard-name \"British Gas Energy Trust grants\" 242x30",
+   "a.bcard-name \"University hardship fund\" 242x30"
+  ]
+ },
+ "phone:help-dialog": {
+  "small": {
+   "span.disclosure-text @15px": {
+    "n": 7,
+    "sample": "Emergency, right now"
+   },
+   "p.safety-label @15px": {
+    "n": 4,
+    "sample": "Police, fire, ambulance, coastguard"
+   },
+   "p.safety-note @15px": {
+    "n": 4,
+    "sample": "Free, 24/7, any phone. 112 works exactly the same. Location is passed "
+   },
+   "span.safety-num.plain @15px": {
+    "n": 1,
+    "sample": "Say \"Help\" then your language"
+   },
+   "a.safety-link @14px": {
+    "n": 1,
+    "sample": "999bsl.co.uk"
+   },
+   "p.safety-foot @14px": {
+    "n": 1,
+    "sample": "Helplines like Victim Support, Rape Crisis and the domestic abuse line"
+   }
+  },
+  "targets": []
+ },
+ "desktop:login": {
+  "small": {
+   "label.field-label @15px": {
+    "n": 2,
+    "sample": "Email"
+   },
+   "span @14px": {
+    "n": 2,
+    "sample": "This is a prototype. Any details work, and nothing is sent anywhere."
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "p.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   }
+  },
+  "targets": []
+ },
+ "desktop:register": {
+  "small": {
+   "label.field-label @15px": {
+    "n": 3,
+    "sample": "Your name"
+   },
+   "span @14px": {
+    "n": 2,
+    "sample": "This is a prototype. Any details work, and nothing is sent anywhere."
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "p.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   }
+  },
+  "targets": []
+ },
+ "desktop:questions": {
+  "small": {
+   "span @15px": {
+    "n": 1,
+    "sample": "of 7 answered"
+   },
+   "strong.num @15px": {
+    "n": 1,
+    "sample": "0"
+   },
+   "p.q-num @13px": {
+    "n": 7,
+    "sample": "Question 1 of 7"
+   },
+   "button#qskip-status.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-nation.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-work.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-study.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-children.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-housing.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   },
+   "button#qskip-age.pill-btn @15px": {
+    "n": 1,
+    "sample": "Skip"
+   }
+  },
+  "targets": []
+ },
+ "desktop:ack": {
+  "small": {},
+  "targets": []
+ },
+ "desktop:chat": {
+  "small": {
+   "span @14px": {
+    "n": 1,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 2,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 2,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "span.cat-label @13px": {
+    "n": 3,
+    "sample": "Council help"
+   },
+   "span.qual @13px": {
+    "n": 3,
+    "sample": "Typical annual saving"
+   },
+   "a.btn.btn-secondary.btn-sm @15px": {
+    "n": 3,
+    "sample": "Open"
+   },
+   "span.track-text @15px": {
+    "n": 3,
+    "sample": "Tracking"
+   },
+   "span @15px": {
+    "n": 4,
+    "sample": "Share"
+   },
+   "button.chip @15px": {
+    "n": 3,
+    "sample": "Which documents do I need?"
+   },
+   "p.composer-note @13px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "a.bcard-name \"Council Tax student exemption (Class N)\" 453x30",
+   "a.bcard-name \"British Gas Energy Trust grants\" 493x30",
+   "a.bcard-name \"University hardship fund\" 487x30"
+  ]
+ },
+ "desktop:benefits": {
+  "small": {
+   "span @14px": {
+    "n": 6,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 5,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 2,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "span @15px": {
+    "n": 59,
+    "sample": "Student visa"
+   },
+   "p.total-sub @14px": {
+    "n": 1,
+    "sample": "Adds up the 8 schemes with a fixed amount. The other 72 have no fixed "
+   },
+   "p.total-rates @13px": {
+    "n": 1,
+    "sample": "2026/27 rates (April 2026)"
+   },
+   "span.gtile-q @14px": {
+    "n": 3,
+    "sample": "Could be worth"
+   },
+   "span.bar-pot @13px": {
+    "n": 6,
+    "sample": "potential"
+   },
+   "span.bar-q @13px": {
+    "n": 6,
+    "sample": "2 schemes: could be worth; typical amount"
+   },
+   "p#bf-count.list-count @15px": {
+    "n": 1,
+    "sample": "80 benefits"
+   },
+   "label.tool-label @14px": {
+    "n": 3,
+    "sample": "Search"
+   },
+   "span.cat-label @13px": {
+    "n": 20,
+    "sample": "Education"
+   },
+   "span.tag @13px": {
+    "n": 1,
+    "sample": "Depends on your situation"
+   },
+   "span.brow-subtext @14px": {
+    "n": 20,
+    "sample": "Free A-level-equivalent qualification from the approved list"
+   },
+   "span.qual @13px": {
+    "n": 8,
+    "sample": "Could be worth"
+   },
+   "span.cell-muted @15px": {
+    "n": 10,
+    "sample": "Not listed"
+   },
+   "span.worth-text @15px": {
+    "n": 12,
+    "sample": "Free"
+   },
+   "p.list-more-text @15px": {
+    "n": 1,
+    "sample": "Showing 20 of 80."
+   },
+   "span.count.num @13px": {
+    "n": 1,
+    "sample": "13"
+   },
+   "span.disclosure-hint @14px": {
+    "n": 1,
+    "sample": "Shown so you know why"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   }
+  },
+  "targets": [
+   "a#row-free-courses-for-jobs.row-link \"Free Courses for Jobs\" 266x21",
+   "a#row-council-tax-student.row-link \"Council Tax student exemption (Class N)\" 266x42",
+   "a#row-bg-energy-trust.row-link \"British Gas Energy Trust grants\" 266x21",
+   "a#row-uni-hardship-fund.row-link \"University hardship fund\" 266x21",
+   "a#row-lisa.row-link \"Lifetime ISA\" 266x21",
+   "a#row-marriage-allowance.row-link \"Marriage Allowance\" 266x21",
+   "a#row-railcard-16-25.row-link \"16-25 Railcard\" 266x21",
+   "a#row-prescription-charges-and-the-prepayment.row-link \"Prescription charges and the prepayment \" 266x42",
+   "a#row-nino.row-link \"National Insurance number\" 266x21",
+   "a#row-gp-registration.row-link \"GP registration\" 266x21",
+   "a#row-nhs-services-that-are-always.row-link \"NHS services that are always free\" 266x21",
+   "a#row-immigration-health-surcharge-entitlement.row-link \"Immigration Health Surcharge entitlement\" 266x42",
+   "a#row-nhs-low-income-scheme.row-link \"NHS Low Income Scheme (HC2/HC3)\" 266x42",
+   "a#row-nhs-dental.row-link \"NHS dental\" 266x21",
+   "a#row-free-vitamins.row-link \"Free vitamins\" 266x21",
+   "a#row-public-libraries.row-link \"Public libraries\" 266x21",
+   "a#row-student-discount-platforms.row-link \"Student discount platforms\" 266x21",
+   "a#row-national-minimum-wage-enforcement.row-link \"National Minimum Wage enforcement\" 266x42",
+   "a#row-holiday-pay.row-link \"Holiday pay\" 266x21",
+   "a#row-tax-refund.row-link \"HMRC tax refunds\" 266x21"
+  ]
+ },
+ "desktop:benefit-overview": {
+  "small": {
+   "span @14px": {
+    "n": 37,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 5,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 8,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "span @15px": {
+    "n": 14,
+    "sample": "Student visa"
+   },
+   "p.total-sub @14px": {
+    "n": 1,
+    "sample": "Adds up the 8 schemes with a fixed amount. The other 72 have no fixed "
+   },
+   "p.total-rates @13px": {
+    "n": 1,
+    "sample": "2026/27 rates (April 2026)"
+   },
+   "span.gtile-q @14px": {
+    "n": 3,
+    "sample": "Could be worth"
+   },
+   "span.bar-pot @13px": {
+    "n": 4,
+    "sample": "potential"
+   },
+   "span.bar-q @13px": {
+    "n": 4,
+    "sample": "2 schemes: could be worth; typical amount"
+   },
+   "p#bf-count.list-count @15px": {
+    "n": 1,
+    "sample": "80 benefits"
+   },
+   "label.tool-label @14px": {
+    "n": 3,
+    "sample": "Search"
+   },
+   "span.cat-label @13px": {
+    "n": 21,
+    "sample": "Education"
+   },
+   "span.tag @13px": {
+    "n": 1,
+    "sample": "Depends on your situation"
+   },
+   "span.brow-subtext @14px": {
+    "n": 20,
+    "sample": "Free A-level-equivalent qualification from the approved list"
+   },
+   "span.qual @13px": {
+    "n": 8,
+    "sample": "Could be worth"
+   },
+   "span.worth-text @15px": {
+    "n": 12,
+    "sample": "Free"
+   },
+   "p.list-more-text @15px": {
+    "n": 1,
+    "sample": "Showing 20 of 80."
+   },
+   "span.count.num @13px": {
+    "n": 1,
+    "sample": "13"
+   },
+   "span.disclosure-hint @14px": {
+    "n": 1,
+    "sample": "Shown so you know why"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   },
+   "p.bp-worth-k @14px": {
+    "n": 1,
+    "sample": "Could be worth"
+   },
+   "p.bp-value-note @14px": {
+    "n": 1,
+    "sample": "£35/year card (2026); mature full-time students over 25 qualify; 26-30"
+   },
+   "dd @15px": {
+    "n": 5,
+    "sample": "10 minutes"
+   },
+   "span.fact-extra @13px": {
+    "n": 1,
+    "sample": "Based on the number of documents and steps"
+   },
+   "dd.is-muted @15px": {
+    "n": 1,
+    "sample": "No published rate yet"
+   },
+   "button#tab-overview.tab @15px": {
+    "n": 1,
+    "sample": "Overview"
+   },
+   "button#tab-apply.tab @15px": {
+    "n": 1,
+    "sample": "How to apply"
+   },
+   "button#tab-community.tab @15px": {
+    "n": 1,
+    "sample": "Community"
+   },
+   "p#claim-hint.bp-hint @14px": {
+    "n": 1,
+    "sample": "Choosing one also adds this to Tracked applications."
+   },
+   "p.disclaimer.bp-disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "a#row-free-courses-for-jobs.row-link \"Free Courses for Jobs\" 328x21",
+   "a#row-council-tax-student.row-link \"Council Tax student exemption (Class N)\" 295x42",
+   "a#row-bg-energy-trust.row-link \"British Gas Energy Trust grants\" 335x21",
+   "a#row-uni-hardship-fund.row-link \"University hardship fund\" 329x21",
+   "a#row-lisa.row-link \"Lifetime ISA\" 305x21",
+   "a#row-marriage-allowance.row-link \"Marriage Allowance\" 287x21",
+   "a#row-railcard-16-25.row-link \"16-25 Railcard\" 292x21",
+   "a#row-prescription-charges-and-the-prepayment.row-link \"Prescription charges and the prepayment \" 287x42",
+   "a#row-nino.row-link \"National Insurance number\" 388x21",
+   "a#row-gp-registration.row-link \"GP registration\" 355x21",
+   "a#row-nhs-services-that-are-always.row-link \"NHS services that are always free\" 317x21",
+   "a#row-immigration-health-surcharge-entitlement.row-link \"Immigration Health Surcharge entitlement\" 317x21",
+   "a#row-nhs-low-income-scheme.row-link \"NHS Low Income Scheme (HC2/HC3)\" 273x42",
+   "a#row-nhs-dental.row-link \"NHS dental\" 317x21",
+   "a#row-free-vitamins.row-link \"Free vitamins\" 317x21",
+   "a#row-public-libraries.row-link \"Public libraries\" 317x21",
+   "a#row-student-discount-platforms.row-link \"Student discount platforms\" 317x21",
+   "a#row-national-minimum-wage-enforcement.row-link \"National Minimum Wage enforcement\" 317x21",
+   "a#row-holiday-pay.row-link \"Holiday pay\" 317x21",
+   "a#row-tax-refund.row-link \"HMRC tax refunds\" 280x21"
+  ]
+ },
+ "desktop:benefit-apply": {
+  "small": {
+   "span @14px": {
+    "n": 37,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 5,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 8,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "span @15px": {
+    "n": 9,
+    "sample": "Student visa"
+   },
+   "p.total-sub @14px": {
+    "n": 1,
+    "sample": "Adds up the 8 schemes with a fixed amount. The other 72 have no fixed "
+   },
+   "p.total-rates @13px": {
+    "n": 1,
+    "sample": "2026/27 rates (April 2026)"
+   },
+   "span.gtile-q @14px": {
+    "n": 3,
+    "sample": "Could be worth"
+   },
+   "span.bar-pot @13px": {
+    "n": 4,
+    "sample": "potential"
+   },
+   "span.bar-q @13px": {
+    "n": 4,
+    "sample": "2 schemes: could be worth; typical amount"
+   },
+   "p#bf-count.list-count @15px": {
+    "n": 1,
+    "sample": "80 benefits"
+   },
+   "label.tool-label @14px": {
+    "n": 3,
+    "sample": "Search"
+   },
+   "span.cat-label @13px": {
+    "n": 21,
+    "sample": "Education"
+   },
+   "span.tag @13px": {
+    "n": 1,
+    "sample": "Depends on your situation"
+   },
+   "span.brow-subtext @14px": {
+    "n": 20,
+    "sample": "Free A-level-equivalent qualification from the approved list"
+   },
+   "span.qual @13px": {
+    "n": 8,
+    "sample": "Could be worth"
+   },
+   "span.worth-text @15px": {
+    "n": 12,
+    "sample": "Free"
+   },
+   "p.list-more-text @15px": {
+    "n": 1,
+    "sample": "Showing 20 of 80."
+   },
+   "span.count.num @13px": {
+    "n": 1,
+    "sample": "13"
+   },
+   "span.disclosure-hint @14px": {
+    "n": 1,
+    "sample": "Shown so you know why"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   },
+   "p.bp-worth-k @14px": {
+    "n": 1,
+    "sample": "Could be worth"
+   },
+   "p.bp-value-note @14px": {
+    "n": 1,
+    "sample": "£35/year card (2026); mature full-time students over 25 qualify; 26-30"
+   },
+   "dd @15px": {
+    "n": 5,
+    "sample": "10 minutes"
+   },
+   "span.fact-extra @13px": {
+    "n": 1,
+    "sample": "Based on the number of documents and steps"
+   },
+   "dd.is-muted @15px": {
+    "n": 1,
+    "sample": "No published rate yet"
+   },
+   "button#tab-overview.tab @15px": {
+    "n": 1,
+    "sample": "Overview"
+   },
+   "button#tab-apply.tab @15px": {
+    "n": 1,
+    "sample": "How to apply"
+   },
+   "button#tab-community.tab @15px": {
+    "n": 1,
+    "sample": "Community"
+   },
+   "p.group-h @13px": {
+    "n": 1,
+    "sample": "What you need"
+   },
+   "p.bp-hint @14px": {
+    "n": 2,
+    "sample": "Track this to keep the checklist in your sidebar."
+   },
+   "span#steps-count.num @14px": {
+    "n": 1,
+    "sample": "0 of 4 steps done"
+   },
+   "p.disclaimer.bp-disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "a#row-free-courses-for-jobs.row-link \"Free Courses for Jobs\" 328x21",
+   "a#row-council-tax-student.row-link \"Council Tax student exemption (Class N)\" 295x42",
+   "a#row-bg-energy-trust.row-link \"British Gas Energy Trust grants\" 335x21",
+   "a#row-uni-hardship-fund.row-link \"University hardship fund\" 329x21",
+   "a#row-lisa.row-link \"Lifetime ISA\" 305x21",
+   "a#row-marriage-allowance.row-link \"Marriage Allowance\" 287x21",
+   "a#row-railcard-16-25.row-link \"16-25 Railcard\" 292x21",
+   "a#row-prescription-charges-and-the-prepayment.row-link \"Prescription charges and the prepayment \" 287x42",
+   "a#row-nino.row-link \"National Insurance number\" 388x21",
+   "a#row-gp-registration.row-link \"GP registration\" 355x21",
+   "a#row-nhs-services-that-are-always.row-link \"NHS services that are always free\" 317x21",
+   "a#row-immigration-health-surcharge-entitlement.row-link \"Immigration Health Surcharge entitlement\" 317x21",
+   "a#row-nhs-low-income-scheme.row-link \"NHS Low Income Scheme (HC2/HC3)\" 273x42",
+   "a#row-nhs-dental.row-link \"NHS dental\" 317x21",
+   "a#row-free-vitamins.row-link \"Free vitamins\" 317x21",
+   "a#row-public-libraries.row-link \"Public libraries\" 317x21",
+   "a#row-student-discount-platforms.row-link \"Student discount platforms\" 317x21",
+   "a#row-national-minimum-wage-enforcement.row-link \"National Minimum Wage enforcement\" 317x21",
+   "a#row-holiday-pay.row-link \"Holiday pay\" 317x21",
+   "a#row-tax-refund.row-link \"HMRC tax refunds\" 280x21"
+  ]
+ },
+ "desktop:benefit-community": {
+  "small": {
+   "span @14px": {
+    "n": 37,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 5,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 8,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "span @15px": {
+    "n": 10,
+    "sample": "Student visa"
+   },
+   "p.total-sub @14px": {
+    "n": 1,
+    "sample": "Adds up the 8 schemes with a fixed amount. The other 72 have no fixed "
+   },
+   "p.total-rates @13px": {
+    "n": 1,
+    "sample": "2026/27 rates (April 2026)"
+   },
+   "span.gtile-q @14px": {
+    "n": 3,
+    "sample": "Could be worth"
+   },
+   "span.bar-pot @13px": {
+    "n": 4,
+    "sample": "potential"
+   },
+   "span.bar-q @13px": {
+    "n": 4,
+    "sample": "2 schemes: could be worth; typical amount"
+   },
+   "p#bf-count.list-count @15px": {
+    "n": 1,
+    "sample": "80 benefits"
+   },
+   "label.tool-label @14px": {
+    "n": 3,
+    "sample": "Search"
+   },
+   "span.cat-label @13px": {
+    "n": 21,
+    "sample": "Education"
+   },
+   "span.tag @13px": {
+    "n": 3,
+    "sample": "Depends on your situation"
+   },
+   "span.brow-subtext @14px": {
+    "n": 20,
+    "sample": "Free A-level-equivalent qualification from the approved list"
+   },
+   "span.qual @13px": {
+    "n": 8,
+    "sample": "Could be worth"
+   },
+   "span.worth-text @15px": {
+    "n": 12,
+    "sample": "Free"
+   },
+   "p.list-more-text @15px": {
+    "n": 1,
+    "sample": "Showing 20 of 80."
+   },
+   "span.count.num @13px": {
+    "n": 1,
+    "sample": "13"
+   },
+   "span.disclosure-hint @14px": {
+    "n": 1,
+    "sample": "Shown so you know why"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   },
+   "p.bp-worth-k @14px": {
+    "n": 1,
+    "sample": "Could be worth"
+   },
+   "p.bp-value-note @14px": {
+    "n": 1,
+    "sample": "£35/year card (2026); mature full-time students over 25 qualify; 26-30"
+   },
+   "dd @15px": {
+    "n": 5,
+    "sample": "10 minutes"
+   },
+   "span.fact-extra @13px": {
+    "n": 1,
+    "sample": "Based on the number of documents and steps"
+   },
+   "dd.is-muted @15px": {
+    "n": 1,
+    "sample": "No published rate yet"
+   },
+   "button#tab-overview.tab @15px": {
+    "n": 1,
+    "sample": "Overview"
+   },
+   "button#tab-apply.tab @15px": {
+    "n": 1,
+    "sample": "How to apply"
+   },
+   "button#tab-community.tab @15px": {
+    "n": 1,
+    "sample": "Community"
+   },
+   "p.rt-lead @15px": {
+    "n": 1,
+    "sample": "8 of 9 people said it was easy."
+   },
+   "span.rt-label @14px": {
+    "n": 3,
+    "sample": "Worth it?"
+   },
+   "span.mini-post-author @14px": {
+    "n": 1,
+    "sample": "Daniel"
+   },
+   "p.mini-post-body @15px": {
+    "n": 1,
+    "sample": "I thought I needed a UK ID for the railcard. You do not. I used my own"
+   },
+   "p.bp-hint @14px": {
+    "n": 1,
+    "sample": "These are example posts, written to show how this page could work."
+   },
+   "p.disclaimer.bp-disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "a#row-free-courses-for-jobs.row-link \"Free Courses for Jobs\" 328x21",
+   "a#row-council-tax-student.row-link \"Council Tax student exemption (Class N)\" 295x42",
+   "a#row-bg-energy-trust.row-link \"British Gas Energy Trust grants\" 335x21",
+   "a#row-uni-hardship-fund.row-link \"University hardship fund\" 329x21",
+   "a#row-lisa.row-link \"Lifetime ISA\" 305x21",
+   "a#row-marriage-allowance.row-link \"Marriage Allowance\" 287x21",
+   "a#row-railcard-16-25.row-link \"16-25 Railcard\" 292x21",
+   "a#row-prescription-charges-and-the-prepayment.row-link \"Prescription charges and the prepayment \" 287x42",
+   "a#row-nino.row-link \"National Insurance number\" 388x21",
+   "a#row-gp-registration.row-link \"GP registration\" 355x21",
+   "a#row-nhs-services-that-are-always.row-link \"NHS services that are always free\" 317x21",
+   "a#row-immigration-health-surcharge-entitlement.row-link \"Immigration Health Surcharge entitlement\" 317x21",
+   "a#row-nhs-low-income-scheme.row-link \"NHS Low Income Scheme (HC2/HC3)\" 273x42",
+   "a#row-nhs-dental.row-link \"NHS dental\" 317x21",
+   "a#row-free-vitamins.row-link \"Free vitamins\" 317x21",
+   "a#row-public-libraries.row-link \"Public libraries\" 317x21",
+   "a#row-student-discount-platforms.row-link \"Student discount platforms\" 317x21",
+   "a#row-national-minimum-wage-enforcement.row-link \"National Minimum Wage enforcement\" 317x21",
+   "a#row-holiday-pay.row-link \"Holiday pay\" 317x21",
+   "a#row-tax-refund.row-link \"HMRC tax refunds\" 280x21"
+  ]
+ },
+ "desktop:community": {
+  "small": {
+   "span @14px": {
+    "n": 3,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 10,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 2,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "span.tag.tag-strong @13px": {
+    "n": 1,
+    "sample": "Sample posts"
+   },
+   "span @15px": {
+    "n": 19,
+    "sample": "These are example posts, written to show how this page could work."
+   },
+   "label.field-label @15px": {
+    "n": 1,
+    "sample": "What happened? What helped?"
+   },
+   "label.tool-label @14px": {
+    "n": 2,
+    "sample": "About a benefit (optional)"
+   },
+   "span.post-when @14px": {
+    "n": 10,
+    "sample": "2 days ago"
+   },
+   "span.tag @13px": {
+    "n": 18,
+    "sample": "Example post"
+   },
+   "p.rt-lead @15px": {
+    "n": 8,
+    "sample": "5 of 10 people said it was easy."
+   },
+   "span.rt-label @14px": {
+    "n": 24,
+    "sample": "Worth it?"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   }
+  },
+  "targets": []
+ },
+ "desktop:community-ratings": {
+  "small": {
+   "span @14px": {
+    "n": 3,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 10,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 2,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "span.tag.tag-strong @13px": {
+    "n": 1,
+    "sample": "Sample posts"
+   },
+   "span @15px": {
+    "n": 19,
+    "sample": "These are example posts, written to show how this page could work."
+   },
+   "label.field-label @15px": {
+    "n": 1,
+    "sample": "What happened? What helped?"
+   },
+   "label.tool-label @14px": {
+    "n": 2,
+    "sample": "About a benefit (optional)"
+   },
+   "span.post-when @14px": {
+    "n": 10,
+    "sample": "2 days ago"
+   },
+   "span.tag @13px": {
+    "n": 18,
+    "sample": "Example post"
+   },
+   "p.rt-lead @15px": {
+    "n": 8,
+    "sample": "5 of 10 people said it was easy."
+   },
+   "span.rt-label @14px": {
+    "n": 24,
+    "sample": "Worth it?"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   "span.free-label @14px": {
+    "n": 1,
+    "sample": "Free for first users"
+   }
+  },
+  "targets": []
+ },
+ "desktop:settings": {
+  "small": {
+   "span @14px": {
+    "n": 2,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 2,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 2,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "span @15px": {
+    "n": 12,
+    "sample": "Edit"
+   },
+   "p.drow-label @14px": {
+    "n": 7,
+    "sample": "Visa or status"
+   },
+   "strong.num @15px": {
+    "n": 1,
+    "sample": "80"
+   },
+   "a.st-result-link @15px": {
+    "n": 1,
+    "sample": "See Benefits"
+   },
+   "span.theme-kind @13px": {
+    "n": 4,
+    "sample": "Dark"
+   },
+   "span.disclosure-text @15px": {
+    "n": 7,
+    "sample": "Emergency, right now"
+   },
+   "p.safety-label @15px": {
+    "n": 4,
+    "sample": "Police, fire, ambulance, coastguard"
+   },
+   "p.safety-note @15px": {
+    "n": 4,
+    "sample": "Free, 24/7, any phone. 112 works exactly the same. Location is passed "
+   },
+   "span.safety-num.plain @15px": {
+    "n": 1,
+    "sample": "Say \"Help\" then your language"
+   },
+   "a.safety-link @14px": {
+    "n": 1,
+    "sample": "999bsl.co.uk"
+   },
+   "p.safety-foot @14px": {
+    "n": 1,
+    "sample": "Helplines like Victim Support, Rape Crisis and the domestic abuse line"
+   },
+   "span.free-label @14px": {
+    "n": 2,
+    "sample": "Free for first users"
+   },
+   "p.disclaimer @14px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "button#ra-switch.switch \"\" 56x32"
+  ]
+ },
+ "desktop:sidebar": {
+  "small": {
+   "span @14px": {
+    "n": 1,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 2,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 2,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "p.trk-group-h @13px": {
+    "n": 1,
+    "sample": "What you need"
+   },
+   "span @15px": {
+    "n": 8,
+    "sample": "3 months of bank statements"
+   },
+   "a.trk-link @15px": {
+    "n": 1,
+    "sample": "Open details"
+   },
+   "span.cat-label @13px": {
+    "n": 3,
+    "sample": "Council help"
+   },
+   "span.qual @13px": {
+    "n": 3,
+    "sample": "Typical annual saving"
+   },
+   "a.btn.btn-secondary.btn-sm @15px": {
+    "n": 3,
+    "sample": "Open"
+   },
+   "span.track-text @15px": {
+    "n": 3,
+    "sample": "Tracking"
+   },
+   "button.chip @15px": {
+    "n": 3,
+    "sample": "Which documents do I need?"
+   },
+   "p.composer-note @13px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "a.bcard-name \"Council Tax student exemption (Class N)\" 453x30",
+   "a.bcard-name \"British Gas Energy Trust grants\" 493x30",
+   "a.bcard-name \"University hardship fund\" 487x30"
+  ]
+ },
+ "desktop:avatar-menu": {
+  "small": {
+   "span @14px": {
+    "n": 1,
+    "sample": "Tracked applications"
+   },
+   "span.sb-count.num @13px": {
+    "n": 1,
+    "sample": "2"
+   },
+   "bdi @15px": {
+    "n": 2,
+    "sample": "University hardship fund"
+   },
+   "span @13px": {
+    "n": 2,
+    "sample": "Applied"
+   },
+   "span.trk-docs @13px": {
+    "n": 2,
+    "sample": "4 of 4 documents"
+   },
+   "span.menu-user-mail @14px": {
+    "n": 1,
+    "sample": "amara@example.com"
+   },
+   "span.menu-extra @14px": {
+    "n": 3,
+    "sample": "English (UK)"
+   },
+   "span.cat-label @13px": {
+    "n": 3,
+    "sample": "Council help"
+   },
+   "span.qual @13px": {
+    "n": 3,
+    "sample": "Typical annual saving"
+   },
+   "a.btn.btn-secondary.btn-sm @15px": {
+    "n": 3,
+    "sample": "Open"
+   },
+   "span.track-text @15px": {
+    "n": 3,
+    "sample": "Tracking"
+   },
+   "span @15px": {
+    "n": 4,
+    "sample": "Share"
+   },
+   "button.chip @15px": {
+    "n": 3,
+    "sample": "Which documents do I need?"
+   },
+   "p.composer-note @13px": {
+    "n": 1,
+    "sample": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  },
+  "targets": [
+   "a.bcard-name \"Council Tax student exemption (Class N)\" 453x30",
+   "a.bcard-name \"British Gas Energy Trust grants\" 493x30",
+   "a.bcard-name \"University hardship fund\" 487x30"
+  ]
+ },
+ "desktop:help-dialog": {
+  "small": {
+   "span.disclosure-text @15px": {
+    "n": 7,
+    "sample": "Emergency, right now"
+   },
+   "p.safety-label @15px": {
+    "n": 4,
+    "sample": "Police, fire, ambulance, coastguard"
+   },
+   "p.safety-note @15px": {
+    "n": 4,
+    "sample": "Free, 24/7, any phone. 112 works exactly the same. Location is passed "
+   },
+   "span.safety-num.plain @15px": {
+    "n": 1,
+    "sample": "Say \"Help\" then your language"
+   },
+   "a.safety-link @14px": {
+    "n": 1,
+    "sample": "999bsl.co.uk"
+   },
+   "p.safety-foot @14px": {
+    "n": 1,
+    "sample": "Helplines like Victim Support, Rape Crisis and the domestic abuse line"
+   }
+  },
+  "targets": []
+ }
+}

@@ -1,0 +1,12 @@
+import L from './data.mjs';
+const m = L.match(L.demo.profile);
+console.log('open', m.open.length, 'blocked', m.blocked.length, 'total', m.total, 'withValue', m.withValue, 'nrpf', m.nrpf);
+console.log('withValue list:', m.open.filter(b => typeof b.value === 'number').map(b => b.id + ' ' + b.value + ' [' + b.valueLabel + '] kind=' + b.valueKind).join('\n  '));
+console.log('sum check', m.open.filter(b => typeof b.value === 'number').reduce((a, b) => a + b.value, 0));
+console.log('blocked:'); m.blocked.forEach(x => console.log('  ', x.kind, x.benefit.id, '|', x.benefit.name, '| pf', x.benefit.publicFunds, 'nrpf', x.benefit.nrpf));
+const cats = {}; m.open.forEach(b => cats[b.category] = (cats[b.category] || 0) + 1); console.log(cats);
+console.log('label kinds in open:', m.open.filter(b => b.valueKind === 'label').map(b => b.id + ' [' + b.valueLabel + ']').join('\n  '));
+console.log('amount kind but value null?', L.benefits.filter(b => b.valueKind === 'amount' && typeof b.value !== 'number').length);
+console.log('value number but kind not amount', L.benefits.filter(b => typeof b.value === 'number' && b.valueKind !== 'amount').map(b=>b.id+' '+b.valueKind));
+console.log('depends in open:', m.open.filter(b => b.nrpf === 'depends').map(b => b.id).join(', '));
+console.log('meta', JSON.stringify(L.meta));

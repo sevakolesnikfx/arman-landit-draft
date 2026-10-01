@@ -1,0 +1,2839 @@
+{
+  "problems": [
+    {
+      "id": "coc-lift-nrpf",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "fee-waiver",
+      "st": "hidden",
+      "p": [
+        "jargon: disregarded"
+      ]
+    },
+    {
+      "id": "nino",
+      "st": "open",
+      "p": [
+        "jargon: "
+      ]
+    },
+    {
+      "id": "free-vitamins",
+      "st": "open",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "fsm-england-nrpf",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF,NRPF,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "free-home-to-school-transport",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "school-uniform-grants-england-councils",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "school-essentials-grant-wales",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "school-clothing-grant-scotland",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "universal-primary-free-school-meals",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "uni-hardship-fund",
+      "st": "open",
+      "p": [
+        "jargon: NRPF-safe"
+      ]
+    },
+    {
+      "id": "childcare-2yo-nrpf",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "childcare-30h-partner",
+      "st": "hidden",
+      "p": [
+        "nrpfNote LEAK",
+        "jargon: NRPF,NRPF,NRPF,NRPF,NRPF,NRPF,NRPF,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "maternity-allowance",
+      "st": "hidden",
+      "p": [
+        "docs differ",
+        "jargon: NRPF-safe,NRPF,NRPF-safe"
+      ]
+    },
+    {
+      "id": "new-style-jsa",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF-safe,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "s17-children-act",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "healthy-start-nrpf",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF,NRPF,NRPF,NRPF,NRPF,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "best-start-foods",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF,NRPF,NRPF,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "crf-england",
+      "st": "blocked",
+      "p": [
+        "nrpfNote LEAK",
+        "jargon: NRPF,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "scottish-welfare-fund",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "daf-wales-eap",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,gated,gated,NRPF"
+      ]
+    },
+    {
+      "id": "council-tax-student",
+      "st": "open",
+      "p": [
+        "jargon: Composition-based,means-tested,NRPF-safe,disregarded,disregarded,NRPF,NRPF-safe"
+      ]
+    },
+    {
+      "id": "discretionary-housing-payments",
+      "st": "blocked",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "rent-deposit-and-bond-schemes",
+      "st": "open",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "council-leisure-concession-cards",
+      "st": "open",
+      "p": [
+        "jargon: NRPF-safe"
+      ]
+    },
+    {
+      "id": "baby-banks",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "broadband-social-tariffs",
+      "st": "blocked",
+      "p": [
+        "jargon: gated,means-tested,NRPF,means-tested"
+      ]
+    },
+    {
+      "id": "community-fibre-essential",
+      "st": "open",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "water-income-tariffs",
+      "st": "open",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "watersure",
+      "st": "blocked",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "warm-home-discount",
+      "st": "blocked",
+      "p": [
+        "jargon: NRPF,means-tested"
+      ]
+    },
+    {
+      "id": "eco4-and-la-flex",
+      "st": "open",
+      "p": [
+        "jargon: gated"
+      ]
+    },
+    {
+      "id": "warm-homes-local-grant",
+      "st": "open",
+      "p": [
+        "jargon: means-tested,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "railcard-16-25",
+      "st": "open",
+      "p": [
+        "jargon: "
+      ]
+    },
+    {
+      "id": "scotland-under22-bus",
+      "st": "hidden",
+      "p": [
+        "nrpfNote LEAK"
+      ]
+    },
+    {
+      "id": "basic-bank-account",
+      "st": "open",
+      "p": [
+        "jargon: "
+      ]
+    },
+    {
+      "id": "lisa",
+      "st": "open",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "help-to-save",
+      "st": "blocked",
+      "p": [
+        "jargon: NRPF,gated,NRPF"
+      ]
+    },
+    {
+      "id": "start-up-loans",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "universal-credit",
+      "st": "blocked",
+      "p": [
+        "docs differ",
+        "jargon: means-tested,means-tested"
+      ]
+    },
+    {
+      "id": "child-benefit",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "council-tax-reduction",
+      "st": "blocked",
+      "p": [
+        "jargon: disregarded,NRPF"
+      ]
+    },
+    {
+      "id": "pension-credit",
+      "st": "hidden",
+      "p": [
+        "jargon: "
+      ]
+    },
+    {
+      "id": "pip",
+      "st": "blocked",
+      "p": [
+        "jargon: means-tested"
+      ]
+    },
+    {
+      "id": "attendance-allowance",
+      "st": "hidden",
+      "p": [
+        "jargon: means-tested"
+      ]
+    },
+    {
+      "id": "scottish-child-payment",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF-safe"
+      ]
+    },
+    {
+      "id": "refugee-travel-document",
+      "st": "hidden",
+      "p": [
+        "jargon: "
+      ]
+    },
+    {
+      "id": "hong-kong-bn-specifics",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF,NRPF-safe,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "home-fee-status-and-student",
+      "st": "open",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "nhs-learning-support-fund",
+      "st": "open",
+      "p": [
+        "jargon: means-tested"
+      ]
+    },
+    {
+      "id": "postgraduate-loans",
+      "st": "open",
+      "p": [
+        "jargon: means-tested"
+      ]
+    },
+    {
+      "id": "disabled-students-allowance",
+      "st": "open",
+      "p": [
+        "jargon: means-tested"
+      ]
+    },
+    {
+      "id": "funded-apprenticeships-residency-rules",
+      "st": "open",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "london-universal-primary-free-school",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "holiday-activities-and-food-programme",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "youth-guarantee",
+      "st": "open",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "council-resident-discount-cards",
+      "st": "open",
+      "p": [
+        "jargon: gated,NRPF"
+      ]
+    },
+    {
+      "id": "young-carer-grant",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF,gated"
+      ]
+    },
+    {
+      "id": "funded-childcare-1140-hours",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "childcare-offer-for-wales",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF"
+      ]
+    },
+    {
+      "id": "nest-warm-homes",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "help-with-rates",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF,NRPF,NRPF-safe,means-tested"
+      ]
+    },
+    {
+      "id": "discretionary-support-blocked",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "free-prescriptions-and-healthy-start",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "ni-childcare-subsidy-scheme",
+      "st": "hidden",
+      "p": [
+        "jargon: NRPF"
+      ]
+    },
+    {
+      "id": "free-regulated-immigration-advice",
+      "st": "open",
+      "p": [
+        "jargon: NRPF"
+      ]
+    }
+  ],
+  "samples": {
+    "coc-lift-nrpf": {
+      "facts": {
+        "To apply": "2 to 4 hours, mostly gathering statements",
+        "Decision": "34 days on Home Office figures, up to 93 days on independent analysis",
+        "Cost": "Free",
+        "Documents": "3 needed, 1 maybe",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "72%\nQ1 2026: 72% acceptance / 34 days reported (Home Office); 57% adjusted, up to 93-day real average (Unity Project); 64% historic (Migration Observatory)"
+      },
+      "worth": "What you may get\n\nOpens public funds",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "fee-waiver": {
+      "facts": {
+        "To apply": "2 to 3 hours",
+        "Decision": "Historically 69 to 168 days",
+        "Cost": "Free (it waives about £3,900 per adult)",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£3,900\n\nSaved per adult per cycle\n\n£1,321 fee + IHS £2,587.50 per 30-month extension; affordability test, destitution not required",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "nino": {
+      "facts": {
+        "To apply": "About 15 minutes",
+        "Decision": "Up to 4 weeks",
+        "Cost": "Free",
+        "Documents": "2 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nFree\n\nbuilds New Style JSA/ESA and State Pension entitlement; needed for childcare accounts and LISA",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "gp-registration": {
+      "facts": {
+        "To apply": "15 minutes",
+        "Decision": "Usually same day to 2 weeks",
+        "Cost": "Free",
+        "Documents": "None",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nFree care\n\ngateway to all NHS services",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "nhs-services-that-are-always": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "immigration-health-surcharge-entitlement": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "nhs-low-income-scheme": {
+      "facts": {
+        "To apply": "30 to 45 minutes",
+        "Decision": "About 18 working days",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nHealth costs covered\n\nprescriptions £9.90/item, dental up to £332.10/course, sight tests, glasses vouchers, travel to treatment",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "prescription-charges-and-the-prepayment": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£100\n\nCould be worth, a year\n\n£100+/yr saved with a 12-month PPC on 2 items a month",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "matex": {
+      "facts": {
+        "To apply": "5 minutes",
+        "Decision": "Usually within 2 weeks",
+        "Cost": "Free",
+        "Documents": "1 needed",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nFree while pregnant + 12 months",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "nhs-dental": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "free-vitamins": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "fsm-england-nrpf": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "Days to a few weeks",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£495\n\nPer child per year\n\nDfE figure; also opens pupil premium and FSM-linked help",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "breakfast-clubs": {
+      "facts": {
+        "To apply": "One conversation",
+        "Decision": "Immediate",
+        "Cost": "Free",
+        "Documents": "None",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£450\n\nPer child per year\n\nplus about 95 hours free childcare; participating primary schools only (~2,750 by Sept 2026)",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "16-to-19-bursary-fund": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "esol-funding": {
+      "facts": {
+        "To apply": "One visit to a college",
+        "Decision": "Enrolment at term start",
+        "Cost": "Free if eligible",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nCourse fees waived",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "public-libraries": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "free-home-to-school-transport": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "school-uniform-grants-england-councils": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "school-essentials-grant-wales": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "school-clothing-grant-scotland": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "ema-wales": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-school-meals-scotland": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "universal-primary-free-school-meals": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "uni-hardship-fund": {
+      "facts": {
+        "To apply": "1 to 2 hours",
+        "Decision": "Typically 2 to 6 weeks",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£1,400\n\nTypical amount\n\nsector range £500 to £3,000 (Save the Student); Greenwich international fund up to £1,000/yr",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "kings-trust": {
+      "facts": {
+        "To apply": "1 hour plus a conversation",
+        "Decision": "A few weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nCash awards + programmes\n\nDevelopment Awards for course fees, tools, transport (about £160 typical per third-party listings, unfixed); Enterprise: grants to £500 then to £5,000",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "student-discount-platforms": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "childcare-15h-universal": {
+      "facts": {
+        "To apply": "One conversation with a nursery",
+        "Decision": "Starts the term after the third birthday",
+        "Cost": "Free",
+        "Documents": "1 needed",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n570 hours per year",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "childcare-2yo-nrpf": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "Several weeks (councils verify)",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n570 hours per year",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "childcare-30h-partner": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "Usually instant to 7 days",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£7,500\n\nPer child per year (up to)",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "tax-free-childcare": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "Usually instant",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£2,000\n\nPer child per year (up to)\n\n£4,000 for a disabled child",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "ssp": {
+      "facts": {
+        "To apply": "One conversation with your employer",
+        "Decision": "Paid through payroll",
+        "Cost": "Free",
+        "Documents": "1 maybe",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n£123.25 per week\n\n2026/27; or 80% of average weekly earnings if lower; up to 28 weeks; no waiting days and no earnings floor since April 2026",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "smp": {
+      "facts": {
+        "To apply": "One conversation plus a form",
+        "Decision": "Confirmed by your employer",
+        "Cost": "Free",
+        "Documents": "2 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n£194.32 per week\n\nSMP: 90% of earnings 6 weeks then flat rate for 33 weeks; paternity 2 weeks; 2026/27",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "maternity-allowance": {
+      "facts": {
+        "To apply": "45 minutes",
+        "Decision": "Usually within 24 working days",
+        "Cost": "Free",
+        "Documents": "3 needed, 1 maybe",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£7,578\n\nUp to, over 39 weeks\n\n£194.32/week 2026/27 or 90% of earnings if lower",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "national-minimum-wage-enforcement": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "holiday-pay": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "pension-auto-enrolment": {
+      "facts": {
+        "To apply": "Nothing to do",
+        "Decision": "Automatic",
+        "Cost": "Free",
+        "Documents": "None",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n3% of qualifying earnings\n\nabout £713/yr employer contribution on a £30,000 salary; opting out forfeits it",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "tax-refund": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "5 days to 8 weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nActual overpayment\n\ncommon for first-job newcomers on emergency codes; claims go back 4 tax years; uniform flat rate £60 to £185/yr",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "uniform-and-work-expenses-tax": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "marriage-allowance": {
+      "facts": {
+        "To apply": "10 minutes",
+        "Decision": "Within 2 months",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£252\n\nCould be worth, a year\n\nbackdatable 4 years: first claim can be worth about £1,000",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "new-style-jsa": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "About 2 weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£2,484\n\nUp to, over 182 days\n\n£95.55/week at 25+ (2026/27); savings and partner income ignored",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "new-style-esa": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "Assessment can take several weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n£95.55 per week +\n\n2026/27 assessment rate 25+; support group adds £50.35/week with no time limit; self-employed Class 2 counts",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "s17-children-act": {
+      "facts": {
+        "To apply": "A phone call, then an assessment",
+        "Decision": "Assessment should be prompt; interim help can start immediately",
+        "Cost": "Free",
+        "Documents": "3 needed, 1 maybe",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nAccommodation + subsistence\n\nset by each council",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "healthy-start-nrpf": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "5 working days on the NRPF route",
+        "Cost": "Free",
+        "Documents": "2 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£484\n\nPer baby under 1, per year\n\n£9.30/week under 1, £4.65/week ages 1-4 and pregnancy (from April 2026); plus free vitamins",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "best-start-foods": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "Usually within 3 weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£582\n\nPer baby under 1, per year\n\n£11.20/week under 1; £5.60/week pregnancy and ages 1-3 (2026)",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "sure-start-maternity-grant": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "Within a few weeks",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£500\n\nOne-off\n\nScotland pays Best Start Grant instead: £796.65 first child, every child counts",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "best-start-grant-scotland": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "crf-england": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "Varies by council",
+        "Cost": "Free",
+        "Documents": "3 needed, 1 maybe",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "60%\npredecessor schemes: 60% of applications awarded, avg £214 (End Furniture Poverty 2024/25)"
+      },
+      "worth": "Could be worth\n\n£214\n\nAverage crisis award\n\n£858m for 2026-27, runs to March 2029; vouchers, energy top-ups, white goods",
+      "banner": "Not open to you now\n\nThis is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.",
+      "st": "blocked"
+    },
+    "local-welfare-assistance-england": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not open to you now\n\nThis is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.",
+      "st": "blocked"
+    },
+    "scottish-welfare-fund": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "daf-wales-eap": {
+      "facts": {
+        "To apply": "20 minutes by phone or online",
+        "Decision": "Usually 1 working day",
+        "Cost": "Free",
+        "Documents": "2 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nSmall crisis grants\n\nup to 3 in 12 months, decisions usually within 1 working day",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "council-tax-student": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "2 to 6 weeks",
+        "Cost": "Free",
+        "Documents": "2 needed, 1 maybe",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£1,800\n\nTypical annual saving\n\nscales with band; exemption also covers a student's non-working non-British spouse or dependant",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "discretionary-housing-payments": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not open to you now\n\nThis is not a public fund itself. But people with a no recourse to public funds condition cannot get it in practice, usually because it needs a qualifying benefit.",
+      "st": "blocked"
+    },
+    "homelessness-help-under-nrpf": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "rent-deposit-and-bond-schemes": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "council-leisure-concession-cards": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "trussell-food-banks": {
+      "facts": {
+        "To apply": "One phone call",
+        "Decision": "Same day",
+        "Cost": "Free",
+        "Documents": "1 maybe",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n3-day parcels\n\nno immigration check; community fridges and baby banks need no referral at all",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "independent-food-banks": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "community-fridges": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "baby-banks": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "furniture-reuse-charities": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "warm-welcome-spaces": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "broadband-social-tariffs": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "Usually instant",
+        "Cost": "£10 to £24 a month",
+        "Documents": "1 needed",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£200\n\nTypical annual saving\n\n£10 to £24/month tariffs from BT, Sky, Virgin, Vodafone, SMARTY, VOXI and others",
+      "banner": "Not open to you now\n\nThis is not a public fund itself. But people with a no recourse to public funds condition cannot get it in practice, usually because it needs a qualifying benefit.",
+      "st": "blocked"
+    },
+    "community-fibre-essential": {
+      "facts": {
+        "To apply": "15 minutes",
+        "Decision": "Install within days",
+        "Cost": "£12.50 a month",
+        "Documents": "1 needed",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n£12.50 per month\n\n35 Mbit/s full fibre; no benefit check per the provider; 4th Utility (£13.99) similar in its buildings",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "4th-utility-social-tariff": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "priority-services-register": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "water-income-tariffs": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "2 to 6 weeks",
+        "Cost": "Free",
+        "Documents": "3 needed, 1 maybe",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n25% to 99% off\n\nThames WaterHelp (bill over 5% of income), Severn Trent Big Difference (under £22,010), Yorkshire WaterSupport (bill cut to £295/yr), Anglian LITE, Southern Essentials (45-90% off), UU Back on Track; plus £1-for-£1 debt matching",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "watersure": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not open to you now\n\nThis is not a public fund itself. But people with a no recourse to public funds condition cannot get it in practice, usually because it needs a qualifying benefit.",
+      "st": "blocked"
+    },
+    "water-debt-matching-and-hardship": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "free-water-saving-devices": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "warm-home-discount": {
+      "facts": {
+        "To apply": "Nothing to do",
+        "Decision": "Automatic, credited by March",
+        "Cost": "Free",
+        "Documents": "None",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£150\n\nOne-off per winter",
+      "banner": "Not open to you now\n\nThis is not a public fund itself. But people with a no recourse to public funds condition cannot get it in practice, usually because it needs a qualifying benefit.",
+      "st": "blocked"
+    },
+    "bg-energy-trust": {
+      "facts": {
+        "To apply": "2 hours including the advice session",
+        "Decision": "6 to 12 weeks",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£1,700\n\nUp to, one-off\n\nclears energy debt of £50 to £1,700; open to any supplier's customers",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "supplier-hardship-funds": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "fuel-bank-vouchers": {
+      "facts": {
+        "To apply": "One appointment",
+        "Decision": "Same day",
+        "Cost": "Free",
+        "Documents": "1 needed",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n£49 per voucher (£89 winter)\n\nabout a week of energy; repeatable; referral via food banks, councils, advice agencies",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "eco4-and-la-flex": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "warm-homes-local-grant": {
+      "facts": {
+        "To apply": "30 minutes to register interest",
+        "Decision": "Weeks to months",
+        "Cost": "Free",
+        "Documents": "2 needed, 1 maybe",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nFree home upgrades\n\nBoiler Upgrade Scheme: £7,500 heat pump grant",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "turn2us-grants": {
+      "facts": {
+        "To apply": "20 minutes to search, then per-fund applications",
+        "Decision": "Varies by fund",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nNon-repayable grants\n\nmatched by occupation, nationality, location, situation; each fund sets its own rules",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "buttle-uk": {
+      "facts": {
+        "To apply": "A conversation with a professional",
+        "Decision": "Around 6 weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£2,400\n\nUp to, per child",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "benevolent-funds": {
+      "facts": {
+        "To apply": "1 hour",
+        "Decision": "2 to 8 weeks",
+        "Cost": "Free",
+        "Documents": "3 needed, 1 maybe",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nGrants by occupation\n\nCare Workers Charity typically £500; Hospitality Action covers bills and equipment; nearly every trade has one",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "british-red-cross-refugee-services": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "the-bike-project": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "room-for-refugees": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "railcard-16-25": {
+      "facts": {
+        "To apply": "10 minutes",
+        "Decision": "Instant for digital",
+        "Cost": "£35 for the year",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£212\n\nAverage yearly saving\n\n£35/year card (2026); mature full-time students over 25 qualify; 26-30 card avg saves £283; 16-17 Saver 50% off",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "student-oyster": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "Up to 2 weeks for the card",
+        "Cost": "£20 admin fee",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n30% off season tickets\n\n£20 fee; international students routinely hold one; Zip cards give under-18s free or half fare",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "scotland-under22-bus": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "2 to 3 weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nUnlimited free bus travel",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "older-person-s-concessionary-travel": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "basic-bank-account": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "Same day to 2 weeks",
+        "Cost": "Free",
+        "Documents": "1 needed, 1 maybe",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nFree banking\n\nnine designated banks must offer them; eVisa share code or any-country passport works; Monzo/Starling flexible on address proof",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "credit-unions": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "lisa": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "Account opens same day",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£1,000\n\nMax bonus per year\n\n25% on up to £4,000/yr toward a first home (£450k cap) or age 60; withdrawal charge otherwise",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "help-to-save": {
+      "facts": {
+        "To apply": "15 minutes",
+        "Decision": "Instant",
+        "Cost": "Free",
+        "Documents": "2 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£1,200\n\nMax bonus over 4 years\n\n50p per £1 saved, up to £50/month; open to any UC claimant earning £1+/month",
+      "banner": "Not open to you now\n\nThis is not a public fund itself. But people with a no recourse to public funds condition cannot get it in practice, usually because it needs a qualifying benefit.",
+      "st": "blocked"
+    },
+    "start-up-loans": {
+      "facts": {
+        "To apply": "Several hours over a few weeks",
+        "Decision": "Weeks",
+        "Cost": "Free to apply; 7.5% fixed on the loan",
+        "Documents": "5 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\n£500 to £25,000 loan\n\n7.5% fixed, average £10,264, 12 months free mentoring; repay 6+ months before visa expiry",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-business-advice": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "universal-credit": {
+      "facts": {
+        "To apply": "1 hour",
+        "Decision": "First payment about 5 weeks",
+        "Cost": "Free",
+        "Documents": "4 needed, 2 maybe",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£5,099\n\nSingle 25+ standard allowance, per year\n\n£424.90/month single 25+ (2026/27, verified); child element £303.94/child, two-child limit abolished April 2026; childcare 85% to £1,071.09; LCWRA £217.26 for new claims",
+      "banner": "Not open to you now\n\nThis is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.",
+      "st": "blocked"
+    },
+    "child-benefit": {
+      "facts": {
+        "To apply": "20 minutes",
+        "Decision": "Up to 12 weeks for a first claim",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£1,407\n\nFirst child, per year\n\n£27.05/week eldest + £17.90 each other (2026/27, verified); HICBC from £60,000 income",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "council-tax-reduction": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "2 to 8 weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nUp to 100% off",
+      "banner": "Not open to you now\n\nThis is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.",
+      "st": "blocked"
+    },
+    "pension-credit": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "Up to 6 weeks",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "What you may get\n\nTops up to £238.00/week single\n\n£363.25 couple (2026/27); passports to WHD, free TV licence at 75, Cold Weather Payments",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "housing-benefit": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "pip": {
+      "facts": {
+        "To apply": "Several hours over 2 to 3 weeks",
+        "Decision": "Median 18 weeks",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "37%\n37% of new claims awarded (quarter to April 2026); 43% five-year average; median 18 weeks end to end (DWP)"
+      },
+      "worth": "Could be worth\n\n£10,119\n\nMaximum, per year\n\ndaily living £76.70/£114.60, mobility £30.30/£80.00 weekly (2026/27); Scotland pays ADP at the same rates",
+      "banner": "Not open to you now\n\nThis is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.",
+      "st": "blocked"
+    },
+    "disability-living-allowance": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "attendance-allowance": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "carers-allowance": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "3 to 6 weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£4,495\n\nCould be worth, a year\n\n£86.45/week, earnings limit £204/week net (2026/27); Scotland: Carer Support Payment + £304.65 half-yearly supplement",
+      "banner": "Not open to you now\n\nThis is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.",
+      "st": "blocked"
+    },
+    "budgeting-advance": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not open to you now\n\nThis is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.",
+      "st": "blocked"
+    },
+    "winter-fuel-payment": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "cold-weather-payment": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not open to you now\n\nThis is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.",
+      "st": "blocked"
+    },
+    "scottish-child-payment": {
+      "facts": {
+        "To apply": "30 minutes",
+        "Decision": "Usually within 3 weeks",
+        "Cost": "Free",
+        "Documents": "4 needed",
+        "Effort": "More paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "94%\n94% estimated take-up; 322,000+ children; about 40,000 children kept out of poverty (Scottish Government)"
+      },
+      "worth": "Could be worth\n\n£1,466\n\nPer child per year\n\n2026/27 rate; no cap on number of children; one form also covers Best Start Grant and Foods",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "adult-disability-payment": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "child-disability-payment": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "carer-support-payment": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "job-start-payment": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "funeral-support-payment": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "refugee-move-on-package": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "refugee-integration-loan": {
+      "facts": {
+        "To apply": "45 minutes",
+        "Decision": "Several weeks",
+        "Cost": "Free to apply; repayable",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£500\n\nUp to, single applicant\n\n£100 to £500 single, up to £780 couples; for deposits, rent, work equipment, training",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "refugee-travel-document": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "refugee-family-reunion-suspended": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "ukraine-interim-200": {
+      "facts": {
+        "To apply": "One conversation",
+        "Decision": "Days",
+        "Cost": "Free",
+        "Documents": "1 needed",
+        "Effort": "Quick and simple\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£200\n\nPer person, one-off",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "ukraine-host-thank-you-payments": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "ukraine-permission-extension": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "hong-kong-bn-specifics": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "s95-asylum-support": {
+      "facts": {
+        "To apply": "1 to 2 hours",
+        "Decision": "Days to weeks",
+        "Cost": "Free",
+        "Documents": "3 needed",
+        "Effort": "Some paperwork\nBased on the number of documents and steps",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£2,557\n\nPer person per year\n\n£49.18/week self-catered on the Aspen card + pregnancy/child supplements + £300 maternity one-off; plus accommodation; ends 42 days after a positive decision",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "home-fee-status-and-student": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "sanctuary-scholarships": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "nhs-learning-support-fund": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "postgraduate-loans": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "student-finance-grants-for-parents": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "disabled-students-allowance": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "social-work-bursary": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "teacher-training-bursaries": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "advanced-learner-loan-and-the": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "funded-apprenticeships-residency-rules": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "care-to-learn": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "bank-accounts-for-international-students": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "london-universal-primary-free-school": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£500\n\nCould be worth, a year\n\nabout £500 per child per year",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "national-bus-fare-cap": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "greater-manchester-our-pass-and": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "west-midlands-16-18-photocard": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "west-yorkshire-under-19-mayor": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "liverpool-city-region-myticket-and": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "south-yorkshire-north-east-cambridgeshire": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "holiday-activities-and-food-programme": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount\n\n4 hrs/day of free childcare + food, 16 days in summer",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-courses-for-jobs": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\n£2,000\n\nCould be worth\n\ncourses typically £2,000 to £4,000",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "skills-bootcamps": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "national-careers-service": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "youth-guarantee": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "free-period-products-in-schools": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "council-resident-discount-cards": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "It depends on your situation\n\nCheck the rules below and the official page before you apply.",
+      "st": "open"
+    },
+    "scottish-baby-box": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-period-products": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-nhs-eye-examinations-and": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "ema-scotland": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "young-carer-grant": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "funded-childcare-1140-hours": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "scottish-milk-and-healthy-snack": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-bus-for-asylum-seekers": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "mytravelpass-and-the-1-youth": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "childcare-offer-for-wales": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "flying-start": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-swimming": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-period-products-157": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "nest-warm-homes": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "help-with-rates": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "discretionary-support-blocked": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-school-meals-and-uniform": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "ema-northern-ireland": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "smartpass": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "free-prescriptions-and-healthy-start": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "ni-childcare-subsidy-scheme": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "affordable-warmth-scheme": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "sure-start": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "pre-school-education-programme": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "This one does not match your answers, so it is not in your list. Check the rules below.",
+      "st": "hidden"
+    },
+    "national-databank-free-sims-and": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "national-device-bank": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "smart-works": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "interview-clothing-for-men": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "timpson-free-interview-dry-cleaning": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount\n\n£10 to £15 saved per clean",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "the-hygiene-bank-and-beauty": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "immigration-legal-aid-and-exceptional": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "free-regulated-immigration-advice": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "nhs-vaccination-catch-up-for": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "free-english-conversation-clubs": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "free-bike-events-and-cycle": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "try-before-you-bike": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "surplus-food-apps": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    },
+    "tv-licence-know-when-you": {
+      "facts": {
+        "To apply": "Not listed",
+        "Decision": "Not listed",
+        "Cost": "Not listed",
+        "Documents": "Not listed",
+        "Effort": "Not listed",
+        "Published approval rate": "No published rate yet"
+      },
+      "worth": "Could be worth\n\nNo set amount",
+      "banner": "Not a public fund. Your visa condition does not apply.",
+      "st": "open"
+    }
+  },
+  "errs": []
+}

@@ -1,0 +1,31 @@
+/* People-lens review: a few extra viewport shots. */
+import path from 'node:path';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+import { createRequire } from 'module';
+const require = createRequire('/Users/armanbayatmaku/Desktop/kasdena/websites/landit/package.json');
+const { chromium } = require('playwright');
+const HERE = path.dirname(fileURLToPath(import.meta.url));
+const INDEX = pathToFileURL(path.resolve(HERE, '../../../a-paper/index.html')).href;
+const browser = await chromium.launch({ channel: 'chrome', headless: true });
+const PHONE = { viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true, deviceScaleFactor: 2 };
+const shot = (p, n) => p.screenshot({ path: path.join(HERE, n + '.png') });
+let c = await browser.newContext(PHONE); let p = await c.newPage();
+await p.goto(INDEX + '?reset=1#/questions', { waitUntil: 'load' }); await p.waitForTimeout(500);
+await p.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+await p.waitForTimeout(200);
+await shot(p, 'p-questions-bottom');
+const btn = await p.evaluate(() => { const b = document.getElementById('q-next'); const s = getComputedStyle(b); return { disabled: b.disabled, bg: s.backgroundColor, color: s.color, opacity: s.opacity }; });
+console.log('Continue button before answer:', JSON.stringify(btn));
+await c.close();
+c = await browser.newContext(PHONE); p = await c.newPage();
+await p.goto(INDEX + '?demo=1#/benefit/uni-hardship-fund', { waitUntil: 'load' }); await p.waitForTimeout(500);
+for (const [i, y] of [[1, 844], [2, 1688], [3, 2532], [4, 3376]]) { await p.evaluate(y => window.scrollTo(0, y), y); await p.waitForTimeout(150); await shot(p, 'p-detail-' + i); }
+const total = await p.evaluate(() => document.documentElement.scrollHeight);
+console.log('detail page height (px):', total, '=', (total / 844).toFixed(1), 'phone screens');
+await c.close();
+c = await browser.newContext(PHONE); p = await c.newPage();
+await p.goto(INDEX + '?demo=1#/benefits', { waitUntil: 'load' }); await p.waitForTimeout(500);
+const h = await p.evaluate(() => document.documentElement.scrollHeight);
+console.log('benefits page height (px):', h, '=', (h / 844).toFixed(1), 'phone screens');
+await c.close();
+await browser.close();

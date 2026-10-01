@@ -1,0 +1,562 @@
+[
+ {
+  "name": "Free Courses for Jobs",
+  "val": "£2,000 Could be worth",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Free A-level-equivalent qualification from the approved list"
+ },
+ {
+  "name": "Council Tax student exemption (Class N)",
+  "val": "£1,800 Typical annual saving",
+  "effort": "Some paperwork: 2 documents, 20 minutes",
+  "cat": "Council help",
+  "sub": "100% off for student households"
+ },
+ {
+  "name": "British Gas Energy Trust grants",
+  "val": "£1,700 Up to, one-off",
+  "effort": "More paperwork: 4 documents, 2 hours including the advice session",
+  "cat": "Energy",
+  "sub": "Energy debt cleared, any supplier"
+ },
+ {
+  "name": "University hardship fund",
+  "val": "£1,400 Typical amount",
+  "effort": "More paperwork: 4 documents, 1 to 2 hours",
+  "cat": "Education",
+  "sub": "Non-repayable student grants"
+ },
+ {
+  "name": "Lifetime ISA",
+  "val": "£1,000 Max bonus per year",
+  "effort": "More paperwork: 4 documents, 20 minutes",
+  "cat": "Money",
+  "sub": "25% government bonus"
+ },
+ {
+  "name": "Marriage Allowance",
+  "val": "£252 Could be worth, a year",
+  "effort": "Some paperwork: 3 documents, 10 minutes",
+  "cat": "Money",
+  "sub": "Transfer unused tax allowance"
+ },
+ {
+  "name": "16-25 Railcard",
+  "val": "£212 Average yearly saving",
+  "effort": "Some paperwork: 3 documents, 10 minutes",
+  "cat": "Transport",
+  "sub": "1/3 off rail fares"
+ },
+ {
+  "name": "Prescription charges and the prepayment certificate",
+  "val": "£100 Could be worth, a year",
+  "effort": "Effort not listed yet",
+  "cat": "Health",
+  "sub": "England 2026/27: £9.90 per item, frozen"
+ },
+ {
+  "name": "National Insurance number",
+  "val": "Free",
+  "effort": "Some paperwork: 2 documents, about 15 minutes",
+  "cat": "Visa and legal",
+  "sub": "Free, opens everything contributory"
+ },
+ {
+  "name": "GP registration",
+  "val": "Free care",
+  "effort": "Quick and simple: No documents, 15 minutes",
+  "cat": "Health",
+  "sub": "Free NHS primary care"
+ },
+ {
+  "name": "NHS services that are always free",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Health",
+  "sub": "A&E and urgent treatment (until admitted), all GP care, contraception and sexual health clinics (walk-in)"
+ },
+ {
+  "name": "Immigration Health Surcharge entitlement",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Health",
+  "sub": "Visa holders who paid the IHS (£1,035/yr, students £776/yr) get full NHS care like a resident"
+ },
+ {
+  "name": "NHS Low Income Scheme (HC2/HC3)",
+  "val": "Health costs covered",
+  "effort": "More paperwork: 4 documents, 30 to 45 minutes",
+  "cat": "Health",
+  "sub": "Free prescriptions, dental, eye care"
+ },
+ {
+  "name": "NHS dental",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Health",
+  "sub": "England from April 2026: Band 1 £27.90, Band 2 £76.60, Band 3 £332.10"
+ },
+ {
+  "name": "Free vitamins",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Health",
+  "sub": "Healthy Start vitamins free with the scheme (England/Wales/NI, including the NRPF extension)"
+ },
+ {
+  "name": "Public libraries",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Free membership, computers, wifi, cheap printing, children's activities, often free e-books and language apps"
+ },
+ {
+  "name": "Student discount platforms",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "TOTUM (free digital tier, TOTUM+ £14.99/yr), UNiDAYS, Student Beans: verification is enrolment, not status"
+ },
+ {
+  "name": "National Minimum Wage enforcement",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Work",
+  "sub": "April 2026: £12.71/hr at 21+, £10.85 at 18-20, £8.00 at 16-17 and apprentices"
+ },
+ {
+  "name": "Holiday pay",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Work",
+  "sub": "28 days paid leave full-time, accrues from day one, includes agency and zero-hours"
+ },
+ {
+  "name": "HMRC tax refunds",
+  "val": "Actual overpayment",
+  "effort": "Some paperwork: 3 documents, 20 minutes",
+  "cat": "Money",
+  "sub": "Emergency tax back"
+ },
+ {
+  "name": "Uniform and work expenses tax relief",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Work",
+  "sub": "Flat rate £60/yr standard (£12 to a basic-rate payer), healthcare £125, ambulance £185"
+ },
+ {
+  "name": "Homelessness help under NRPF",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Council help",
+  "sub": "Part 7 homelessness assistance and social housing are public funds: closed"
+ },
+ {
+  "name": "Rent deposit and bond schemes",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Council help",
+  "sub": "Council schemes usually sit inside homelessness prevention or CRF Housing Payments (closed to NRPF)"
+ },
+ {
+  "name": "Council leisure concession cards",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Council help",
+  "sub": "30% to 50% off gyms, swimming and classes"
+ },
+ {
+  "name": "Food banks (Trussell + independents)",
+  "val": "3-day parcels",
+  "effort": "Quick and simple: No documents, one phone call",
+  "cat": "Food",
+  "sub": "Emergency food, referral-based"
+ },
+ {
+  "name": "Independent food banks",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Food",
+  "sub": "774 locations outside the Trussell network; many accept self-referral"
+ },
+ {
+  "name": "Community fridges",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Food",
+  "sub": "700+ free walk-in fridges sharing surplus food"
+ },
+ {
+  "name": "Furniture reuse charities",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Charity",
+  "sub": "Discounted or referral-free furniture and white goods; hardship evidence accepted, not only benefits"
+ },
+ {
+  "name": "Warm Welcome Spaces",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Energy",
+  "sub": "4,000+ free heated community spaces (libraries, churches, community centres), 97% open year-round"
+ },
+ {
+  "name": "Community Fibre Essential",
+  "val": "£12.50 per month",
+  "effort": "Quick and simple: 1 document, 15 minutes",
+  "cat": "Phone and internet",
+  "sub": "£12.50 broadband, no criteria"
+ },
+ {
+  "name": "4th Utility Social Tariff",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Phone and internet",
+  "sub": "£13.99/month, 30 Mbit/s, in buildings on the 4th Utility network"
+ },
+ {
+  "name": "Priority Services Register",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Energy",
+  "sub": "Free extra-help register: advance notice of outages, priority reconnection, accessible bills"
+ },
+ {
+  "name": "Water social tariffs (income-based)",
+  "val": "25% to 99% off",
+  "effort": "More paperwork: 3 documents, 30 minutes",
+  "cat": "Water",
+  "sub": "25% to 99% off water bills"
+ },
+ {
+  "name": "Water debt matching and hardship trusts",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Water",
+  "sub": "Every water company runs a debt scheme (CCW): United Utilities matches £1 for £1"
+ },
+ {
+  "name": "Free water-saving devices",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Water",
+  "sub": "Free shower heads, tap inserts and cistern devices posted via GetWaterFit or company pages"
+ },
+ {
+  "name": "Supplier hardship funds",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Energy",
+  "sub": "Circumstances-based, no benefit requirement: Octopus Octo Assist"
+ },
+ {
+  "name": "Fuel Bank Foundation vouchers",
+  "val": "£49 per voucher (£89 winter)",
+  "effort": "Quick and simple: 1 document, one appointment",
+  "cat": "Energy",
+  "sub": "Emergency prepayment top-ups"
+ },
+ {
+  "name": "ECO4 and LA Flex",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Energy",
+  "sub": "Free insulation and heating upgrades"
+ },
+ {
+  "name": "Warm Homes: Local Grant / ECO4 LA Flex",
+  "val": "Free home upgrades",
+  "effort": "Some paperwork: 2 documents, 30 minutes to register interest",
+  "cat": "Energy",
+  "sub": "Free insulation and heating"
+ },
+ {
+  "name": "Turn2us grants search",
+  "val": "Non-repayable grants",
+  "effort": "Some paperwork: 3 documents, 20 minutes to search, then per-fund applications",
+  "cat": "Charity",
+  "sub": "1,700+ charitable funds"
+ },
+ {
+  "name": "British Red Cross refugee services",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Visa and legal",
+  "sub": "Emergency destitution help, casework and signposting for refugees, asylum seekers"
+ },
+ {
+  "name": "18+ Student Oyster photocard",
+  "val": "30% off season tickets",
+  "effort": "Some paperwork: 3 documents, 20 minutes",
+  "cat": "Transport",
+  "sub": "30% off London travelcards"
+ },
+ {
+  "name": "Basic bank account",
+  "val": "Free banking",
+  "effort": "Some paperwork: 1 document, 30 minutes",
+  "cat": "Money",
+  "sub": "Fee-free, no credit check"
+ },
+ {
+  "name": "Credit unions",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Money",
+  "sub": "Member-owned savings and small loans (£500 to £5,000), interest capped at 42.6% APR in GB, no fees"
+ },
+ {
+  "name": "Free business advice",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Business",
+  "sub": "Growth Hubs (England), Business Gateway (Scotland), Business Wales, Go Succeed (NI)"
+ },
+ {
+  "name": "Home fee status and student finance, by immigration status",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "The master gate for university money in England, 2026/27"
+ },
+ {
+  "name": "Sanctuary scholarships",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "University-funded fee waivers plus living stipends for people locked out of student finance"
+ },
+ {
+  "name": "NHS Learning Support Fund",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Non-repayable top-up for nursing, midwifery and allied health students in England"
+ },
+ {
+  "name": "Postgraduate loans",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Master's loan up to £13,206, Doctoral loan up to £31,122 (courses from 1 Aug 2026, confirmed)"
+ },
+ {
+  "name": "Disabled Students' Allowance",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Equipment, helpers and travel top-up for disabled students, up to £27,783/yr"
+ },
+ {
+  "name": "Social Work Bursary",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Capped-allocation bursary for social work degrees (2026/27): undergraduate final 2 years £4,862.50/yr"
+ },
+ {
+  "name": "Teacher training bursaries",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Tax-free bursaries for postgraduate teacher training, 2026/27: £29,000 physics"
+ },
+ {
+  "name": "Advanced Learner Loan and the Access to HE write-off",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Loan covering level 3 to 6 college course fees for 19+, no means test, no credit check"
+ },
+ {
+  "name": "Funded apprenticeships: residency rules",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Right to work + leave covering the full apprenticeship + normally 3 years UK residence"
+ },
+ {
+  "name": "Bank accounts for international students",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Mainstream 0% student overdrafts usually need ~3 years UK address history"
+ },
+ {
+  "name": "National bus fare cap",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Transport",
+  "sub": "Single fares capped at £3 to 31 December 2026, then £2 for the whole of 2027"
+ },
+ {
+  "name": "Greater Manchester: Our Pass and free youth travel",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Transport",
+  "sub": "Our Pass: free bus for 16-18s living in GM, £10 one-off fee, valid 2 years"
+ },
+ {
+  "name": "West Midlands: 16-18 Photocard and Workwise",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Transport",
+  "sub": "Swift 16-18 Photocard: half adult fares on WM buses, trams and trains for 16-18s in the 7 met boroughs"
+ },
+ {
+  "name": "West Yorkshire: under-19 Mayor's Fares",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Transport",
+  "sub": "Flat youth fares for anyone under 19: singles 60p to £1.80 by distance, day ticket £2.80, week £10 (2026)"
+ },
+ {
+  "name": "Liverpool City Region: MyTicket and the £2 single",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Transport",
+  "sub": "MyTicket: £2.20 all-day bus for ages 5-18 on any Merseyside/Halton bus, bought from the driver"
+ },
+ {
+  "name": "South Yorkshire, North East, Cambridgeshire youth fares",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Transport",
+  "sub": "South Yorkshire Zoom: £1 single, £3.10 day for under-18s, £1.50 single 18-21"
+ },
+ {
+  "name": "Skills Bootcamps",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Free 16-week courses (digital, construction, HGV, green skills) with a guaranteed job interview, 19+"
+ },
+ {
+  "name": "National Careers Service",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Free careers advice, skills assessment and CV help by phone (0800 100 900), webchat and local advisers"
+ },
+ {
+  "name": "Youth Guarantee",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Guaranteed offer of apprenticeship, training or job help"
+ },
+ {
+  "name": "Free period products in schools and colleges",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Free period products for learners at about 21,000 state-funded schools and 16-19 providers"
+ },
+ {
+  "name": "Council resident discount cards",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Council help",
+  "sub": "Council-run cards giving free or cheap leisure, culture and local offers"
+ },
+ {
+  "name": "National Databank: free SIMs and data",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Phone and internet",
+  "sub": "Free mobile SIMs with data at ~3,000 hubs (libraries, community centres, all O2 stores)"
+ },
+ {
+  "name": "National Device Bank",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Phone and internet",
+  "sub": "Free refurbished laptops, phones and tablets gifted through local community organisations"
+ },
+ {
+  "name": "Smart Works",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Charity",
+  "sub": "Free interview outfit to keep plus one-to-one interview coaching for unemployed women"
+ },
+ {
+  "name": "Interview clothing for men",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Charity",
+  "sub": "Suited & Booted (London): free interview-ready clothing plus advice for low-income men"
+ },
+ {
+  "name": "Timpson free interview dry cleaning",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Charity",
+  "sub": "Any Timpson branch with dry cleaning will clean your interview outfit free if you are unemployed"
+ },
+ {
+  "name": "The Hygiene Bank and Beauty Banks",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Charity",
+  "sub": "Free toiletries and hygiene basics (shampoo, deodorant, nappies, period products, laundry detergent)"
+ },
+ {
+  "name": "Immigration legal aid and Exceptional Case Funding",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Visa and legal",
+  "sub": "Free legal help (England and Wales) if you pass the means test, in scope for: asylum, asylum support"
+ },
+ {
+  "name": "Free regulated immigration advice",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Visa and legal",
+  "sub": "Advice may legally only come from IAA-registered advisers (the Immigration Advice Authority, formerly OISC)"
+ },
+ {
+  "name": "NHS vaccination catch-up for new arrivals",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Health",
+  "sub": "Free catch-up immunisations at any age for anyone with an incomplete or unknown vaccination history"
+ },
+ {
+  "name": "Free English conversation clubs",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Education",
+  "sub": "Drop-in conversation groups at libraries, councils, churches and charities: no enrolment, no placement test"
+ },
+ {
+  "name": "Free bike events and cycle training",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Transport",
+  "sub": "Big Bike Revival (Cycling UK, England): free bike checks"
+ },
+ {
+  "name": "Try Before You Bike",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Transport",
+  "sub": "Council-backed scheme (Peddle My Wheels) delivering a refurbished bike on a low monthly subscription"
+ },
+ {
+  "name": "Surplus food apps",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Food",
+  "sub": "Too Good To Go: shops' unsold food as surprise bags at about a third of retail"
+ },
+ {
+  "name": "TV Licence: know when you do not need one",
+  "val": "No set amount",
+  "effort": "Effort not listed yet",
+  "cat": "Phone and internet",
+  "sub": "£180/yr avoided if you never watch live TV and never use BBC iPlayer"
+ }
+]

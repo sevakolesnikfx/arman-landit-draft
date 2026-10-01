@@ -1,0 +1,33 @@
+shoot: b-dusk  30 shots, 0 with errors  (2026-10-01T12:53:31.274Z)
+shots: _review/b-dusk/shots
+
+ok   login-phone
+ok   login-desktop
+ok   register-phone
+ok   register-desktop
+ok   questions-phone
+ok   questions-desktop
+ok   ack-phone
+ok   ack-desktop
+ok   chat-phone
+ok   chat-desktop
+ok   benefits-phone
+ok   benefits-desktop
+ok   benefit-phone
+ok   benefit-desktop
+ok   community-phone
+ok   community-desktop
+ok   settings-phone
+ok   settings-desktop
+ok   chat-ar-phone
+ok   chat-ar-desktop
+ok   chat-theme-slate-desktop
+ok   chat-theme-daylight-desktop
+ok   chat-theme-sand-desktop
+ok   benefits-ar-phone
+ok   benefits-ar-desktop
+ok   benefits-theme-slate-desktop
+ok   benefits-theme-daylight-desktop
+ok   benefits-theme-sand-desktop
+ok   benefits-xlarge-phone
+ok   chat-drawer-phone

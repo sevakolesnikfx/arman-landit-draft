@@ -1,0 +1,1038 @@
+{
+ "council-tax-student": {
+  "h1": "Council Tax student exemption (Class N)",
+  "lead": "100% off for student households",
+  "chips": "Council help England, Scotland and Wales",
+  "worth": "Could be worth £1,800 Typical annual saving",
+  "cells": [
+   "Could be worth £1,800 Typical annual saving",
+   "Time to apply 20 minutes",
+   "Documents 2 needed 1 more may be needed"
+  ],
+  "more": [
+   "Decision 2 to 6 weeks",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Some paperwork: 2 documents, 20 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: Scales with band; exemption also covers a student's non-working non-British spouse or dependant",
+  "rules": [
+   "Full-time course, 1 year+ and 21+ hours a week",
+   "All occupants students or disregarded",
+   "Sole or main residence"
+  ],
+  "needed": 9,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Student certificate from your university (free, ask the registry)",
+     "Your tenancy agreement"
+    ]
+   },
+   {
+    "legend": "May be needed",
+    "items": [
+     "Share code for a non-working spouse or dependant"
+    ]
+   }
+  ],
+  "steps": [
+   "Get a council tax student certificate from your university: it is free and usually instant online.",
+   "Find your council's council tax discount page.",
+   "Apply for the Class N student exemption. If everyone in the household is a student, the bill is zero.",
+   "Upload the certificate and your tenancy.",
+   "Ask for it to be backdated to your course or tenancy start date."
+  ],
+  "apply": "https://www.gov.uk/apply-for-council-tax-discount",
+  "applyNote": "Opens gov.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Tracking",
+  "share": "Share",
+  "sources": [
+   "https://www.nrpfnetwork.org.uk/information-and-resources/rights-and-entitlements/benefits-and-housing-public-funds/housing/council-tax"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "uni-hardship-fund": {
+  "h1": "University hardship fund",
+  "lead": "Non-repayable student grants",
+  "chips": "Education Depends on your university or college",
+  "worth": "Could be worth £1,400 Typical amount",
+  "cells": [
+   "Could be worth £1,400 Typical amount",
+   "Time to apply 1 to 2 hours",
+   "Documents 4 needed"
+  ],
+  "more": [
+   "Decision Typically 2 to 6 weeks",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "More paperwork: 4 documents, 1 to 2 hours Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: Sector range £500 to £3,000 (Save the Student); Greenwich international fund up to £1,000/yr",
+  "rules": [
+   "Enrolled student",
+   "Unexpected financial shortfall with evidence",
+   "Some funds: under £500 across all accounts"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "3 months of bank statements",
+     "A budget: income in, essential costs out",
+     "Evidence of what changed (job loss, family emergency, unexpected bill)",
+     "Your enrolment details"
+    ]
+   }
+  ],
+  "steps": [
+   "Search \"[your university] hardship fund\" and find the student funding or wellbeing team.",
+   "Check whether there is a separate international student fund: most universities now run one.",
+   "Complete the application with a clear budget showing the shortfall.",
+   "Attach bank statements and evidence of the unexpected cost.",
+   "Submit and follow up with the student union adviser if you hear nothing."
+  ],
+  "apply": "https://www.savethestudent.org/student-finance/hardship-funds.html",
+  "applyNote": "Opens savethestudent.org in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Tracking",
+  "share": "Share",
+  "sources": [
+   "https://www.savethestudent.org/student-finance/hardship-funds.html"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "railcard-16-25": {
+  "h1": "16-25 Railcard",
+  "lead": "1/3 off rail fares",
+  "chips": "Transport England, Scotland and Wales",
+  "worth": "Could be worth £212 Average yearly saving",
+  "cells": [
+   "Could be worth £212 Average yearly saving",
+   "Time to apply 10 minutes",
+   "Documents 3 needed"
+  ],
+  "more": [
+   "Decision Instant for digital",
+   "Cost £35 for the year",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Some paperwork: 3 documents, 10 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: £35/year card (2026); mature full-time students over 25 qualify; 26-30 card avg saves £283; 16-17 Saver 50% off",
+  "rules": [
+   "Aged 16-25 (or 26+ mature full-time student)",
+   "Any-country passport accepted as ID",
+   "£35 card fee"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "A passport from any country, or other accepted ID",
+     "A digital photo",
+     "Payment card"
+    ]
+   }
+  ],
+  "steps": [
+   "Go to the 16-25 Railcard site (or 26-30, 16-17 Saver, or Senior depending on your age).",
+   "Upload a photo and your ID: any country's passport is accepted.",
+   "Pay £35 and get the digital card instantly.",
+   "Add it to your phone and to your ticket app so the discount applies automatically."
+  ],
+  "apply": "https://www.16-25railcard.co.uk/",
+  "applyNote": "Opens 16-25railcard.co.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.16-25railcard.co.uk/"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "lisa": {
+  "h1": "Lifetime ISA",
+  "lead": "25% government bonus",
+  "chips": "Money Whole UK",
+  "worth": "Could be worth £1,000 Max bonus per year",
+  "cells": [
+   "Could be worth £1,000 Max bonus per year",
+   "Time to apply 20 minutes",
+   "Documents 4 needed"
+  ],
+  "more": [
+   "Decision Account opens same day",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "More paperwork: 4 documents, 20 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: 25% on up to £4,000/yr toward a first home (£450k cap) or age 60; withdrawal charge otherwise",
+  "rules": [
+   "Open before age 40",
+   "UK resident with NI number"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "National Insurance number",
+     "Proof of ID",
+     "UK address",
+     "Age 18 to 39"
+    ]
+   }
+  ],
+  "steps": [
+   "Choose a Lifetime ISA provider (cash or stocks and shares).",
+   "Open the account: you need only UK residence, an NI number, and to be 18 to 39.",
+   "Pay in up to £4,000 a year.",
+   "The government adds 25%: up to £1,000 a year free.",
+   "Use it for a first home under £450,000, or from age 60."
+  ],
+  "apply": "https://www.gov.uk/lifetime-isa",
+  "applyNote": "Opens gov.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.gov.uk/lifetime-isa"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "bg-energy-trust": {
+  "h1": "British Gas Energy Trust grants",
+  "lead": "Energy debt cleared, any supplier",
+  "chips": "Energy England, Scotland and Wales",
+  "worth": "Could be worth £1,700 Up to, one-off",
+  "cells": [
+   "Could be worth £1,700 Up to, one-off",
+   "Time to apply 2 hours including the advice session",
+   "Documents 4 needed"
+  ],
+  "more": [
+   "Decision 6 to 12 weeks",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "More paperwork: 4 documents, 2 hours including the advice session Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: Clears energy debt of £50 to £1,700; open to any supplier's customers",
+  "rules": [
+   "Energy debt on an account in your name at your home",
+   "Household income under £20,328 (or disability benefit / 3+ children routes)",
+   "Money advice session within the last 6 months",
+   "No BGET grant in the last 2 years"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "A money advice session completed in the last 6 months",
+     "Energy account details and debt balance",
+     "Income and expenditure statement",
+     "Bank statements"
+    ]
+   }
+  ],
+  "steps": [
+   "FIRST book a money advice session with Citizens Advice, StepChange or a local advice agency. The Trust checks this.",
+   "Get the adviser to complete a full income and expenditure statement with you.",
+   "Apply on the British Gas Energy Trust website for the Individual and Families Fund.",
+   "Attach the advice session evidence, your energy debt figures and your budget.",
+   "Grants clear energy debt up to £1,700."
+  ],
+  "apply": "https://britishgasenergytrust.org.uk/grants-available/",
+  "applyNote": "Opens britishgasenergytrust.org.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Tracking",
+  "share": "Share",
+  "sources": [
+   "https://britishgasenergytrust.org.uk/grants-available/"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "free-courses-for-jobs": {
+  "h1": "Free Courses for Jobs",
+  "lead": "Free A-level-equivalent qualification from the approved list",
+  "chips": "Education England",
+  "worth": "Could be worth £2,000 Could be worth",
+  "cells": [
+   "Could be worth £2,000 Could be worth",
+   "Time to apply Not listed",
+   "Documents Not listed Check the official page"
+  ],
+  "more": [
+   "Decision Not listed",
+   "Cost Not listed",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Effort not listed yet Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply.",
+   "It depends on your situation. Check the rules below."
+  ],
+  "valueNote": "About the amount: Courses typically £2,000 to £4,000",
+  "rules": [],
+  "needed": 6,
+  "docGroups": [],
+  "steps": [
+   "Check you fit: England, open regardless of status.",
+   "Open the official page for this scheme.",
+   "Gather what they ask for before you start, so you can finish in one sitting.",
+   "Submit, note the reference, and set a reminder to chase if you hear nothing in a month."
+  ],
+  "apply": "https://www.gov.uk/guidance/free-courses-for-jobs",
+  "applyNote": "Opens gov.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "marriage-allowance": {
+  "h1": "Marriage Allowance",
+  "lead": "Transfer unused tax allowance",
+  "chips": "Money Whole UK",
+  "worth": "Could be worth £252 Could be worth, a year",
+  "cells": [
+   "Could be worth £252 Could be worth, a year",
+   "Time to apply 10 minutes",
+   "Documents 3 needed"
+  ],
+  "more": [
+   "Decision Within 2 months",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Some paperwork: 3 documents, 10 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: Backdatable 4 years: first claim can be worth about £1,000",
+  "rules": [
+   "Married or civil partnership",
+   "Lower earner under £12,570",
+   "Higher earner pays basic rate only",
+   "Both have NI numbers"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Both National Insurance numbers",
+     "Both dates of birth",
+     "A form of ID for the lower earner"
+    ]
+   }
+  ],
+  "steps": [
+   "Confirm one of you earns under the personal allowance and the other is a basic-rate taxpayer.",
+   "The LOWER earner makes the claim on GOV.UK.",
+   "Transfer £1,260 of unused personal allowance to your partner.",
+   "Backdate it up to 4 years in the same application."
+  ],
+  "apply": "https://www.gov.uk/apply-marriage-allowance",
+  "applyNote": "Opens gov.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.gov.uk/apply-marriage-allowance"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "prescription-charges-and-the-prepayment": {
+  "h1": "Prescription charges and the prepayment certificate",
+  "lead": "England 2026/27: £9.90 per item, frozen",
+  "chips": "Health Whole UK",
+  "worth": "Could be worth £100 Could be worth, a year",
+  "cells": [
+   "Could be worth £100 Could be worth, a year",
+   "Time to apply Not listed",
+   "Documents Not listed Check the official page"
+  ],
+  "more": [
+   "Decision Not listed",
+   "Cost Not listed",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Effort not listed yet Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: £100+/yr saved with a 12-month PPC on 2 items a month",
+  "rules": [],
+  "needed": 6,
+  "docGroups": [],
+  "steps": [
+   "Check you fit: Whole UK, open regardless of status.",
+   "Open the official page for this scheme.",
+   "Gather what they ask for before you start, so you can finish in one sitting.",
+   "Submit, note the reference, and set a reminder to chase if you hear nothing in a month."
+  ],
+  "apply": "https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs/prescription-prepayment-certificates-ppcs",
+  "applyNote": "Opens nhsbsa.nhs.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "community-fibre-essential": {
+  "h1": "Community Fibre Essential",
+  "lead": "£12.50 broadband, no criteria",
+  "chips": "Phone and internet London only",
+  "worth": "Could be worth £12.50 per month",
+  "cells": [
+   "Could be worth £12.50 per month",
+   "Time to apply 15 minutes",
+   "Documents 1 needed"
+  ],
+  "more": [
+   "Decision Install within days",
+   "Cost £12.50 a month",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Quick and simple: 1 document, 15 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: 35 Mbit/s full fibre; no benefit check per the provider; 4th Utility (£13.99) similar in its buildings",
+  "rules": [
+   "Address on the Community Fibre London network"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Your London address"
+    ]
+   }
+  ],
+  "steps": [
+   "Check coverage at your postcode on the Community Fibre website.",
+   "Order the 35 Mbit/s Essential package at £12.50 a month.",
+   "Book the installation slot."
+  ],
+  "apply": "https://communityfibre.co.uk/35-mbps",
+  "applyNote": "Opens communityfibre.co.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://communityfibre.co.uk/35-mbps",
+   "https://www.ofcom.org.uk/phones-and-broadband/saving-money/social-tariffs"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "fuel-bank-vouchers": {
+  "h1": "Fuel Bank Foundation vouchers",
+  "lead": "Emergency prepayment top-ups",
+  "chips": "Energy Whole UK",
+  "worth": "Could be worth £49 per voucher (£89 winter)",
+  "cells": [
+   "Could be worth £49 per voucher (£89 winter)",
+   "Time to apply One appointment",
+   "Documents 1 needed"
+  ],
+  "more": [
+   "Decision Same day",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Quick and simple: 1 document, one appointment Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: About a week of energy; repeatable; referral via food banks, councils, advice agencies",
+  "rules": [
+   "Prepayment gas/electricity meter",
+   "Out of credit or about to run out",
+   "Referred by a partner organisation"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Your prepayment meter details"
+    ]
+   }
+  ],
+  "steps": [
+   "Get a referral from a food bank, council, Citizens Advice or another advice agency.",
+   "They issue a Fuel Bank Foundation voucher: £49, or £89 in winter.",
+   "Take the code to a PayPoint or Post Office to top up your meter."
+  ],
+  "apply": "https://www.fuelbankfoundation.org/individuals/",
+  "applyNote": "Opens fuelbankfoundation.org in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.fuelbankfoundation.org/individuals/"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "water-income-tariffs": {
+  "h1": "Water social tariffs (income-based)",
+  "lead": "25% to 99% off water bills",
+  "chips": "Water Depends on your water company",
+  "worth": "Could be worth 25% to 99% off",
+  "cells": [
+   "Could be worth 25% to 99% off",
+   "Time to apply 30 minutes",
+   "Documents 3 needed 1 more may be needed"
+  ],
+  "more": [
+   "Decision 2 to 6 weeks",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "More paperwork: 3 documents, 30 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: Thames WaterHelp (bill over 5% of income), Severn Trent Big Difference (under £22,010), Yorkshire WaterSupport (bill cut to £295/yr), Anglian LITE, Southern Essentials (45-90% off), UU Back on Track; plus £1-for-£1 debt matching",
+  "rules": [
+   "Named on the water account",
+   "Household income under the company threshold (roughly £21,000 to £22,000)"
+  ],
+  "needed": 9,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Proof of household income",
+     "Your water account number",
+     "Details of everyone in the household"
+    ]
+   },
+   {
+    "legend": "May be needed",
+    "items": [
+     "Tenancy agreement"
+    ]
+   }
+  ],
+  "steps": [
+   "Find your water company (it is on your bill) and search its social tariff by name: WaterHelp, Big Difference, Back on Track, WaterSupport, LITE or Essentials.",
+   "Apply with income evidence: these schemes are income-tested only, with no benefit requirement.",
+   "If your bill is more than 5% of your net income, say so: several schemes trigger on that alone."
+  ],
+  "apply": "https://www.ccw.org.uk/save-money-and-water/help-with-bills/",
+  "applyNote": "Opens ccw.org.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.thameswater.co.uk/help/account-and-billing/financial-support/waterhelp",
+   "https://www.ccw.org.uk/save-money-and-water/help-with-bills/"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "tax-refund": {
+  "h1": "HMRC tax refunds",
+  "lead": "Emergency tax back",
+  "chips": "Money Whole UK",
+  "worth": "Could be worth Actual overpayment",
+  "cells": [
+   "Could be worth Actual overpayment",
+   "Time to apply 20 minutes",
+   "Documents 3 needed"
+  ],
+  "more": [
+   "Decision 5 days to 8 weeks",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Some paperwork: 3 documents, 20 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: Common for first-job newcomers on emergency codes; claims go back 4 tax years; uniform flat rate £60 to £185/yr",
+  "rules": [
+   "Paid UK tax",
+   "P800 auto, P50 stopped work, P85 leaving UK"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Your payslips or P45",
+     "Your National Insurance number",
+     "A Government Gateway account"
+    ]
+   }
+  ],
+  "steps": [
+   "Check the tax code on your payslip. 1257L W1/M1, BR or 0T usually means you are overpaying.",
+   "For a past year, HMRC often issues a P800 refund automatically: check your personal tax account.",
+   "If you stopped work mid-year, submit form P50.",
+   "If you are leaving the UK, submit form P85.",
+   "Claims can go back 4 tax years."
+  ],
+  "apply": "https://www.gov.uk/claim-tax-refund",
+  "applyNote": "Opens gov.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.gov.uk/claim-tax-refund"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "student-oyster": {
+  "h1": "18+ Student Oyster photocard",
+  "lead": "30% off London travelcards",
+  "chips": "Transport London only",
+  "worth": "Could be worth 30% off season tickets",
+  "cells": [
+   "Could be worth 30% off season tickets",
+   "Time to apply 20 minutes",
+   "Documents 3 needed"
+  ],
+  "more": [
+   "Decision Up to 2 weeks for the card",
+   "Cost £20 admin fee",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Some paperwork: 3 documents, 20 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: £20 fee; international students routinely hold one; Zip cards give under-18s free or half fare",
+  "rules": [
+   "18+, enrolled at a TfL-registered institution",
+   "Living in a London borough in term time",
+   "15+ structured hours a week, 14+ weeks"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Your university enrolment details",
+     "A digital photo",
+     "Your London term-time address"
+    ]
+   }
+  ],
+  "steps": [
+   "Apply through the TfL 18+ Student Oyster page.",
+   "Your university confirms your enrolment: you need 15+ structured hours a week and a London address in term time.",
+   "Pay the £20 fee.",
+   "The card arrives by post: 30% off travelcards and season tickets."
+  ],
+  "apply": "https://tfl.gov.uk/fares/free-and-discounted-travel/18-plus-student-oyster-photocard",
+  "applyNote": "Opens tfl.gov.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://tfl.gov.uk/fares/free-and-discounted-travel/18-plus-student-oyster-photocard"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "trussell-food-banks": {
+  "h1": "Food banks (Trussell + independents)",
+  "lead": "Emergency food, referral-based",
+  "chips": "Food Whole UK",
+  "worth": "Could be worth 3-day parcels",
+  "cells": [
+   "Could be worth 3-day parcels",
+   "Time to apply One phone call",
+   "Documents None needed 1 more may be needed"
+  ],
+  "more": [
+   "Decision Same day",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Quick and simple: No documents, one phone call Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: No immigration check; community fridges and baby banks need no referral at all",
+  "rules": [
+   "Referral voucher from a partner agency (Citizens Advice, school, GP, council)"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "May be needed",
+    "items": [
+     "Referral voucher from a partner agency (Citizens Advice, school, GP, council)"
+    ]
+   }
+  ],
+  "steps": [
+   "Ring Help through Hardship free on 0808 208 2138: it is the fastest route to a voucher.",
+   "Or ask any of these for a referral: Citizens Advice, your GP, your child's school, a social worker, the council.",
+   "Take the voucher to the food bank at its opening time.",
+   "You receive at least 3 days of emergency food."
+  ],
+  "apply": "https://www.trussell.org.uk/",
+  "applyNote": "Opens trussell.org.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.trussell.org.uk/news-and-research/latest-stats/end-of-year-stats"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "nino": {
+  "h1": "National Insurance number",
+  "lead": "Free, opens everything contributory",
+  "chips": "Visa and legal Whole UK",
+  "worth": "Could be worth Free",
+  "cells": [
+   "Could be worth Free",
+   "Time to apply About 15 minutes",
+   "Documents 2 needed"
+  ],
+  "more": [
+   "Decision Up to 4 weeks",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Some paperwork: 2 documents, about 15 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: Builds New Style JSA/ESA and State Pension entitlement; needed for childcare accounts and LISA",
+  "rules": [
+   "Living in the UK with the right to work"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Your passport or eVisa share code",
+     "Your UK address"
+    ]
+   }
+  ],
+  "steps": [
+   "Check your BRP first: some already show a National Insurance number, in which case you do not need to apply.",
+   "Apply on GOV.UK. It is online only.",
+   "Upload identity evidence when asked.",
+   "Wait for the letter. You can start work before it arrives using your eVisa share code."
+  ],
+  "apply": "https://www.gov.uk/apply-national-insurance-number",
+  "applyNote": "Opens gov.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.gov.uk/apply-national-insurance-number"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "universal-credit": {
+  "h1": "Universal Credit",
+  "lead": "Main means-tested support",
+  "chips": "Welfare support Whole UK",
+  "worth": "Could be worth £5,099 Single 25+ standard allowance, per year",
+  "cells": [
+   "Could be worth £5,099 Single 25+ standard allowance, per year",
+   "Time to apply 1 hour",
+   "Documents 4 needed 2 more may be needed"
+  ],
+  "more": [
+   "Decision First payment about 5 weeks",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "More paperwork: 4 documents, 1 hour Based on the number of documents and steps",
+  "pf": [
+   "A public fund. Your visa condition applies."
+  ],
+  "valueNote": "About the amount: £424.90/month single 25+ (2026/27, verified); child element £303.94/child, two-child limit abolished April 2026; childcare 85% to £1,071.09; LCWRA £217.26 for new claims",
+  "rules": [
+   "Recourse to public funds",
+   "Savings under £16,000",
+   "Habitual Residence Test (refugees, Ukraine exempt)",
+   "First payment about 5 weeks (advance available day 1)"
+  ],
+  "needed": 9,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Bank details",
+     "Housing costs and tenancy agreement",
+     "ID and immigration documents",
+     "National Insurance number"
+    ]
+   },
+   {
+    "legend": "May be needed",
+    "items": [
+     "Childcare receipts if relevant",
+     "Bank statements"
+    ]
+   }
+  ],
+  "steps": [
+   "Claim on GOV.UK. Free help is available on 0800 144 8 444.",
+   "Complete the online claim and book your first Jobcentre appointment.",
+   "Verify your identity and attend the appointment.",
+   "Accept your claimant commitment.",
+   "First payment lands about 5 weeks later."
+  ],
+  "apply": "https://www.gov.uk/universal-credit",
+  "applyNote": "Opens gov.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.gov.uk/universal-credit/what-youll-get"
+  ],
+  "standing": "Not open to you now. This is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.",
+  "disc": true,
+  "readBtn": true
+ },
+ "turn2us-grants": {
+  "h1": "Turn2us grants search",
+  "lead": "1,700+ charitable funds",
+  "chips": "Charity Whole UK",
+  "worth": "Could be worth Non-repayable grants",
+  "cells": [
+   "Could be worth Non-repayable grants",
+   "Time to apply 20 minutes to search, then per-fund applications",
+   "Documents 3 needed"
+  ],
+  "more": [
+   "Decision Varies by fund",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Some paperwork: 3 documents, 20 minutes to search, then per-fund applications Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: Matched by occupation, nationality, location, situation; each fund sets its own rules",
+  "rules": [
+   "Complete the situation search honestly",
+   "Apply to matched funds individually"
+  ],
+  "needed": 8,
+  "docGroups": [
+   {
+    "legend": "Needed",
+    "items": [
+     "Your occupation history",
+     "Your nationality and location",
+     "Details of your situation"
+    ]
+   }
+  ],
+  "steps": [
+   "Go to the Turn2us grants search.",
+   "Enter your occupation, former occupations, nationality, location and circumstances.",
+   "It matches you across 1,700+ charitable funds.",
+   "Apply to each fund that fits: each sets its own rules and forms."
+  ],
+  "apply": "https://www.turn2us.org.uk/get-support/grants-search",
+  "applyNote": "Opens turn2us.org.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.turn2us.org.uk/get-support/grants-search"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ },
+ "gp-registration": {
+  "h1": "GP registration",
+  "lead": "Free NHS primary care",
+  "chips": "Health Whole UK",
+  "worth": "Could be worth Free care",
+  "cells": [
+   "Could be worth Free care",
+   "Time to apply 15 minutes",
+   "Documents None needed"
+  ],
+  "more": [
+   "Decision Usually same day to 2 weeks",
+   "Cost Free",
+   "Approval rate No published rate yet"
+  ],
+  "effort": "Quick and simple: No documents, 15 minutes Based on the number of documents and steps",
+  "pf": [
+   "Not a public fund. Your visa condition does not apply."
+  ],
+  "valueNote": "About the amount: Gateway to all NHS services",
+  "rules": [
+   "Live in or near the practice area",
+   "No ID, proof of address or immigration status required (NHS policy)"
+  ],
+  "needed": 7,
+  "docGroups": [],
+  "steps": [
+   "Find a practice near you on the NHS website.",
+   "Ask to register. Fill in form GMS1 at reception or online.",
+   "If you have no proof of address or ID, say so and ask to register anyway: NHS policy allows it.",
+   "If you are homeless, you may use the surgery address."
+  ],
+  "apply": "https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/",
+  "applyNote": "Opens nhs.uk in a new tab. Landit does not apply for you.",
+  "claim": [
+   "Not started",
+   "Applied",
+   "Approved",
+   "Turned down"
+  ],
+  "track": "Track",
+  "share": "Share",
+  "sources": [
+   "https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/"
+  ],
+  "standing": null,
+  "disc": true,
+  "readBtn": true
+ }
+}

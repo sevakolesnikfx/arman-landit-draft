@@ -1,0 +1,412 @@
+{
+ "chat": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Good afternoon, Amara. How can I help?",
+   "H2:Or try one of these"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 900,
+  "hscroll": false,
+  "disc": [
+   "455px composer-disclaimer"
+  ]
+ },
+ "chat#reply": {
+  "small": [
+   "a.ccard-name \"16-25 Railcard\" 135x25",
+   "a.ccard-name \"Council Tax student exemption (Class N)\" 384x25",
+   "a.ccard-name \"British Gas Energy Trust grants\" 296x25"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Chat"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h1.sr-only \"Chat\" 77>1"
+  ],
+  "docH": 1737,
+  "hscroll": false,
+  "disc": [
+   "1644px composer-disclaimer"
+  ]
+ },
+ "benefits": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:You may be able to get 79 benefits",
+   "H2:Choose a group"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 2365,
+  "hscroll": false,
+  "disc": [
+   "2159px disclaimer"
+  ]
+ },
+ "benefits#blocked": {
+  "small": [
+   "a. \"Personal Independence Payment\" 278x23",
+   "a. \"Universal Credit\" 136x23",
+   "a. \"Carer's Allowance\" 149x23",
+   "a. \"Crisis and Resilience Fund\" 224x23",
+   "a. \"Local welfare assistance, England\" 285x23",
+   "a. \"Council Tax Reduction\" 188x23",
+   "a. \"Budgeting Advance\" 163x23",
+   "a. \"Cold Weather Payment\" 191x23",
+   "a. \"Help to Save\" 107x23",
+   "a. \"Broadband social tariffs (mainstream)\" 321x23",
+   "a. \"Warm Home Discount\" 182x23",
+   "a. \"Discretionary Housing Payments\" 274x23",
+   "a. \"WaterSure\" 87x23"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:You may be able to get 79 benefits",
+   "H2:Choose a group",
+   "H3:Public funds (8)",
+   "H3:Need a public fund to qualify (5)"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 3275,
+  "hscroll": false,
+  "disc": [
+   "3069px disclaimer"
+  ]
+ },
+ "benefits/all": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:All benefits"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 17626,
+  "hscroll": false,
+  "disc": [
+   "17420px disclaimer"
+  ]
+ },
+ "benefits/money": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Money"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 1921,
+  "hscroll": false,
+  "disc": [
+   "1715px disclaimer"
+  ]
+ },
+ "benefit/council-tax-student": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Council Tax student exemption (Class N)",
+   "H2:Who can get it",
+   "H2:What you need",
+   "H2:How to apply",
+   "H2:Improve your chances",
+   "H3:Most common mistake",
+   "H2:Where is your application up to?",
+   "H2:What people said",
+   "H2:Sources"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 3952,
+  "hscroll": false,
+  "disc": [
+   "3746px disclaimer"
+  ]
+ },
+ "benefit/universal-credit": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Universal Credit",
+   "H2:Who can get it",
+   "H2:What you need",
+   "H2:How to apply",
+   "H2:Improve your chances",
+   "H3:Most common mistake",
+   "H2:Where is your application up to?",
+   "H2:What people said",
+   "H2:Sources"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 3943,
+  "hscroll": false,
+  "disc": [
+   "3737px disclaimer"
+  ]
+ },
+ "community": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Community",
+   "H2:Council tax as a student",
+   "H2:Hardship fund: write a clear budget",
+   "H2:Railcard with a passport from home",
+   "H2:Registering with a GP with no proof of a",
+   "H2:Help with prescriptions and the dentist",
+   "H2:My first UK bank account",
+   "H2:Emergency tax on my first payslip",
+   "H2:Student Oyster card in London",
+   "H2:One folder for all my letters",
+   "H2:Asking for help with forms"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 4212,
+  "hscroll": false,
+  "disc": [
+   "4006px disclaimer"
+  ]
+ },
+ "community#replies": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Community",
+   "H2:Council tax as a student",
+   "H2:Hardship fund: write a clear budget",
+   "H2:Railcard with a passport from home",
+   "H2:Registering with a GP with no proof of a",
+   "H2:Help with prescriptions and the dentist",
+   "H2:My first UK bank account",
+   "H2:Emergency tax on my first payslip",
+   "H2:Student Oyster card in London",
+   "H2:One folder for all my letters",
+   "H2:Asking for help with forms"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 4606,
+  "hscroll": false,
+  "disc": [
+   "4400px disclaimer"
+  ]
+ },
+ "community/ratings": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Community",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 4703,
+  "hscroll": false,
+  "disc": [
+   "4497px disclaimer"
+  ]
+ },
+ "settings": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:My profile",
+   "H2:Your details",
+   "H2:Your answers",
+   "H2:Colours",
+   "H2:Text size",
+   "H2:Language",
+   "H2:Read aloud",
+   "H2:Help now",
+   "H2:Account",
+   "H2:About"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 3138,
+  "hscroll": false,
+  "disc": [
+   "2925px disclaimer"
+  ]
+ },
+ "settings/help": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Help now",
+   "H2:Emergency, right now",
+   "H2:Police, not an emergency",
+   "H2:Health",
+   "H2:Scams and fraud",
+   "H2:Abuse, violence and exploitation",
+   "H2:Children",
+   "H2:Home and consumer"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 4645,
+  "hscroll": false,
+  "disc": [
+   "4439px disclaimer"
+  ]
+ },
+ "settings/answer/status": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:What is your visa or immigration status?"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 1674,
+  "hscroll": false,
+  "disc": []
+ },
+ "chat#drawer": {
+  "small": [
+   "a.ccard-name \"16-25 Railcard\" 135x25",
+   "a.ccard-name \"Council Tax student exemption (Class N)\" 384x25",
+   "a.ccard-name \"British Gas Energy Trust grants\" 296x25"
+  ],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Chat"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h1.sr-only \"Chat\" 77>1"
+  ],
+  "docH": 1735,
+  "hscroll": false,
+  "disc": [
+   "1642px composer-disclaimer"
+  ]
+ },
+ "questions": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:What is your visa or immigration status?"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 1703,
+  "hscroll": false,
+  "disc": []
+ },
+ "ack": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:Before you start"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 900,
+  "hscroll": false,
+  "disc": [
+   "281px ack-text"
+  ]
+ },
+ "login": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:Know what you need.",
+   "H2:Sign in"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h2.sr-only \"Sign in\" 88>1"
+  ],
+  "docH": 1058,
+  "hscroll": false,
+  "disc": [
+   "883px disclaimer"
+  ]
+ },
+ "register": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:Know what you need.",
+   "H2:Create account"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h2.sr-only \"Create account\" 188>1"
+  ],
+  "docH": 1177,
+  "hscroll": false,
+  "disc": [
+   "1002px disclaimer"
+  ]
+ },
+ "errors": []
+}

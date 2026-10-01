@@ -1,0 +1,1089 @@
+{
+ "log": [
+  {
+   "q": "What can I claim?",
+   "text": "On a Student visa in England, you may be able to get 80 schemes and services. 8 of them have an amount. 13 others are not open to you because of your visa condition.\n\nHere are 3 to look at first. Council Tax student exemption (Class N): £1,800 (typical annual saving). British Gas Energy Trust grants: £1,700 (up to, one-off). University hardship fund: £1,400 (typical amount).\n\nAll the amounts together come to £8,464. That is the potential, if all approved. See every scheme in Benefits.",
+   "cards": [
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    },
+    {
+     "name": "British Gas Energy Trust grants",
+     "val": "£1,700 Up to, one-off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "University hardship fund",
+     "val": "£1,400 Typical amount",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Which documents do I need?",
+    "What does no recourse to public funds mean?",
+    "How does tracking work?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "railcard",
+   "text": "16-25 Railcard: 1/3 off rail fares. You may be able to get this.\n\nIt could be worth £212 (average yearly saving). Time to apply: 10 minutes. Decision: instant for digital.\n\nYou will need: a passport from any country, or other accepted ID; a digital photo; and payment card.",
+   "cards": [
+    {
+     "name": "16-25 Railcard",
+     "val": "£212 Average yearly saving",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "How does tracking work?",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "oyster",
+   "text": "18+ Student Oyster photocard: 30% off London travelcards. You may be able to get this.\n\nLandit lists it as: 30% off season tickets. Time to apply: 20 minutes. Decision: up to 2 weeks for the card.\n\nYou will need: your university enrolment details, a digital photo and your London term-time address.",
+   "cards": [
+    {
+     "name": "18+ Student Oyster photocard",
+     "val": "30% off season tickets",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "How does tracking work?",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "hardship fund",
+   "text": "University hardship fund: non-repayable student grants. You may be able to get this.\n\nIt could be worth £1,400 (typical amount). Time to apply: 1 to 2 hours. Decision: typically 2 to 6 weeks.\n\nYou will need: 3 months of bank statements; a budget: income in, essential costs out; evidence of what changed (job loss, family emergency, unexpected bill); and your enrolment details.",
+   "cards": [
+    {
+     "name": "University hardship fund",
+     "val": "£1,400 Typical amount",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "How does tracking work?",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "GP",
+   "text": "GP registration: free NHS primary care. You may be able to get this.\n\nLandit lists it as: free care. Time to apply: 15 minutes. Decision: usually same day to 2 weeks.\n\nNothing is legally required.",
+   "cards": [
+    {
+     "name": "GP registration",
+     "val": "Free care",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "How does tracking work?",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "council tax reduction",
+   "text": "Council Tax Reduction: means-tested bill rebate. This is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.\n\nLandit lists it as: up to 100% off. Time to apply: 30 minutes. Decision: 2 to 8 weeks.",
+   "cards": [
+    {
+     "name": "Council Tax Reduction",
+     "val": "Up to 100% off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "What does no recourse to public funds mean?",
+    "What can I claim?",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "food bank",
+   "text": "Food banks (Trussell + independents): emergency food, referral-based. You may be able to get this.\n\nLandit lists it as: 3-day parcels. Time to apply: one phone call. Decision: same day.\n\nYou may also need: referral voucher from a partner agency (Citizens Advice, school, GP, council). Nothing. No ID or immigration check.",
+   "cards": [
+    {
+     "name": "Food banks (Trussell + independents)",
+     "val": "3-day parcels",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "How does tracking work?",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "which documents do I need",
+   "text": "For Council Tax student exemption (Class N), you will need: student certificate from your university (free, ask the registry); and your tenancy agreement. You may also need: share code for a non-working spouse or dependant.\n\nYou have ticked 1 of 3. Open it from your sidebar to tick the rest.",
+   "cards": [
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "How does tracking work?",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "travel",
+   "text": "Here are 3 of 10 options for travel that you may be able to use.\n\n16-25 Railcard: 1/3 off rail fares. It could be worth £212 (average yearly saving). 18+ Student Oyster photocard: 30% off London travelcards. National bus fare cap: single fares capped at £3 to 31 December 2026, then £2 for the whole of 2027.\n\nSee them all in Benefits.",
+   "cards": [
+    {
+     "name": "16-25 Railcard",
+     "val": "£212 Average yearly saving",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "18+ Student Oyster photocard",
+     "val": "30% off season tickets",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "National bus fare cap",
+     "val": "No set amount",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Help with bills",
+    "Help with health costs",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "health",
+   "text": "Here are 3 of 8 options for health that you may be able to use.\n\nPrescription charges and the prepayment certificate. England 2026/27: £9.90 per item, frozen. It could be worth £100 a year. GP registration: free NHS primary care. NHS Low Income Scheme (HC2/HC3): free prescriptions, dental, eye care.\n\nSee them all in Benefits.",
+   "cards": [
+    {
+     "name": "Prescription charges and the prepayment certificate",
+     "val": "£100 Could be worth, a year",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "GP registration",
+     "val": "Free care",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "NHS Low Income Scheme (HC2/HC3)",
+     "val": "Health costs covered",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Help with travel costs",
+    "Help with bills",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "bills",
+   "text": "Here are 3 of 15 options for bills that you may be able to use.\n\nBritish Gas Energy Trust grants: energy debt cleared, any supplier. It could be worth £1,700 (up to, one-off). Community Fibre Essential: £12.50 broadband, no criteria. Water social tariffs (income-based): 25% to 99% off water bills.\n\n3 others are not open to you because of your visa condition. See them all in Benefits.",
+   "cards": [
+    {
+     "name": "British Gas Energy Trust grants",
+     "val": "£1,700 Up to, one-off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "Community Fibre Essential",
+     "val": "£12.50 per month",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "Water social tariffs (income-based)",
+     "val": "25% to 99% off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Help with travel costs",
+    "Help with health costs",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "childcare",
+   "text": "You told Landit you have no children who live with you, so childcare schemes are hidden.\n\nIf that changes, update your answers in Settings.",
+   "cards": [],
+   "sug": [
+    "What can I claim?",
+    "Help with travel costs",
+    "Help with bills"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "food",
+   "text": "Here are 3 of 4 options for food that you may be able to use.\n\nFood banks (Trussell + independents): emergency food, referral-based. Independent food banks: 774 locations outside the Trussell network; many accept self-referral. Community fridges: 700+ free walk-in fridges sharing surplus food.\n\nSee them all in Benefits.",
+   "cards": [
+    {
+     "name": "Food banks (Trussell + independents)",
+     "val": "3-day parcels",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "Independent food banks",
+     "val": "No set amount",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "Community fridges",
+     "val": "No set amount",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Help with bills",
+    "What can I claim?",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "council tax",
+   "text": "Council Tax student exemption (Class N): 100% off for student households. It could be worth £1,800 (typical annual saving). You may be able to get this.\n\nCouncil Tax Reduction is different. This is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.\n\nTime to apply: 20 minutes. Decision: 2 to 6 weeks.",
+   "cards": [
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    },
+    {
+     "name": "Council Tax Reduction",
+     "val": "Up to 100% off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "What documents do I need for Council Tax student exemption (Class N)?",
+    "What does no recourse to public funds mean?",
+    "Help with bills"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "no recourse to public funds",
+   "text": "Public funds are a fixed list in paragraph 6.2 of the Immigration Rules. If a scheme is not on that list, the no recourse to public funds condition does not apply to it. Only the scheme's own rules matter.\n\nYour visa has this condition. Landit set aside 13 schemes that are public funds or need one, and shows 80 that your condition does not touch.\n\nIf you are not sure about your conditions, free regulated immigration advice can help.",
+   "cards": [
+    {
+     "name": "Free regulated immigration advice",
+     "val": "No set amount",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "What can I claim?",
+    "Help with bills"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "how does tracking work",
+   "text": "Tracking keeps the schemes you are working on in your sidebar. Open a scheme in Benefits and choose Track.\n\nFor each one, you can tick the documents you have, and note where you are: Not started, Applied, Approved or Turned down.\n\nYou are tracking 2: University hardship fund (applied) and Council Tax student exemption (Class N) (not started).",
+   "cards": [
+    {
+     "name": "University hardship fund",
+     "val": "£1,400 Typical amount",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    },
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Which documents do I need?",
+    "What can I claim?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "I am in danger",
+   "text": "If you are in danger now, call 999. It is free, any time, from any phone.\n\nFor urgent health advice, call 111. To talk to someone, call Samaritans on 116 123.\n\nIf you need food today, a food bank may help. Open Help now for more numbers.",
+   "cards": [],
+   "sug": [
+    "Tell me about food banks",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": true
+  },
+  {
+   "q": "abuse",
+   "text": "If you are in danger now, call 999. It is free, any time, from any phone.\n\nFor urgent health advice, call 111. To talk to someone, call Samaritans on 116 123.\n\nHelplines like Victim Support, Rape Crisis and the domestic abuse lines are independent charities. They will not ask about your immigration status, and helping you does not depend on going to the police.",
+   "cards": [],
+   "sug": [
+    "Tell me about food banks",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": true
+  },
+  {
+   "q": "emergency",
+   "text": "If you are in danger now, call 999. It is free, any time, from any phone.\n\nFor urgent health advice, call 111. To talk to someone, call Samaritans on 116 123.\n\nIf you need food today, a food bank may help. Open Help now for more numbers.",
+   "cards": [],
+   "sug": [
+    "Tell me about food banks",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": true
+  },
+  {
+   "q": "hello",
+   "text": "Hello Amara. I can help you find money, services and rights you may be able to get in the UK.\n\nWhat would you like to know?",
+   "cards": [],
+   "sug": [
+    "What can I claim?",
+    "Council tax as a student",
+    "What does no recourse to public funds mean?",
+    "Help with travel costs"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "thanks",
+   "text": "You are welcome. Ask me anything else about schemes, documents or tracking.",
+   "cards": [],
+   "sug": [
+    "What can I claim?",
+    "Council tax as a student",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "what can you do",
+   "text": "I answer questions using Landit's list of UK schemes and the answers you gave. I give information, not advice.\n\nThis prototype can answer a few example questions. Try one of these.",
+   "cards": [],
+   "sug": [
+    "What can I claim?",
+    "Council tax as a student",
+    "What does no recourse to public funds mean?",
+    "Help with travel costs"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "policy",
+   "text": "Sorry, I did not understand that. This prototype can answer a few example questions. Try one of these.",
+   "cards": [],
+   "sug": [
+    "What can I claim?",
+    "Council tax as a student",
+    "What does no recourse to public funds mean?",
+    "Help with travel costs"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "asdf qwerty",
+   "text": "Sorry, I did not understand that. This prototype can answer a few example questions. Try one of these.",
+   "cards": [],
+   "sug": [
+    "What can I claim?",
+    "Council tax as a student",
+    "What does no recourse to public funds mean?",
+    "Help with travel costs"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "universal credit",
+   "text": "Universal Credit: main means-tested support. This is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.\n\nFor people who can get it, it could be worth £5,099 (single 25+ standard allowance, per year). Time to apply: 1 hour. Decision: first payment about 5 weeks.",
+   "cards": [
+    {
+     "name": "Universal Credit",
+     "val": "£5,099 Single 25+ standard allowance, per year",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "What does no recourse to public funds mean?",
+    "What can I claim?",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "how much money can I get",
+   "text": "On a Student visa in England, you may be able to get 80 schemes and services. 8 of them have an amount. 13 others are not open to you because of your visa condition.\n\nHere are 3 to look at first. Council Tax student exemption (Class N): £1,800 (typical annual saving). British Gas Energy Trust grants: £1,700 (up to, one-off). University hardship fund: £1,400 (typical amount).\n\nAll the amounts together come to £8,464. That is the potential, if all approved. See every scheme in Benefits.",
+   "cards": [
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    },
+    {
+     "name": "British Gas Energy Trust grants",
+     "val": "£1,700 Up to, one-off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "University hardship fund",
+     "val": "£1,400 Typical amount",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Which documents do I need?",
+    "What does no recourse to public funds mean?",
+    "How does tracking work?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "am I entitled to PIP",
+   "text": "Personal Independence Payment: disability extra-costs benefit. This is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.\n\nFor people who can get it, it could be worth £10,119 (maximum, per year). Time to apply: several hours over 2 to 3 weeks. Decision: median 18 weeks.",
+   "cards": [
+    {
+     "name": "Personal Independence Payment",
+     "val": "£10,119 Maximum, per year",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "What does no recourse to public funds mean?",
+    "What can I claim?",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "Which documents do I need?",
+   "viaSuggestion": true,
+   "text": "For Council Tax student exemption (Class N), you will need: student certificate from your university (free, ask the registry); and your tenancy agreement. You may also need: share code for a non-working spouse or dependant.\n\nYou have ticked 1 of 3. Open it from your sidebar to tick the rest.",
+   "cards": [
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "How does tracking work?",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "What does no recourse to public funds mean?",
+   "viaSuggestion": true,
+   "text": "Public funds are a fixed list in paragraph 6.2 of the Immigration Rules. If a scheme is not on that list, the no recourse to public funds condition does not apply to it. Only the scheme's own rules matter.\n\nYour visa has this condition. Landit set aside 13 schemes that are public funds or need one, and shows 80 that your condition does not touch.\n\nIf you are not sure about your conditions, free regulated immigration advice can help.",
+   "cards": [
+    {
+     "name": "Free regulated immigration advice",
+     "val": "No set amount",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "What can I claim?",
+    "Help with bills"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "How does tracking work?",
+   "viaSuggestion": true,
+   "text": "Tracking keeps the schemes you are working on in your sidebar. Open a scheme in Benefits and choose Track.\n\nFor each one, you can tick the documents you have, and note where you are: Not started, Applied, Approved or Turned down.\n\nYou are tracking 2: University hardship fund (applied) and Council Tax student exemption (Class N) (not started).",
+   "cards": [
+    {
+     "name": "University hardship fund",
+     "val": "£1,400 Typical amount",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    },
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Which documents do I need?",
+    "What can I claim?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "What can I claim?",
+   "viaSuggestion": true,
+   "text": "On a Student visa in England, you may be able to get 80 schemes and services. 8 of them have an amount. 13 others are not open to you because of your visa condition.\n\nHere are 3 to look at first. Council Tax student exemption (Class N): £1,800 (typical annual saving). British Gas Energy Trust grants: £1,700 (up to, one-off). University hardship fund: £1,400 (typical amount).\n\nAll the amounts together come to £8,464. That is the potential, if all approved. See every scheme in Benefits.",
+   "cards": [
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    },
+    {
+     "name": "British Gas Energy Trust grants",
+     "val": "£1,700 Up to, one-off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "University hardship fund",
+     "val": "£1,400 Typical amount",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Which documents do I need?",
+    "What does no recourse to public funds mean?",
+    "How does tracking work?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "Help with bills",
+   "viaSuggestion": true,
+   "text": "Here are 3 of 15 options for bills that you may be able to use.\n\nBritish Gas Energy Trust grants: energy debt cleared, any supplier. It could be worth £1,700 (up to, one-off). Community Fibre Essential: £12.50 broadband, no criteria. Water social tariffs (income-based): 25% to 99% off water bills.\n\n3 others are not open to you because of your visa condition. See them all in Benefits.",
+   "cards": [
+    {
+     "name": "British Gas Energy Trust grants",
+     "val": "£1,700 Up to, one-off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "Community Fibre Essential",
+     "val": "£12.50 per month",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "Water social tariffs (income-based)",
+     "val": "25% to 99% off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Help with travel costs",
+    "Help with health costs",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "Help with health costs",
+   "viaSuggestion": true,
+   "text": "Here are 3 of 8 options for health that you may be able to use.\n\nPrescription charges and the prepayment certificate. England 2026/27: £9.90 per item, frozen. It could be worth £100 a year. GP registration: free NHS primary care. NHS Low Income Scheme (HC2/HC3): free prescriptions, dental, eye care.\n\nSee them all in Benefits.",
+   "cards": [
+    {
+     "name": "Prescription charges and the prepayment certificate",
+     "val": "£100 Could be worth, a year",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "GP registration",
+     "val": "Free care",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "NHS Low Income Scheme (HC2/HC3)",
+     "val": "Health costs covered",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Help with travel costs",
+    "Help with bills",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "Help with travel costs",
+   "viaSuggestion": true,
+   "text": "Here are 3 of 10 options for travel that you may be able to use.\n\n16-25 Railcard: 1/3 off rail fares. It could be worth £212 (average yearly saving). 18+ Student Oyster photocard: 30% off London travelcards. National bus fare cap: single fares capped at £3 to 31 December 2026, then £2 for the whole of 2027.\n\nSee them all in Benefits.",
+   "cards": [
+    {
+     "name": "16-25 Railcard",
+     "val": "£212 Average yearly saving",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "18+ Student Oyster photocard",
+     "val": "30% off season tickets",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    },
+    {
+     "name": "National bus fare cap",
+     "val": "No set amount",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "Help with bills",
+    "Help with health costs",
+    "Which documents do I need?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "What documents do I need for Council Tax student exemption (Class N)?",
+   "viaSuggestion": true,
+   "text": "Council Tax student exemption (Class N): 100% off for student households. You may be able to get this.\n\nIt could be worth £1,800 (typical annual saving). Time to apply: 20 minutes. Decision: 2 to 6 weeks.\n\nYou will need: student certificate from your university (free, ask the registry); and your tenancy agreement. You may also need: share code for a non-working spouse or dependant.",
+   "cards": [
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "How does tracking work?",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "Tell me about food banks",
+   "viaSuggestion": true,
+   "text": "Food banks (Trussell + independents): emergency food, referral-based. You may be able to get this.\n\nLandit lists it as: 3-day parcels. Time to apply: one phone call. Decision: same day.\n\nYou may also need: referral voucher from a partner agency (Citizens Advice, school, GP, council). Nothing. No ID or immigration check.",
+   "cards": [
+    {
+     "name": "Food banks (Trussell + independents)",
+     "val": "3-day parcels",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "How does tracking work?",
+    "What can I claim?",
+    "What does no recourse to public funds mean?"
+   ],
+   "read": true,
+   "help": false
+  },
+  {
+   "q": "Council tax as a student",
+   "viaSuggestion": true,
+   "text": "Council Tax student exemption (Class N): 100% off for student households. It could be worth £1,800 (typical annual saving). You may be able to get this.\n\nCouncil Tax Reduction is different. This is a public fund. Your visa has a no recourse to public funds condition, so this one is not open to you.\n\nTime to apply: 20 minutes. Decision: 2 to 6 weeks.",
+   "cards": [
+    {
+     "name": "Council Tax student exemption (Class N)",
+     "val": "£1,800 Typical annual saving",
+     "actions": [
+      "Open",
+      "Tracking",
+      "Share"
+     ]
+    },
+    {
+     "name": "Council Tax Reduction",
+     "val": "Up to 100% off",
+     "actions": [
+      "Open",
+      "Track",
+      "Share"
+     ]
+    }
+   ],
+   "sug": [
+    "What documents do I need for Council Tax student exemption (Class N)?",
+    "What does no recourse to public funds mean?",
+    "Help with bills"
+   ],
+   "read": true,
+   "help": false
+  }
+ ],
+ "findings": [
+  [
+   "amount in text (check qualifier)",
+   "What can I claim?",
+   " to look at first. Council Tax student exemption (Class N): £1,800 (typical annual saving). British Gas Energy Trust grants: £ || 1,700 (up to, one-off). University hardship fund: £1,400 (typical amount). || All the amounts together come to £8,464. That is the potential, if all approved. See every scheme in"
+  ],
+  [
+   "promise?",
+   "railcard",
+   "You will need: a passport from any country, or other accepted ID; a "
+  ],
+  [
+   "amount in text (check qualifier)",
+   "railcard",
+   "It could be worth £212 (average yearly saving). Time to apply: 10 minutes. Decisio"
+  ],
+  [
+   "promise?",
+   "oyster",
+   "You will need: your university enrolment details, a digital photo an"
+  ],
+  [
+   "promise?",
+   "hardship fund",
+   "You will need: 3 months of bank statements; a budget: income in, ess"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "hardship fund",
+   "It could be worth £1,400 (typical amount). Time to apply: 1 to 2 hours. Decision: ty"
+  ],
+  [
+   "promise?",
+   "which documents do I need",
+   "For Council Tax student exemption (Class N), you will need: student certificate from your university (free, ask t"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "travel",
+   "16-25 Railcard: 1/3 off rail fares. It could be worth £212 (average yearly saving). 18+ Student Oyster photocard: 30%  ||  travelcards. National bus fare cap: single fares capped at £3 to 31 December 2026, then £2 for the whole of 2027."
+  ],
+  [
+   "amount in text (check qualifier)",
+   "health",
+   "on charges and the prepayment certificate. England 2026/27: £9.90 per item, frozen. It could be worth £100 a year. GP registr"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "bills",
+   "rants: energy debt cleared, any supplier. It could be worth £1,700 (up to, one-off). Community Fibre Essential: £12.50 broadba"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "council tax",
+   "lass N): 100% off for student households. It could be worth £1,800 (typical annual saving). You may be able to get this."
+  ],
+  [
+   "promise?",
+   "how does tracking work",
+   "For each one, you can tick the documents you have, and note where you are: Not st"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "universal credit",
+   "For people who can get it, it could be worth £5,099 (single 25+ standard allowance, per year). Time to apply: 1"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "how much money can I get",
+   " to look at first. Council Tax student exemption (Class N): £1,800 (typical annual saving). British Gas Energy Trust grants: £ || 1,700 (up to, one-off). University hardship fund: £1,400 (typical amount). || All the amounts together come to £8,464. That is the potential, if all approved. See every scheme in"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "am I entitled to PIP",
+   "For people who can get it, it could be worth £10,119 (maximum, per year). Time to apply: several hours over 2 to"
+  ],
+  [
+   "promise?",
+   "Which documents do I need?",
+   "For Council Tax student exemption (Class N), you will need: student certificate from your university (free, ask t"
+  ],
+  [
+   "promise?",
+   "How does tracking work?",
+   "For each one, you can tick the documents you have, and note where you are: Not st"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "What can I claim?",
+   " to look at first. Council Tax student exemption (Class N): £1,800 (typical annual saving). British Gas Energy Trust grants: £ || 1,700 (up to, one-off). University hardship fund: £1,400 (typical amount). || All the amounts together come to £8,464. That is the potential, if all approved. See every scheme in"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "Help with bills",
+   "rants: energy debt cleared, any supplier. It could be worth £1,700 (up to, one-off). Community Fibre Essential: £12.50 broadba"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "Help with health costs",
+   "on charges and the prepayment certificate. England 2026/27: £9.90 per item, frozen. It could be worth £100 a year. GP registr"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "Help with travel costs",
+   "16-25 Railcard: 1/3 off rail fares. It could be worth £212 (average yearly saving). 18+ Student Oyster photocard: 30%  ||  travelcards. National bus fare cap: single fares capped at £3 to 31 December 2026, then £2 for the whole of 2027."
+  ],
+  [
+   "promise?",
+   "What documents do I need for Council Tax student exemption (Class N)?",
+   "You will need: student certificate from your university (free, ask t"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "What documents do I need for Council Tax student exemption (Class N)?",
+   "It could be worth £1,800 (typical annual saving). Time to apply: 20 minutes. Decisio"
+  ],
+  [
+   "amount in text (check qualifier)",
+   "Council tax as a student",
+   "lass N): 100% off for student households. It could be worth £1,800 (typical annual saving). You may be able to get this."
+  ]
+ ],
+ "disc": [
+  {
+   "cls": "composer-disclaimer",
+   "top": 34903.5625,
+   "h": 92.953125,
+   "vis": "visible",
+   "disp": "block",
+   "fs": "16.2px",
+   "docH": 34997,
+   "vh": 900
+  }
+ ],
+ "errs": []
+}

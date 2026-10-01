@@ -1,0 +1,15 @@
+import { pathToFileURL } from 'node:url';
+import { createRequire } from 'module';
+const require = createRequire('/Users/armanbayatmaku/Desktop/kasdena/websites/landit/package.json');
+const { chromium } = require('playwright');
+const BASE = pathToFileURL('/Users/armanbayatmaku/Desktop/landit-test/c-clear/index.html').href;
+const OUT = '/Users/armanbayatmaku/Desktop/landit-test/_review/c-clear/review-brief';
+const browser = await chromium.launch({ channel: 'chrome', headless: true });
+const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true, deviceScaleFactor: 2 });
+const page = await ctx.newPage();
+await page.goto(BASE + '?demo=1#/benefit/universal-credit', { waitUntil: 'load' });
+await page.waitForTimeout(400);
+await page.screenshot({ path: OUT + '/blocked-uc-phone.png', fullPage: true });
+const t = await page.innerText('#main');
+console.log(t.slice(0, 2500));
+await browser.close();

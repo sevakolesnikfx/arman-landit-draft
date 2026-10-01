@@ -1,0 +1,1174 @@
+
+
+######## chat
+- button "Skip to content"
+- complementary "Menu and my applications":
+  - link "Landit , Chat":
+    - /url: "#/chat"
+  - button "Hide menu" [expanded]
+  - navigation "Main":
+    - link "Chat":
+      - /url: "#/chat"
+    - link "Benefits":
+      - /url: "#/benefits"
+    - link "Community":
+      - /url: "#/community"
+  - region "My applications 2":
+    - heading "My applications 2" [level=2]
+    - paragraph: "Tracked applications: tap one to see the documents."
+    - list:
+      - listitem:
+        - button "University hardship fund Applied 4 of 4 documents ticked"
+      - listitem:
+        - button "Council Tax student exemption (Class N) Not started 1 of 3 documents ticked"
+  - link "My profile Amara":
+    - /url: "#/settings"
+- main:
+  - region "Good morning, Amara. How can I help?":
+    - heading "Good morning, Amara. How can I help?" [level=1]
+    - paragraph: Ask about money, bills, travel, health or your visa. I answer using Landit's list of UK schemes and your answers.
+    - text: Type or speak your question
+    - textbox "Type or speak your question":
+      - /placeholder: Ask a question
+    - button "Speak"
+    - button "Send"
+    - paragraph: Landit provides information only, not legal or financial advice. Eligibility varies by individual circumstance and immigration status. Always verify with official sources or a qualified adviser before applying.
+    - heading "Or try one of these" [level=2]
+    - button "What can I claim?"
+    - button "Council tax as a student"
+    - button "What does no recourse to public funds mean?"
+    - button "Help with travel costs"
+  - log "Conversation"
+- status
+
+######## benefits/all
+- button "Skip to content"
+- complementary "Menu and my applications":
+  - link "Landit , Chat":
+    - /url: "#/chat"
+  - button "Hide menu" [expanded]
+  - navigation "Main":
+    - link "Chat":
+      - /url: "#/chat"
+    - link "Benefits":
+      - /url: "#/benefits"
+    - link "Community":
+      - /url: "#/community"
+  - region "My applications 2":
+    - heading "My applications 2" [level=2]
+    - paragraph: "Tracked applications: tap one to see the documents."
+    - list:
+      - listitem:
+        - button "University hardship fund Applied 4 of 4 documents ticked"
+      - listitem:
+        - button "Council Tax student exemption (Class N) Not started 1 of 3 documents ticked"
+  - link "My profile Amara":
+    - /url: "#/settings"
+- main:
+  - link "All groups":
+    - /url: "#/benefits"
+  - heading "All benefits" [level=1]
+  - paragraph: 79 benefits you may be able to get.
+  - text: Show
+  - combobox "Show":
+    - option "All benefits (79)" [selected]
+    - option "Money (5)"
+    - option "Council help (5)"
+    - option "Health (8)"
+    - option "Education (18)"
+    - option "Work (3)"
+    - option "Transport (10)"
+    - option "Energy (7)"
+    - option "Water (3)"
+    - option "Phone and internet (5)"
+    - option "Food (4)"
+    - option "Charity (6)"
+    - option "Visa and legal (4)"
+    - option "Business (1)"
+  - group "Sort by":
+    - text: Sort by
+    - button "Most money" [pressed]
+    - button "Quickest"
+    - button "Easiest"
+    - button "A to Z"
+  - paragraph: Most money first. Benefits with no set amount come last.
+  - list "All benefits":
+    - listitem:
+      - 'link "Council Tax student exemption (Class N) Council help 100% off for student households £1,800 Typical annual saving Some paperwork: 2 documents, 20 minutes"':
+        - /url: "#/benefit/council-tax-student"
+        - text: Council Tax student exemption (Class N) Council help 100% off for student households £1,800 Typical annual saving
+        - strong: Some paperwork
+        - text: ": 2 documents, 20 minutes"
+      - button "Tracking" [pressed]
+      - button "Share"
+    - listitem:
+      - 'link "British Gas Energy Trust grants Energy Energy debt cleared, any supplier £1,700 Up to, one-off More paperwork: 4 documents, 2 hours including the advice session"':
+        - /url: "#/benefit/bg-energy-trust"
+        - text: British Gas Energy Trust grants Energy Energy debt cleared, any supplier £1,700 Up to, one-off
+        - strong: More paperwork
+        - text: ": 4 documents, 2 hours including the advice session"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "University hardship fund Education Non-repayable student grants £1,400 Typical amount More paperwork: 4 documents, 1 to 2 hours"':
+        - /url: "#/benefit/uni-hardship-fund"
+        - text: University hardship fund Education Non-repayable student grants £1,400 Typical amount
+        - strong: More paperwork
+        - text: ": 4 documents, 1 to 2 hours"
+      - button "Tracking" [pressed]
+      - button "Share"
+    - listitem:
+      - 'link "Lifetime ISA Money 25% government bonus £1,000 Max bonus per year More paperwork: 4 documents, 20 minutes"':
+        - /url: "#/benefit/lisa"
+        - text: Lifetime ISA Money 25% government bonus £1,000 Max bonus per year
+        - strong: More paperwork
+        - text: ": 4 documents, 20 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Marriage Allowance Money Transfer unused tax allowance £252 Could be worth, a year Some paperwork: 3 documents, 10 minutes"':
+        - /url: "#/benefit/marriage-allowance"
+        - text: Marriage Allowance Money Transfer unused tax allowance £252 Could be worth, a year
+        - strong: Some paperwork
+        - text: ": 3 documents, 10 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "16-25 Railcard Transport 1/3 off rail fares £212 Average yearly saving Some paperwork: 3 documents, 10 minutes"':
+        - /url: "#/benefit/railcard-16-25"
+        - text: 16-25 Railcard Transport 1/3 off rail fares £212 Average yearly saving
+        - strong: Some paperwork
+        - text: ": 3 documents, 10 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Prescription charges and the prepayment certificate Health England 2026/27: £9.90 per item, frozen £100 Could be worth, a year Effort not listed yet"':
+        - /url: "#/benefit/prescription-charges-and-the-prepayment"
+        - text: "Prescription charges and the prepayment certificate Health England 2026/27: £9.90 per item, frozen £100 Could be worth, a year"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "National Insurance number Visa and legal Free, opens every benefit based on National Insurance Free Some paperwork: 2 documents, about 15 minutes"':
+        - /url: "#/benefit/nino"
+        - text: National Insurance number Visa and legal Free, opens every benefit based on National Insurance Free
+        - strong: Some paperwork
+        - text: ": 2 documents, about 15 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "GP registration Health Free NHS primary care Free care Quick and simple: No documents, 15 minutes"':
+        - /url: "#/benefit/gp-registration"
+        - text: GP registration Health Free NHS primary care Free care
+        - strong: Quick and simple
+        - text: ": No documents, 15 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "NHS services that are always free Health A&E and urgent treatment (until admitted), all GP care, contraception and sexual health clinics (walk-in) No set amount Effort not listed yet":
+        - /url: "#/benefit/nhs-services-that-are-always"
+        - text: NHS services that are always free Health A&E and urgent treatment (until admitted), all GP care, contraception and sexual health clinics (walk-in) No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Immigration Health Surcharge entitlement Health Visa holders who paid the IHS (£1,035/yr, students £776/yr) get full NHS care like a resident No set amount Effort not listed yet":
+        - /url: "#/benefit/immigration-health-surcharge-entitlement"
+        - text: Immigration Health Surcharge entitlement Health Visa holders who paid the IHS (£1,035/yr, students £776/yr) get full NHS care like a resident No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "NHS Low Income Scheme (HC2/HC3) Health Free prescriptions, dental, eye care Health costs covered More paperwork: 4 documents, 30 to 45 minutes"':
+        - /url: "#/benefit/nhs-low-income-scheme"
+        - text: NHS Low Income Scheme (HC2/HC3) Health Free prescriptions, dental, eye care Health costs covered
+        - strong: More paperwork
+        - text: ": 4 documents, 30 to 45 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "NHS dental Health England from April 2026: Band 1 £27.90, Band 2 £76.60, Band 3 £332.10 No set amount Effort not listed yet"':
+        - /url: "#/benefit/nhs-dental"
+        - text: "NHS dental Health England from April 2026: Band 1 £27.90, Band 2 £76.60, Band 3 £332.10 No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Free vitamins Health Healthy Start vitamins free with the scheme (England/Wales/NI, including the extension for no recourse to public funds) No set amount Effort not listed yet":
+        - /url: "#/benefit/free-vitamins"
+        - text: Free vitamins Health Healthy Start vitamins free with the scheme (England/Wales/NI, including the extension for no recourse to public funds) No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Public libraries Education Free membership, computers, wifi, cheap printing, children's activities, often free e-books and language apps No set amount Effort not listed yet":
+        - /url: "#/benefit/public-libraries"
+        - text: Public libraries Education Free membership, computers, wifi, cheap printing, children's activities, often free e-books and language apps No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Student discount platforms Education TOTUM (free digital tier, TOTUM+ £14.99/yr), UNiDAYS, Student Beans: verification is enrolment, not status No set amount Effort not listed yet"':
+        - /url: "#/benefit/student-discount-platforms"
+        - text: "Student discount platforms Education TOTUM (free digital tier, TOTUM+ £14.99/yr), UNiDAYS, Student Beans: verification is enrolment, not status No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "National Minimum Wage enforcement Work April 2026: £12.71/hr at 21+, £10.85 at 18-20, £8.00 at 16-17 and apprentices No set amount Effort not listed yet"':
+        - /url: "#/benefit/national-minimum-wage-enforcement"
+        - text: "National Minimum Wage enforcement Work April 2026: £12.71/hr at 21+, £10.85 at 18-20, £8.00 at 16-17 and apprentices No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Holiday pay Work 28 days paid leave full-time, accrues from day one, includes agency and zero-hours No set amount Effort not listed yet":
+        - /url: "#/benefit/holiday-pay"
+        - text: Holiday pay Work 28 days paid leave full-time, accrues from day one, includes agency and zero-hours No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "HMRC tax refunds Money Emergency tax back Actual overpayment Some paperwork: 3 documents, 20 minutes"':
+        - /url: "#/benefit/tax-refund"
+        - text: HMRC tax refunds Money Emergency tax back Actual overpayment
+        - strong: Some paperwork
+        - text: ": 3 documents, 20 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Uniform and work expenses tax relief Work Flat rate £60/yr standard (£12 to a basic-rate payer), healthcare £125, ambulance £185 No set amount Effort not listed yet":
+        - /url: "#/benefit/uniform-and-work-expenses-tax"
+        - text: Uniform and work expenses tax relief Work Flat rate £60/yr standard (£12 to a basic-rate payer), healthcare £125, ambulance £185 No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Homelessness help with no recourse to public funds Council help Part 7 homelessness assistance and social housing are public funds: closed No set amount Effort not listed yet"':
+        - /url: "#/benefit/homelessness-help-under-nrpf"
+        - text: "Homelessness help with no recourse to public funds Council help Part 7 homelessness assistance and social housing are public funds: closed No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Rent deposit and bond schemes Council help Council schemes usually sit inside homelessness prevention or Crisis and Resilience Fund Housing Payments (not open to people with no recourse to public funds) No set amount Effort not listed yet":
+        - /url: "#/benefit/rent-deposit-and-bond-schemes"
+        - text: Rent deposit and bond schemes Council help Council schemes usually sit inside homelessness prevention or Crisis and Resilience Fund Housing Payments (not open to people with no recourse to public funds) No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Council leisure concession cards Council help 30% to 50% off gyms, swimming and classes No set amount Effort not listed yet":
+        - /url: "#/benefit/council-leisure-concession-cards"
+        - text: Council leisure concession cards Council help 30% to 50% off gyms, swimming and classes No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Food banks (Trussell + independents) Food Emergency food, referral-based 3-day parcels Quick and simple: No documents, one phone call"':
+        - /url: "#/benefit/trussell-food-banks"
+        - text: Food banks (Trussell + independents) Food Emergency food, referral-based 3-day parcels
+        - strong: Quick and simple
+        - text: ": No documents, one phone call"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Independent food banks Food 774 locations outside the Trussell network; many accept self-referral No set amount Effort not listed yet":
+        - /url: "#/benefit/independent-food-banks"
+        - text: Independent food banks Food 774 locations outside the Trussell network; many accept self-referral No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Community fridges Food 700+ free walk-in fridges sharing surplus food No set amount Effort not listed yet":
+        - /url: "#/benefit/community-fridges"
+        - text: Community fridges Food 700+ free walk-in fridges sharing surplus food No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Furniture reuse charities Charity Discounted or referral-free furniture and white goods; hardship evidence accepted, not only benefits No set amount Effort not listed yet":
+        - /url: "#/benefit/furniture-reuse-charities"
+        - text: Furniture reuse charities Charity Discounted or referral-free furniture and white goods; hardship evidence accepted, not only benefits No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Warm Welcome Spaces Energy 4,000+ free heated community spaces (libraries, churches, community centres), 97% open year-round No set amount Effort not listed yet":
+        - /url: "#/benefit/warm-welcome-spaces"
+        - text: Warm Welcome Spaces Energy 4,000+ free heated community spaces (libraries, churches, community centres), 97% open year-round No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Community Fibre Essential Phone and internet £12.50 broadband, no criteria £12.50 per month Quick and simple: 1 document, 15 minutes"':
+        - /url: "#/benefit/community-fibre-essential"
+        - text: Community Fibre Essential Phone and internet £12.50 broadband, no criteria £12.50 per month
+        - strong: Quick and simple
+        - text: ": 1 document, 15 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "4th Utility Social Tariff Phone and internet £13.99/month, 30 Mbit/s, in buildings on the 4th Utility network No set amount Effort not listed yet":
+        - /url: "#/benefit/4th-utility-social-tariff"
+        - text: 4th Utility Social Tariff Phone and internet £13.99/month, 30 Mbit/s, in buildings on the 4th Utility network No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Priority Services Register Energy Free extra-help register: advance notice of outages, priority reconnection, accessible bills No set amount Effort not listed yet"':
+        - /url: "#/benefit/priority-services-register"
+        - text: "Priority Services Register Energy Free extra-help register: advance notice of outages, priority reconnection, accessible bills No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Water social tariffs (income-based) Water 25% to 99% off water bills 25% to 99% off More paperwork: 3 documents, 30 minutes"':
+        - /url: "#/benefit/water-income-tariffs"
+        - text: Water social tariffs (income-based) Water 25% to 99% off water bills 25% to 99% off
+        - strong: More paperwork
+        - text: ": 3 documents, 30 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Water debt matching and hardship trusts Water Every water company runs a debt scheme (CCW): United Utilities matches £1 for £1 No set amount Effort not listed yet"':
+        - /url: "#/benefit/water-debt-matching-and-hardship"
+        - text: "Water debt matching and hardship trusts Water Every water company runs a debt scheme (CCW): United Utilities matches £1 for £1 No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Free water-saving devices Water Free shower heads, tap inserts and cistern devices posted via GetWaterFit or company pages No set amount Effort not listed yet":
+        - /url: "#/benefit/free-water-saving-devices"
+        - text: Free water-saving devices Water Free shower heads, tap inserts and cistern devices posted via GetWaterFit or company pages No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Supplier hardship funds Energy Circumstances-based, no benefit requirement: Octopus Octo Assist No set amount Effort not listed yet"':
+        - /url: "#/benefit/supplier-hardship-funds"
+        - text: "Supplier hardship funds Energy Circumstances-based, no benefit requirement: Octopus Octo Assist No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Fuel Bank Foundation vouchers Energy Emergency prepayment top-ups £49 per voucher (£89 winter) Quick and simple: 1 document, one appointment"':
+        - /url: "#/benefit/fuel-bank-vouchers"
+        - text: Fuel Bank Foundation vouchers Energy Emergency prepayment top-ups £49 per voucher (£89 winter)
+        - strong: Quick and simple
+        - text: ": 1 document, one appointment"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "ECO4 and LA Flex Energy Free insulation and heating upgrades No set amount Effort not listed yet":
+        - /url: "#/benefit/eco4-and-la-flex"
+        - text: ECO4 and LA Flex Energy Free insulation and heating upgrades No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Warm Homes: Local Grant / ECO4 LA Flex Energy Free insulation and heating Free home upgrades Some paperwork: 2 documents, 30 minutes to register interest"':
+        - /url: "#/benefit/warm-homes-local-grant"
+        - text: "Warm Homes: Local Grant / ECO4 LA Flex Energy Free insulation and heating Free home upgrades"
+        - strong: Some paperwork
+        - text: ": 2 documents, 30 minutes to register interest"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Turn2us grants search Charity 1,700+ charitable funds Non-repayable grants Some paperwork: 3 documents, 20 minutes to search, then per-fund applications"':
+        - /url: "#/benefit/turn2us-grants"
+        - text: Turn2us grants search Charity 1,700+ charitable funds Non-repayable grants
+        - strong: Some paperwork
+        - text: ": 3 documents, 20 minutes to search, then per-fund applications"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "British Red Cross refugee services Visa and legal Emergency destitution help, casework and signposting for refugees, asylum seekers No set amount Effort not listed yet":
+        - /url: "#/benefit/british-red-cross-refugee-services"
+        - text: British Red Cross refugee services Visa and legal Emergency destitution help, casework and signposting for refugees, asylum seekers No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "18+ Student Oyster photocard Transport 30% off London travelcards 30% off season tickets Some paperwork: 3 documents, 20 minutes"':
+        - /url: "#/benefit/student-oyster"
+        - text: 18+ Student Oyster photocard Transport 30% off London travelcards 30% off season tickets
+        - strong: Some paperwork
+        - text: ": 3 documents, 20 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Basic bank account Money Fee-free, no credit check Free banking Some paperwork: 1 document, 30 minutes"':
+        - /url: "#/benefit/basic-bank-account"
+        - text: Basic bank account Money Fee-free, no credit check Free banking
+        - strong: Some paperwork
+        - text: ": 1 document, 30 minutes"
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Credit unions Money Member-owned savings and small loans (£500 to £5,000), interest capped at 42.6% APR in GB, no fees No set amount Effort not listed yet":
+        - /url: "#/benefit/credit-unions"
+        - text: Credit unions Money Member-owned savings and small loans (£500 to £5,000), interest capped at 42.6% APR in GB, no fees No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Free business advice Business Growth Hubs (England), Business Gateway (Scotland), Business Wales, Go Succeed (NI) No set amount Effort not listed yet":
+        - /url: "#/benefit/free-business-advice"
+        - text: Free business advice Business Growth Hubs (England), Business Gateway (Scotland), Business Wales, Go Succeed (NI) No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Home fee status and student finance, by immigration status Education The main test for university money in England, 2026/27 No set amount Effort not listed yet":
+        - /url: "#/benefit/home-fee-status-and-student"
+        - text: Home fee status and student finance, by immigration status Education The main test for university money in England, 2026/27 No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Sanctuary scholarships Education University-funded fee waivers plus living stipends for people locked out of student finance No set amount Effort not listed yet":
+        - /url: "#/benefit/sanctuary-scholarships"
+        - text: Sanctuary scholarships Education University-funded fee waivers plus living stipends for people locked out of student finance No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "NHS Learning Support Fund Education Non-repayable top-up for nursing, midwifery and allied health students in England No set amount Effort not listed yet":
+        - /url: "#/benefit/nhs-learning-support-fund"
+        - text: NHS Learning Support Fund Education Non-repayable top-up for nursing, midwifery and allied health students in England No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Postgraduate loans Education Master's loan up to £13,206, Doctoral loan up to £31,122 (courses from 1 Aug 2026, confirmed) No set amount Effort not listed yet":
+        - /url: "#/benefit/postgraduate-loans"
+        - text: Postgraduate loans Education Master's loan up to £13,206, Doctoral loan up to £31,122 (courses from 1 Aug 2026, confirmed) No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Disabled Students' Allowance Education Equipment, helpers and travel top-up for disabled students, up to £27,783/yr No set amount Effort not listed yet":
+        - /url: "#/benefit/disabled-students-allowance"
+        - text: Disabled Students' Allowance Education Equipment, helpers and travel top-up for disabled students, up to £27,783/yr No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Social Work Bursary Education Bursary with limited places for social work degrees (2026/27): undergraduate final 2 years £4,862.50/yr No set amount Effort not listed yet"':
+        - /url: "#/benefit/social-work-bursary"
+        - text: "Social Work Bursary Education Bursary with limited places for social work degrees (2026/27): undergraduate final 2 years £4,862.50/yr No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Teacher training bursaries Education Tax-free bursaries for postgraduate teacher training, 2026/27: £29,000 physics No set amount Effort not listed yet"':
+        - /url: "#/benefit/teacher-training-bursaries"
+        - text: "Teacher training bursaries Education Tax-free bursaries for postgraduate teacher training, 2026/27: £29,000 physics No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Advanced Learner Loan and the Access to HE write-off Education Loan covering level 3 to 6 college course fees for 19+, no check on income or savings, no credit check No set amount Effort not listed yet":
+        - /url: "#/benefit/advanced-learner-loan-and-the"
+        - text: Advanced Learner Loan and the Access to HE write-off Education Loan covering level 3 to 6 college course fees for 19+, no check on income or savings, no credit check No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Funded apprenticeships: residency rules Education Right to work + leave covering the full apprenticeship + normally 3 years UK residence No set amount Effort not listed yet"':
+        - /url: "#/benefit/funded-apprenticeships-residency-rules"
+        - text: "Funded apprenticeships: residency rules Education Right to work + leave covering the full apprenticeship + normally 3 years UK residence No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Bank accounts for international students Education Mainstream 0% student overdrafts usually need ~3 years UK address history No set amount Effort not listed yet":
+        - /url: "#/benefit/bank-accounts-for-international-students"
+        - text: Bank accounts for international students Education Mainstream 0% student overdrafts usually need ~3 years UK address history No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "National bus fare cap Transport Single fares capped at £3 to 31 December 2026, then £2 for the whole of 2027 No set amount Effort not listed yet":
+        - /url: "#/benefit/national-bus-fare-cap"
+        - text: National bus fare cap Transport Single fares capped at £3 to 31 December 2026, then £2 for the whole of 2027 No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Greater Manchester: Our Pass and free youth travel Transport Our Pass: free bus for 16-18s living in GM, £10 one-off fee, valid 2 years No set amount Effort not listed yet"':
+        - /url: "#/benefit/greater-manchester-our-pass-and"
+        - text: "Greater Manchester: Our Pass and free youth travel Transport Our Pass: free bus for 16-18s living in GM, £10 one-off fee, valid 2 years No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "West Midlands: 16-18 Photocard and Workwise Transport Swift 16-18 Photocard: half adult fares on WM buses, trams and trains for 16-18s in the 7 met boroughs No set amount Effort not listed yet"':
+        - /url: "#/benefit/west-midlands-16-18-photocard"
+        - text: "West Midlands: 16-18 Photocard and Workwise Transport Swift 16-18 Photocard: half adult fares on WM buses, trams and trains for 16-18s in the 7 met boroughs No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "West Yorkshire: under-19 Mayor''s Fares Transport Flat youth fares for anyone under 19: singles 60p to £1.80 by distance, day ticket £2.80, week £10 (2026) No set amount Effort not listed yet"':
+        - /url: "#/benefit/west-yorkshire-under-19-mayor"
+        - text: "West Yorkshire: under-19 Mayor's Fares Transport Flat youth fares for anyone under 19: singles 60p to £1.80 by distance, day ticket £2.80, week £10 (2026) No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Liverpool City Region: MyTicket and the £2 single Transport MyTicket: £2.20 all-day bus for ages 5-18 on any Merseyside/Halton bus, bought from the driver No set amount Effort not listed yet"':
+        - /url: "#/benefit/liverpool-city-region-myticket-and"
+        - text: "Liverpool City Region: MyTicket and the £2 single Transport MyTicket: £2.20 all-day bus for ages 5-18 on any Merseyside/Halton bus, bought from the driver No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "South Yorkshire, North East, Cambridgeshire youth fares Transport South Yorkshire Zoom: £1 single, £3.10 day for under-18s, £1.50 single 18-21 No set amount Effort not listed yet"':
+        - /url: "#/benefit/south-yorkshire-north-east-cambridgeshire"
+        - text: "South Yorkshire, North East, Cambridgeshire youth fares Transport South Yorkshire Zoom: £1 single, £3.10 day for under-18s, £1.50 single 18-21 No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Skills Bootcamps Education Free 16-week courses (digital, construction, HGV, green skills) with a guaranteed job interview, 19+ No set amount Effort not listed yet":
+        - /url: "#/benefit/skills-bootcamps"
+        - text: Skills Bootcamps Education Free 16-week courses (digital, construction, HGV, green skills) with a guaranteed job interview, 19+ No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "National Careers Service Education Free careers advice, skills assessment and CV help by phone (0800 100 900), webchat and local advisers No set amount Effort not listed yet":
+        - /url: "#/benefit/national-careers-service"
+        - text: National Careers Service Education Free careers advice, skills assessment and CV help by phone (0800 100 900), webchat and local advisers No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Youth Guarantee Education Guaranteed offer of apprenticeship, training or job help No set amount Effort not listed yet":
+        - /url: "#/benefit/youth-guarantee"
+        - text: Youth Guarantee Education Guaranteed offer of apprenticeship, training or job help No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Free period products in schools and colleges Education Free period products for learners at about 21,000 state-funded schools and 16-19 providers No set amount Effort not listed yet":
+        - /url: "#/benefit/free-period-products-in-schools"
+        - text: Free period products in schools and colleges Education Free period products for learners at about 21,000 state-funded schools and 16-19 providers No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Council resident discount cards Council help Council-run cards giving free or cheap leisure, culture and local offers No set amount Effort not listed yet":
+        - /url: "#/benefit/council-resident-discount-cards"
+        - text: Council resident discount cards Council help Council-run cards giving free or cheap leisure, culture and local offers No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "National Databank: free SIMs and data Phone and internet Free mobile SIMs with data at ~3,000 hubs (libraries, community centres, all O2 stores) No set amount Effort not listed yet"':
+        - /url: "#/benefit/national-databank-free-sims-and"
+        - text: "National Databank: free SIMs and data Phone and internet Free mobile SIMs with data at ~3,000 hubs (libraries, community centres, all O2 stores) No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "National Device Bank Phone and internet Free refurbished laptops, phones and tablets gifted through local community organisations No set amount Effort not listed yet":
+        - /url: "#/benefit/national-device-bank"
+        - text: National Device Bank Phone and internet Free refurbished laptops, phones and tablets gifted through local community organisations No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Smart Works Charity Free interview outfit to keep plus one-to-one interview coaching for unemployed women No set amount Effort not listed yet":
+        - /url: "#/benefit/smart-works"
+        - text: Smart Works Charity Free interview outfit to keep plus one-to-one interview coaching for unemployed women No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Interview clothing for men Charity Suited & Booted (London): free interview-ready clothing plus advice for low-income men No set amount Effort not listed yet"':
+        - /url: "#/benefit/interview-clothing-for-men"
+        - text: "Interview clothing for men Charity Suited & Booted (London): free interview-ready clothing plus advice for low-income men No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Timpson free interview dry cleaning Charity Any Timpson branch with dry cleaning will clean your interview outfit free if you are unemployed No set amount Effort not listed yet":
+        - /url: "#/benefit/timpson-free-interview-dry-cleaning"
+        - text: Timpson free interview dry cleaning Charity Any Timpson branch with dry cleaning will clean your interview outfit free if you are unemployed No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "The Hygiene Bank and Beauty Banks Charity Free toiletries and hygiene basics (shampoo, deodorant, nappies, period products, laundry detergent) No set amount Effort not listed yet":
+        - /url: "#/benefit/the-hygiene-bank-and-beauty"
+        - text: The Hygiene Bank and Beauty Banks Charity Free toiletries and hygiene basics (shampoo, deodorant, nappies, period products, laundry detergent) No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Immigration legal aid and Exceptional Case Funding Visa and legal Free legal help (England and Wales) if you pass the check on your income and savings, in scope for: asylum, asylum support No set amount Effort not listed yet"':
+        - /url: "#/benefit/immigration-legal-aid-and-exceptional"
+        - text: "Immigration legal aid and Exceptional Case Funding Visa and legal Free legal help (England and Wales) if you pass the check on your income and savings, in scope for: asylum, asylum support No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Free regulated immigration advice Visa and legal Advice may legally only come from IAA-registered advisers (the Immigration Advice Authority, formerly OISC) No set amount Effort not listed yet":
+        - /url: "#/benefit/free-regulated-immigration-advice"
+        - text: Free regulated immigration advice Visa and legal Advice may legally only come from IAA-registered advisers (the Immigration Advice Authority, formerly OISC) No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "NHS vaccination catch-up for new arrivals Health Free catch-up immunisations at any age for anyone with an incomplete or unknown vaccination history No set amount Effort not listed yet":
+        - /url: "#/benefit/nhs-vaccination-catch-up-for"
+        - text: NHS vaccination catch-up for new arrivals Health Free catch-up immunisations at any age for anyone with an incomplete or unknown vaccination history No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Free English conversation clubs Education Drop-in conversation groups at libraries, councils, churches and charities: no enrolment, no placement test No set amount Effort not listed yet"':
+        - /url: "#/benefit/free-english-conversation-clubs"
+        - text: "Free English conversation clubs Education Drop-in conversation groups at libraries, councils, churches and charities: no enrolment, no placement test No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Free bike events and cycle training Transport Big Bike Revival (Cycling UK, England): free bike checks No set amount Effort not listed yet"':
+        - /url: "#/benefit/free-bike-events-and-cycle"
+        - text: "Free bike events and cycle training Transport Big Bike Revival (Cycling UK, England): free bike checks No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - link "Try Before You Bike Transport Council-backed scheme (Peddle My Wheels) delivering a refurbished bike on a low monthly subscription No set amount Effort not listed yet":
+        - /url: "#/benefit/try-before-you-bike"
+        - text: Try Before You Bike Transport Council-backed scheme (Peddle My Wheels) delivering a refurbished bike on a low monthly subscription No set amount
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "Surplus food apps Food Too Good To Go: shops'' unsold food as surprise bags at about a third of retail No set amount Effort not listed yet"':
+        - /url: "#/benefit/surplus-food-apps"
+        - text: "Surplus food apps Food Too Good To Go: shops' unsold food as surprise bags at about a third of retail No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+    - listitem:
+      - 'link "TV Licence: know when you do not need one Phone and internet £180/yr avoided if you never watch live TV and never use BBC iPlayer No set amount Effort not listed yet"':
+        - /url: "#/benefit/tv-licence-know-when-you"
+        - text: "TV Licence: know when you do not need one Phone and internet £180/yr avoided if you never watch live TV and never use BBC iPlayer No set amount"
+        - strong: Effort not listed yet
+      - button "Track"
+      - button "Share"
+  - paragraph: Based on the number of documents and steps. One dot is quick and simple, three dots is more paperwork.
+  - region "Not open to you now":
+    - button "Not on your visa (13)"
+  - paragraph: Landit provides information only, not legal or financial advice. Eligibility varies by individual circumstance and immigration status. Always verify with official sources or a qualified adviser before applying.
+  - paragraph: Free for first users 2026/27 rates (April 2026)
+- status
+
+######## benefit/council-tax-student
+- button "Skip to content"
+- complementary "Menu and my applications":
+  - link "Landit , Chat":
+    - /url: "#/chat"
+  - button "Hide menu" [expanded]
+  - navigation "Main":
+    - link "Chat":
+      - /url: "#/chat"
+    - link "Benefits":
+      - /url: "#/benefits"
+    - link "Community":
+      - /url: "#/community"
+  - region "My applications 2":
+    - heading "My applications 2" [level=2]
+    - paragraph: "Tracked applications: tap one to see the documents."
+    - list:
+      - listitem:
+        - button "University hardship fund Applied 4 of 4 documents ticked"
+      - listitem:
+        - button "Council Tax student exemption (Class N) Not started 1 of 3 documents ticked"
+  - link "My profile Amara":
+    - /url: "#/settings"
+- main:
+  - link "Back to benefits":
+    - /url: "#/benefits/all"
+  - button "Read aloud"
+  - text: Council help England, Scotland and Wales
+  - heading "Council Tax student exemption (Class N)" [level=1]
+  - paragraph: 100% off for student households
+  - region "Summary":
+    - text: Could be worth £1,800 Typical annual saving Time to apply 20 minutes Documents 2 needed 1 more may be needed
+    - term: Decision
+    - definition: 2 to 6 weeks
+    - term: Cost
+    - definition: Free
+    - term: Approval rate
+    - definition: No published rate yet
+    - paragraph:
+      - strong: Some paperwork
+      - text: ": 2 documents, 20 minutes Based on the number of documents and steps"
+    - paragraph: Not a public fund. Your visa condition does not apply.
+    - paragraph:
+      - strong: "About the amount:"
+      - text: Scales with band; exemption also covers a student's non-working non-British spouse or dependant
+  - button "Tracking" [pressed]
+  - button "Share"
+  - region "Who can get it":
+    - heading "Who can get it" [level=2]
+    - list:
+      - listitem: Full-time course, 1 year+ and 21+ hours a week
+      - listitem: All occupants students or disregarded
+      - listitem: Sole or main residence
+    - 'button "What it is: full description"'
+  - region "What you need":
+    - heading "What you need" [level=2]
+    - paragraph: 1 of 3 documents ticked
+    - group "Needed":
+      - text: Needed
+      - list:
+        - listitem:
+          - checkbox "Student certificate from your university (free, ask the registry)"
+          - text: Student certificate from your university (free, ask the registry)
+        - listitem:
+          - checkbox "Your tenancy agreement" [checked]
+          - text: Your tenancy agreement
+    - group "May be needed":
+      - text: May be needed
+      - list:
+        - listitem:
+          - checkbox "Share code for a non-working spouse or dependant"
+          - text: Share code for a non-working spouse or dependant
+  - region "How to apply":
+    - heading "How to apply" [level=2]
+    - paragraph: 0 of 5 steps done. Tap a step to tick it off.
+    - list:
+      - listitem:
+        - text: "Get a council tax student certificate from your university: it is free and usually instant online."
+        - 'checkbox "Get a council tax student certificate from your university: it is free and usually instant online. Done"'
+        - text: Done
+      - listitem:
+        - text: Find your council's council tax discount page.
+        - checkbox "Find your council's council tax discount page. Done"
+        - text: Done
+      - listitem:
+        - text: Apply for the Class N student exemption. If everyone in the household is a student, the bill is zero.
+        - checkbox "Apply for the Class N student exemption. If everyone in the household is a student, the bill is zero. Done"
+        - text: Done
+      - listitem:
+        - text: Upload the certificate and your tenancy.
+        - checkbox "Upload the certificate and your tenancy. Done"
+        - text: Done
+      - listitem:
+        - text: Ask for it to be backdated to your course or tenancy start date.
+        - checkbox "Ask for it to be backdated to your course or tenancy start date. Done"
+        - text: Done
+  - region "Improve your chances":
+    - heading "Improve your chances" [level=2]
+    - list:
+      - listitem: "The exemption also covers the non-British spouse or dependant of a full-time student who cannot work or claim under their visa: include them and send their share code."
+      - listitem: Always ask for backdating. Councils do backdate with evidence, and that can be a year or more of bills.
+      - listitem: You need a course of 1 year or more, and 21+ study hours a week.
+    - heading "Most common mistake" [level=3]
+    - paragraph: Do not confuse this with Council Tax Reduction, which is a public fund and blocked for people with no recourse to public funds. This exemption is based on who lives in the property, not income, so it is open to people with no recourse to public funds.
+  - link "Apply on the official website":
+    - /url: https://www.gov.uk/apply-for-council-tax-discount
+  - paragraph: Opens gov.uk in a new tab. Landit does not apply for you.
+  - region "Where is your application up to?":
+    - heading "Where is your application up to?" [level=2]
+    - paragraph: Choose one. It shows in My applications.
+    - radiogroup "Where is your application up to?":
+      - radio "Not started" [checked]
+      - text: Not started
+      - radio "Applied"
+      - text: Applied
+      - radio "Approved"
+      - text: Approved
+      - radio "Turned down"
+      - text: Turned down
+    - button "Stop tracking"
+  - region "What people said":
+    - heading "What people said" [level=2]
+    - list:
+      - listitem: Worth it? 6 of 7 people said it was very much worth it.
+      - listitem: How quick? 4 of 7 people said it took an average time.
+      - listitem: How easy? 4 of 7 people said it was easy.
+    - paragraph: These are example posts, written to show how this page could work.
+    - link "Read 1 post":
+      - /url: "#/community/about/council-tax-student"
+    - button "Rate this scheme"
+  - region "Sources":
+    - heading "Sources" [level=2]
+    - list:
+      - listitem:
+        - link "nrpfnetwork.org.uk":
+          - /url: https://www.nrpfnetwork.org.uk/information-and-resources/rights-and-entitlements/benefits-and-housing-public-funds/housing/council-tax
+    - paragraph: 2026/27 rates (April 2026)
+  - paragraph: Landit provides information only, not legal or financial advice. Eligibility varies by individual circumstance and immigration status. Always verify with official sources or a qualified adviser before applying.
+  - paragraph: Free for first users 2026/27 rates (April 2026)
+- status
+
+######## community/ratings
+- button "Skip to content"
+- complementary "Menu and my applications":
+  - link "Landit , Chat":
+    - /url: "#/chat"
+  - button "Hide menu" [expanded]
+  - navigation "Main":
+    - link "Chat":
+      - /url: "#/chat"
+    - link "Benefits":
+      - /url: "#/benefits"
+    - link "Community":
+      - /url: "#/community"
+  - region "My applications 2":
+    - heading "My applications 2" [level=2]
+    - paragraph: "Tracked applications: tap one to see the documents."
+    - list:
+      - listitem:
+        - button "University hardship fund Applied 4 of 4 documents ticked"
+      - listitem:
+        - button "Council Tax student exemption (Class N) Not started 1 of 3 documents ticked"
+  - link "My profile Amara":
+    - /url: "#/settings"
+- main:
+  - heading "Community" [level=1]
+  - paragraph: Read what other people did, and share what helped you.
+  - paragraph:
+    - strong: Sample posts.
+    - text: These are example posts, written to show how this page could work.
+  - navigation "Community sections":
+    - link "Posts":
+      - /url: "#/community"
+    - link "How people rated it":
+      - /url: "#/community/ratings"
+  - button "Rate a benefit"
+  - text: Show ratings for
+  - combobox "Show ratings for":
+    - option "All benefits" [selected]
+    - option "16-25 Railcard"
+    - option "18+ Student Oyster photocard"
+    - option "Basic bank account"
+    - option "Council Tax student exemption (Class N)"
+    - option "GP registration"
+    - option "HMRC tax refunds"
+    - option "NHS Low Income Scheme (HC2/HC3)"
+    - option "University hardship fund"
+    - option "General posts"
+  - list:
+    - listitem:
+      - link "16-25 Railcard":
+        - /url: "#/benefit/railcard-16-25"
+      - paragraph: 9 people rated it (sample).
+      - heading "Worth it?" [level=3]
+      - paragraph: 7 of 9 people said it was very much worth it.
+      - list:
+        - listitem: Very 7 people
+        - listitem: Somewhat 2 people
+        - listitem: Not really 0 people
+      - heading "How quick?" [level=3]
+      - paragraph: 8 of 9 people said it was quick.
+      - list:
+        - listitem: Quick 8 people
+        - listitem: Average 1 person
+        - listitem: Slow 0 people
+      - heading "How easy?" [level=3]
+      - paragraph: 8 of 9 people said it was easy.
+      - list:
+        - listitem: Easy 8 people
+        - listitem: OK 1 person
+        - listitem: Hard 0 people
+      - button "Rate this scheme"
+    - listitem:
+      - link "18+ Student Oyster photocard":
+        - /url: "#/benefit/student-oyster"
+      - paragraph: 5 people rated it (sample).
+      - heading "Worth it?" [level=3]
+      - paragraph: 4 of 5 people said it was very much worth it.
+      - list:
+        - listitem: Very 4 people
+        - listitem: Somewhat 1 person
+        - listitem: Not really 0 people
+      - heading "How quick?" [level=3]
+      - paragraph: 3 of 5 people said it took an average time.
+      - list:
+        - listitem: Quick 2 people
+        - listitem: Average 3 people
+        - listitem: Slow 0 people
+      - heading "How easy?" [level=3]
+      - paragraph: 4 of 5 people said it was easy.
+      - list:
+        - listitem: Easy 4 people
+        - listitem: OK 1 person
+        - listitem: Hard 0 people
+      - button "Rate this scheme"
+    - listitem:
+      - link "Basic bank account":
+        - /url: "#/benefit/basic-bank-account"
+      - paragraph: 6 people rated it (sample).
+      - heading "Worth it?" [level=3]
+      - paragraph: 5 of 6 people said it was very much worth it.
+      - list:
+        - listitem: Very 5 people
+        - listitem: Somewhat 1 person
+        - listitem: Not really 0 people
+      - heading "How quick?" [level=3]
+      - paragraph: 3 of 6 people said it was quick.
+      - list:
+        - listitem: Quick 3 people
+        - listitem: Average 2 people
+        - listitem: Slow 1 person
+      - heading "How easy?" [level=3]
+      - paragraph: 3 of 6 people said it was easy.
+      - list:
+        - listitem: Easy 3 people
+        - listitem: OK 2 people
+        - listitem: Hard 1 person
+      - button "Rate this scheme"
+    - listitem:
+      - link "Council Tax student exemption (Class N)":
+        - /url: "#/benefit/council-tax-student"
+      - paragraph: 7 people rated it (sample).
+      - heading "Worth it?" [level=3]
+      - paragraph: 6 of 7 people said it was very much worth it.
+      - list:
+        - listitem: Very 6 people
+        - listitem: Somewhat 1 person
+        - listitem: Not really 0 people
+      - heading "How quick?" [level=3]
+      - paragraph: 4 of 7 people said it took an average time.
+      - list:
+        - listitem: Quick 1 person
+        - listitem: Average 4 people
+        - listitem: Slow 2 people
+      - heading "How easy?" [level=3]
+      - paragraph: 4 of 7 people said it was easy.
+      - list:
+        - listitem: Easy 4 people
+        - listitem: OK 3 people
+        - listitem: Hard 0 people
+      - button "Rate this scheme"
+    - listitem:
+      - link "GP registration":
+        - /url: "#/benefit/gp-registration"
+      - paragraph: 10 people rated it (sample).
+      - heading "Worth it?" [level=3]
+      - paragraph: 9 of 10 people said it was very much worth it.
+      - list:
+        - listitem: Very 9 people
+        - listitem: Somewhat 1 person
+        - listitem: Not really 0 people
+      - heading "How quick?" [level=3]
+      - paragraph: 4 of 9 people said it was quick.
+      - list:
+        - listitem: Quick 4 people
+        - listitem: Average 4 people
+        - listitem: Slow 1 person
+      - heading "How easy?" [level=3]
+      - paragraph: 5 of 10 people said it was easy.
+      - list:
+        - listitem: Easy 5 people
+        - listitem: OK 3 people
+        - listitem: Hard 2 people
+      - button "Rate this scheme"
+    - listitem:
+      - link "HMRC tax refunds":
+        - /url: "#/benefit/tax-refund"
+      - paragraph: 4 people rated it (sample).
+      - heading "Worth it?" [level=3]
+      - paragraph: 3 of 4 people said it was very much worth it.
+      - list:
+        - listitem: Very 3 people
+        - listitem: Somewhat 1 person
+        - listitem: Not really 0 people
+      - heading "How quick?" [level=3]
+      - paragraph: 2 of 4 people said it took an average time.
+      - list:
+        - listitem: Quick 1 person
+        - listitem: Average 2 people
+        - listitem: Slow 1 person
+      - heading "How easy?" [level=3]
+      - paragraph: 2 of 4 people said it was easy.
+      - list:
+        - listitem: Easy 2 people
+        - listitem: OK 2 people
+        - listitem: Hard 0 people
+      - button "Rate this scheme"
+    - listitem:
+      - link "NHS Low Income Scheme (HC2/HC3)":
+        - /url: "#/benefit/nhs-low-income-scheme"
+      - paragraph: 7 people rated it (sample).
+      - heading "Worth it?" [level=3]
+      - paragraph: 5 of 7 people said it was very much worth it.
+      - list:
+        - listitem: Very 5 people
+        - listitem: Somewhat 2 people
+        - listitem: Not really 0 people
+      - heading "How quick?" [level=3]
+      - paragraph: 3 of 7 people said it took an average time.
+      - list:
+        - listitem: Quick 1 person
+        - listitem: Average 3 people
+        - listitem: Slow 3 people
+      - heading "How easy?" [level=3]
+      - paragraph: 3 of 7 people said it was OK.
+      - list:
+        - listitem: Easy 2 people
+        - listitem: OK 3 people
+        - listitem: Hard 2 people
+      - button "Rate this scheme"
+    - listitem:
+      - link "University hardship fund":
+        - /url: "#/benefit/uni-hardship-fund"
+      - paragraph: 7 people rated it (sample).
+      - heading "Worth it?" [level=3]
+      - paragraph: 4 of 7 people said it was very much worth it.
+      - list:
+        - listitem: Very 4 people
+        - listitem: Somewhat 2 people
+        - listitem: Not really 1 person
+      - heading "How quick?" [level=3]
+      - paragraph: 3 of 6 people said it took an average time.
+      - list:
+        - listitem: Quick 0 people
+        - listitem: Average 3 people
+        - listitem: Slow 3 people
+      - heading "How easy?" [level=3]
+      - paragraph: 4 of 7 people said it was OK.
+      - list:
+        - listitem: Easy 1 person
+        - listitem: OK 4 people
+        - listitem: Hard 2 people
+      - button "Rate this scheme"
+  - paragraph: Landit provides information only, not legal or financial advice. Eligibility varies by individual circumstance and immigration status. Always verify with official sources or a qualified adviser before applying.
+  - paragraph: Free for first users 2026/27 rates (April 2026)
+- status
+
+######## settings
+- button "Skip to content"
+- complementary "Menu and my applications":
+  - link "Landit , Chat":
+    - /url: "#/chat"
+  - button "Hide menu" [expanded]
+  - navigation "Main":
+    - link "Chat":
+      - /url: "#/chat"
+    - link "Benefits":
+      - /url: "#/benefits"
+    - link "Community":
+      - /url: "#/community"
+  - region "My applications 2":
+    - heading "My applications 2" [level=2]
+    - paragraph: "Tracked applications: tap one to see the documents."
+    - list:
+      - listitem:
+        - button "University hardship fund Applied 4 of 4 documents ticked"
+      - listitem:
+        - button "Council Tax student exemption (Class N) Not started 1 of 3 documents ticked"
+  - link "My profile Amara":
+    - /url: "#/settings"
+- main:
+  - heading "My profile" [level=1]
+  - paragraph: Your account and preferences.
+  - region "Your details":
+    - heading "Your details" [level=2]
+    - text: Name Amara
+    - button "Edit Name"
+    - text: Email amara@example.com
+    - button "Edit Email"
+  - region "Your answers":
+    - heading "Your answers" [level=2]
+    - paragraph: "These decide which benefits Landit shows you. Right now: 79 benefits."
+    - list:
+      - listitem:
+        - text: Visa or status Student visa
+        - link "Edit Visa or status":
+          - /url: "#/settings/answer/status"
+      - listitem:
+        - text: Where you live England
+        - link "Edit Where you live":
+          - /url: "#/settings/answer/nation"
+      - listitem:
+        - text: Work No, not now
+        - link "Edit Work":
+          - /url: "#/settings/answer/work"
+      - listitem:
+        - text: Study Yes, full time
+        - link "Edit Study":
+          - /url: "#/settings/answer/study"
+      - listitem:
+        - text: Children No
+        - link "Edit Children":
+          - /url: "#/settings/answer/children"
+      - listitem:
+        - text: Home I rent
+        - link "Edit Home":
+          - /url: "#/settings/answer/housing"
+      - listitem:
+        - text: Age 16 to 25
+        - link "Edit Age":
+          - /url: "#/settings/answer/age"
+  - region "Colours":
+    - heading "Colours" [level=2]
+    - radiogroup "Colours":
+      - radio "Clear Light and calm" [checked]
+      - text: Clear Light and calm
+      - radio "Warm Soft cream, like paper"
+      - text: Warm Soft cream, like paper
+      - radio "Sage Soft green and quiet"
+      - text: Sage Soft green and quiet
+      - radio "Soft dark Dark slate, easy at night"
+      - text: Soft dark Dark slate, easy at night
+      - radio "Strong contrast For low vision. Sharper on purpose"
+      - text: Strong contrast For low vision. Sharper on purpose
+  - region "Text size":
+    - heading "Text size" [level=2]
+    - radiogroup "Text size":
+      - radio "Normal" [checked]
+      - text: Normal
+      - radio "Large"
+      - text: Large
+      - radio "Extra large"
+      - text: Extra large
+  - region "Language":
+    - heading "Language" [level=2]
+    - paragraph: Menus and buttons change. Benefit names and details stay in English for now.
+    - radiogroup "Language":
+      - radio "English (UK)" [checked]
+      - text: English (UK)
+      - radio "Polski"
+      - text: Polski
+      - radio "Română"
+      - text: Română
+      - radio "اردو"
+      - text: اردو
+      - radio "العربية"
+      - text: العربية
+      - radio "Українська"
+      - text: Українська
+  - region "Read aloud":
+    - heading "Read aloud" [level=2]
+    - paragraph: Shows a Read aloud button on answers and benefit pages. Your device reads the words out loud.
+    - switch "On" [checked]
+  - region "Help now":
+    - heading "Help now" [level=2]
+    - paragraph: In immediate danger, call 999.
+    - link "Call 999":
+      - /url: tel:999
+    - link "All safety numbers":
+      - /url: "#/settings/help"
+  - region "Account":
+    - heading "Account" [level=2]
+    - button "Sign out"
+    - button "Delete account"
+  - region "About":
+    - heading "About" [level=2]
+    - paragraph: Free for first users
+    - paragraph: Know what you need. You brought the dream. We'll help you land it.
+    - paragraph: Landit provides information only, not legal or financial advice. Eligibility varies by individual circumstance and immigration status. Always verify with official sources or a qualified adviser before applying.
+    - paragraph: 2026/27 rates (April 2026)
+- status

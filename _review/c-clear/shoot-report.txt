@@ -1,0 +1,35 @@
+shoot: c-clear  32 shots, 0 with errors  (2026-10-01T12:54:22.441Z)
+shots: _review/c-clear/shots
+
+ok   login-phone
+ok   login-desktop
+ok   register-phone
+ok   register-desktop
+ok   questions-phone
+ok   questions-desktop
+ok   ack-phone
+ok   ack-desktop
+ok   chat-phone
+ok   chat-desktop
+ok   benefits-phone
+ok   benefits-desktop
+ok   benefit-phone
+ok   benefit-desktop
+ok   community-phone
+ok   community-desktop
+ok   settings-phone
+ok   settings-desktop
+ok   chat-ar-phone
+ok   chat-ar-desktop
+ok   chat-theme-warm-desktop
+ok   chat-theme-sage-desktop
+ok   chat-theme-soft-dark-desktop
+ok   chat-theme-strong-desktop
+ok   benefits-ar-phone
+ok   benefits-ar-desktop
+ok   benefits-theme-warm-desktop
+ok   benefits-theme-sage-desktop
+ok   benefits-theme-soft-dark-desktop
+ok   benefits-theme-strong-desktop
+ok   benefits-xlarge-phone
+ok   chat-drawer-phone

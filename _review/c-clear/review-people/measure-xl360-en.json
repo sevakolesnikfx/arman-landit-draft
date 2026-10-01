@@ -1,0 +1,459 @@
+{
+ "chat": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Good afternoon, Amara. How can I help?",
+   "H2:Or try one of these"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 1979,
+  "hscroll": false,
+  "disc": [
+   "932px composer-disclaimer"
+  ]
+ },
+ "chat#reply": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Chat"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h1.sr-only \"Chat\" 96>1"
+  ],
+  "docH": 4118,
+  "hscroll": false,
+  "disc": [
+   "3783px composer-disclaimer"
+  ]
+ },
+ "benefits": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:You may be able to get 79 benefits",
+   "H2:Choose a group"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 6575,
+  "hscroll": false,
+  "disc": [
+   "6051px disclaimer"
+  ]
+ },
+ "benefits#blocked": {
+  "small": [
+   "a. \"Help to Save\" 134x29",
+   "a. \"WaterSure\" 108x29"
+  ],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:You may be able to get 79 benefits",
+   "H2:Choose a group",
+   "H3:Public funds (8)",
+   "H3:Need a public fund to qualify (5)"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 9333,
+  "hscroll": false,
+  "disc": [
+   "8809px disclaimer"
+  ]
+ },
+ "benefits/all": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:All benefits"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 48792,
+  "hscroll": false,
+  "disc": [
+   "48269px disclaimer"
+  ]
+ },
+ "benefits/money": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Money"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 4574,
+  "hscroll": false,
+  "disc": [
+   "4050px disclaimer"
+  ]
+ },
+ "benefit/council-tax-student": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Council Tax student exemption (Class N)",
+   "H2:Who can get it",
+   "H2:What you need",
+   "H2:How to apply",
+   "H2:Improve your chances",
+   "H3:Most common mistake",
+   "H2:Where is your application up to?",
+   "H2:What people said",
+   "H2:Sources"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 9844,
+  "hscroll": false,
+  "disc": [
+   "9320px disclaimer"
+  ]
+ },
+ "benefit/universal-credit": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Universal Credit",
+   "H2:Who can get it",
+   "H2:What you need",
+   "H2:How to apply",
+   "H2:Improve your chances",
+   "H3:Most common mistake",
+   "H2:Where is your application up to?",
+   "H2:What people said",
+   "H2:Sources"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 9552,
+  "hscroll": false,
+  "disc": [
+   "9028px disclaimer"
+  ]
+ },
+ "community": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Community",
+   "H2:Council tax as a student",
+   "H2:Hardship fund: write a clear budget",
+   "H2:Railcard with a passport from home",
+   "H2:Registering with a GP with no proof of a",
+   "H2:Help with prescriptions and the dentist",
+   "H2:My first UK bank account",
+   "H2:Emergency tax on my first payslip",
+   "H2:Student Oyster card in London",
+   "H2:One folder for all my letters",
+   "H2:Asking for help with forms"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 9170,
+  "hscroll": false,
+  "disc": [
+   "8646px disclaimer"
+  ]
+ },
+ "community#replies": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Community",
+   "H2:Council tax as a student",
+   "H2:Hardship fund: write a clear budget",
+   "H2:Railcard with a passport from home",
+   "H2:Registering with a GP with no proof of a",
+   "H2:Help with prescriptions and the dentist",
+   "H2:My first UK bank account",
+   "H2:Emergency tax on my first payslip",
+   "H2:Student Oyster card in London",
+   "H2:One folder for all my letters",
+   "H2:Asking for help with forms"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 9936,
+  "hscroll": false,
+  "disc": [
+   "9412px disclaimer"
+  ]
+ },
+ "community/ratings": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Community",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?",
+   "H3:Worth it?",
+   "H3:How quick?",
+   "H3:How easy?"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 13098,
+  "hscroll": false,
+  "disc": [
+   "12574px disclaimer"
+  ]
+ },
+ "settings": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:My profile",
+   "H2:Your details",
+   "H2:Your answers",
+   "H2:Colours",
+   "H2:Text size",
+   "H2:Language",
+   "H2:Read aloud",
+   "H2:Help now",
+   "H2:Account",
+   "H2:About"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 7268,
+  "hscroll": false,
+  "disc": [
+   "6737px disclaimer"
+  ]
+ },
+ "settings/help": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:Help now",
+   "H2:Emergency, right now",
+   "H2:Police, not an emergency",
+   "H2:Health",
+   "H2:Scams and fraud",
+   "H2:Abuse, violence and exploitation",
+   "H2:Children",
+   "H2:Home and consumer"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 11265,
+  "hscroll": false,
+  "disc": [
+   "10741px disclaimer"
+  ]
+ },
+ "settings/answer/status": {
+  "small": [],
+  "tiny": {
+   "span.tab-label 15.1px": {
+    "n": 4,
+    "ex": "Chat"
+   }
+  },
+  "heads": [
+   "H2:My applications2 (sr)",
+   "H1:What is your visa or immigration status?"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 2586,
+  "hscroll": false,
+  "disc": []
+ },
+ "chat#drawer": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H2:My applications2",
+   "H1:Chat (sr)"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 4105,
+  "hscroll": false,
+  "disc": []
+ },
+ "questions": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:What is your visa or immigration status?"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 2476,
+  "hscroll": false,
+  "disc": []
+ },
+ "ack": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:Before you start"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [],
+  "docH": 1226,
+  "hscroll": false,
+  "disc": [
+   "403px ack-text"
+  ]
+ },
+ "login": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:Know what you need.",
+   "H2:Sign in"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h2.sr-only \"Sign in\" 109>1"
+  ],
+  "docH": 1750,
+  "hscroll": false,
+  "disc": [
+   "1400px disclaimer"
+  ]
+ },
+ "register": {
+  "small": [],
+  "tiny": {},
+  "heads": [
+   "H1:Know what you need.",
+   "H2:Create account"
+  ],
+  "unnamed": [],
+  "over": [],
+  "clipped": [
+   "h2.sr-only \"Create account\" 234>1"
+  ],
+  "docH": 1909,
+  "hscroll": false,
+  "disc": [
+   "1559px disclaimer"
+  ]
+ },
+ "errors": []
+}

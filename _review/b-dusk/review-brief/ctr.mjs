@@ -1,0 +1,17 @@
+import { chromium, open } from './lib.mjs';
+const browser = await chromium.launch({ channel: 'chrome', headless: true });
+const { ctx, page } = await open(browser, 'desktop');
+await page.fill('#chat-input', 'Council tax as a student');
+await page.press('#chat-input', 'Enter');
+await page.waitForTimeout(2000);
+const card = page.locator('.bcard').filter({ hasText: 'Council Tax Reduction' }).last();
+await card.scrollIntoViewIfNeeded();
+await page.waitForTimeout(300);
+await card.screenshot({ path: '/Users/armanbayatmaku/Desktop/landit-test/_review/b-dusk/review-brief/shots/desktop-chat-ctr-card.png' });
+await page.locator('.bcard [data-track="council-tax-reduction"]').last().click();
+await page.waitForTimeout(300);
+await page.click('#trk-btn-council-tax-reduction');
+await page.waitForTimeout(300);
+await page.screenshot({ path: '/Users/armanbayatmaku/Desktop/landit-test/_review/b-dusk/review-brief/shots/desktop-sidebar-ctr-tracked.png' });
+console.log(await page.locator('.trk').filter({ hasText: 'Council Tax Reduction' }).innerText());
+await browser.close();

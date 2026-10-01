@@ -1,0 +1,1719 @@
+{
+ "phone ?reset=1#/login": {
+  "small": [],
+  "texts": [
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "English (UK)"
+   },
+   {
+    "fs": 14,
+    "el": "p.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 15,
+    "el": "label.field-label",
+    "text": "Email"
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "This is a click dummy. Anything you type stays on this device."
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "phone ?reset=1#/register": {
+  "small": [],
+  "texts": [
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "English (UK)"
+   },
+   {
+    "fs": 14,
+    "el": "p.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 15,
+    "el": "label.field-label",
+    "text": "Your name"
+   },
+   {
+    "fs": 14,
+    "el": "p.field-hint",
+    "text": "So we can greet you. A first name is enough."
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "This is a click dummy. Anything you type stays on this device."
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "phone ?reset=1#/questions": {
+  "small": [],
+  "texts": [
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "English (UK)"
+   },
+   {
+    "fs": 15,
+    "el": "p.q-count",
+    "text": "Question 1 of 7"
+   },
+   {
+    "fs": 15,
+    "el": "button.btn.sm.quiet",
+    "text": "Skip all"
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "phone ?reset=1#/ack": {
+  "small": [],
+  "texts": [
+   {
+    "fs": 15,
+    "el": "p.ack-small",
+    "text": "You will see this once. It is also at the bottom of every page."
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "phone ?demo=1#/chat": {
+  "small": [],
+  "texts": [
+   {
+    "fs": 15,
+    "el": "button.chip",
+    "text": "What can I claim?"
+   },
+   {
+    "fs": 13,
+    "el": "p.dock-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "phone ?demo=1#/benefits": {
+  "small": [
+   {
+    "t": "a",
+    "w": 82,
+    "h": 20,
+    "label": "See which",
+    "inline": true
+   },
+   {
+    "t": "a.stretch",
+    "w": 180,
+    "h": 22,
+    "label": "Free Courses for Jobs",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 205,
+    "h": 22,
+    "label": "University hardship fund",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 268,
+    "h": 22,
+    "label": "Homelessness help under NRPF",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 259,
+    "h": 22,
+    "label": "British Gas Energy Trust grants",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 201,
+    "h": 22,
+    "label": "Warm Welcome Spaces",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 102,
+    "h": 22,
+    "label": "Lifetime ISA",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 167,
+    "h": 22,
+    "label": "Marriage Allowance",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 117,
+    "h": 22,
+    "label": "16-25 Railcard",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 250,
+    "h": 22,
+    "label": "18+ Student Oyster photocard",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 128,
+    "h": 22,
+    "label": "GP registration",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 227,
+    "h": 22,
+    "label": "National Insurance number",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 286,
+    "h": 22,
+    "label": "British Red Cross refugee services",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 321,
+    "h": 22,
+    "label": "National Minimum Wage enforcement",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 97,
+    "h": 22,
+    "label": "Holiday pay",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 314,
+    "h": 22,
+    "label": "Food banks (Trussell + independents)",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 205,
+    "h": 22,
+    "label": "Independent food banks",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 206,
+    "h": 22,
+    "label": "Furniture reuse charities",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 187,
+    "h": 22,
+    "label": "Turn2us grants search",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 227,
+    "h": 22,
+    "label": "Community Fibre Essential",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 186,
+    "h": 22,
+    "label": "4th Utility Social Tariff",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 300,
+    "h": 22,
+    "label": "Water social tariffs (income-based)",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 175,
+    "h": 22,
+    "label": "Free business advice",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "p.eyebrow",
+    "text": "Benefits"
+   },
+   {
+    "fs": 15,
+    "el": "p.total-label",
+    "text": "Potential, if all approved"
+   },
+   {
+    "fs": 14,
+    "el": "p.total-sub",
+    "text": "Adds up the 8 schemes that have an amount. Many others have no set amo"
+   },
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "All"
+   },
+   {
+    "fs": 13,
+    "el": "span.fchip-n",
+    "text": "80"
+   },
+   {
+    "fs": 14,
+    "el": "span.legend-title",
+    "text": "On each card:"
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "Time to apply"
+   },
+   {
+    "fs": 14,
+    "el": "p.legend-note",
+    "text": "Effort is Landit's own guide. Based on the number of documents and ste"
+   },
+   {
+    "fs": 13,
+    "el": "span.group-n",
+    "text": "19"
+   },
+   {
+    "fs": 14,
+    "el": "span.cat-label",
+    "text": "Education"
+   },
+   {
+    "fs": 15,
+    "el": "p.bcard-sub",
+    "text": "Free A-level-equivalent qualification from the approved list"
+   },
+   {
+    "fs": 14,
+    "el": "p.val-q",
+    "text": "Could be worth"
+   },
+   {
+    "fs": 15,
+    "el": "p.val-none",
+    "text": "No set amount"
+   },
+   {
+    "fs": 15,
+    "el": "p.blocked-why",
+    "text": "These are public funds (paragraph 6.2 of the Immigration Rules). Your "
+   },
+   {
+    "fs": 15,
+    "el": "p.blocked-reason",
+    "text": "This is a public fund. Your visa has a no recourse to public funds con"
+   },
+   {
+    "fs": 13,
+    "el": "span.bl-cat",
+    "text": "Welfare support"
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "phone ?demo=1#/benefit/council-tax-student-exemption": {
+  "small": [
+   {
+    "t": "a",
+    "w": 110,
+    "h": 20,
+    "label": "Go to Benefits",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "phone ?demo=1#/community": {
+  "small": [
+   {
+    "t": "a.btag",
+    "w": 315,
+    "h": 32,
+    "label": "Council Tax student exemption (Class N)",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 209,
+    "h": 32,
+    "label": "University hardship fund",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 140,
+    "h": 32,
+    "label": "16-25 Railcard",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 148,
+    "h": 32,
+    "label": "GP registration",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 294,
+    "h": 32,
+    "label": "NHS Low Income Scheme (HC2/HC3)",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 175,
+    "h": 32,
+    "label": "Basic bank account",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 168,
+    "h": 32,
+    "label": "HMRC tax refunds",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 244,
+    "h": 32,
+    "label": "18+ Student Oyster photocard",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "p.eyebrow",
+    "text": "Community"
+   },
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "These are example posts, written to show how this page could work."
+   },
+   {
+    "fs": 15,
+    "el": "label.field-label",
+    "text": "Show posts about"
+   },
+   {
+    "fs": 14,
+    "el": "p.post-when",
+    "text": "2 days ago"
+   },
+   {
+    "fs": 13,
+    "el": "span.tag-quiet",
+    "text": "Example post"
+   },
+   {
+    "fs": 15,
+    "el": "span.c-author",
+    "text": "Daniel"
+   },
+   {
+    "fs": 13,
+    "el": "span.c-when",
+    "text": "1 day ago"
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "phone ?demo=1#/community/ratings": {
+  "small": [
+   {
+    "t": "a",
+    "w": 208,
+    "h": 28,
+    "label": "University hardship fund",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 118,
+    "h": 28,
+    "label": "16-25 Railcard",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 129,
+    "h": 28,
+    "label": "GP registration",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 165,
+    "h": 28,
+    "label": "Basic bank account",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 155,
+    "h": 28,
+    "label": "HMRC tax refunds",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 253,
+    "h": 28,
+    "label": "18+ Student Oyster photocard",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "p.eyebrow",
+    "text": "Community"
+   },
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "These are example posts, written to show how this page could work."
+   },
+   {
+    "fs": 14,
+    "el": "span.cat-label",
+    "text": "Council help"
+   },
+   {
+    "fs": 14,
+    "el": "p.rscale-h",
+    "text": "Worth it?"
+   },
+   {
+    "fs": 15,
+    "el": "p.rscale-sum",
+    "text": "6 of 7 people said it was very worth it"
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "Very 6"
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "phone ?demo=1#/settings": {
+  "small": [
+   {
+    "t": "a",
+    "w": 64,
+    "h": 20,
+    "label": "Benefits",
+    "inline": true
+   },
+   {
+    "t": "a",
+    "w": 87,
+    "h": 35,
+    "label": "999bsl.co.uk",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 104,
+    "h": 35,
+    "label": "report-it.org.uk",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 145,
+    "h": 35,
+    "label": "reportfraud.police.uk",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "p.eyebrow",
+    "text": "Profile"
+   },
+   {
+    "fs": 15,
+    "el": "a",
+    "text": "Your details"
+   },
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "Edit"
+   },
+   {
+    "fs": 13,
+    "el": "span.theme-note",
+    "text": "Warm and light"
+   },
+   {
+    "fs": 14,
+    "el": "p.d-muted.small",
+    "text": "Menus and buttons change where a translation exists. Scheme details st"
+   },
+   {
+    "fs": 15,
+    "el": "span.switch-sub",
+    "text": "Landit can read replies and benefit pages out loud."
+   },
+   {
+    "fs": 15,
+    "el": "p.help-note",
+    "text": "Helplines like Victim Support, Rape Crisis and the domestic abuse line"
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "Numbers for England."
+   },
+   {
+    "fs": 15,
+    "el": "p.help-item-note",
+    "text": "Free, 24/7, any phone. 112 works exactly the same. Location is passed "
+   },
+   {
+    "fs": 15,
+    "el": "p.set-v.muted",
+    "text": "Your answers and tracked applications stay on this device."
+   },
+   {
+    "fs": 15,
+    "el": "button.btn.sm",
+    "text": "Sign out"
+   },
+   {
+    "fs": 15,
+    "el": "button.btn.sm.danger",
+    "text": "Delete account"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 15,
+    "el": "p.d-muted",
+    "text": "This is a click dummy. Nothing you type is sent anywhere."
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 390
+ },
+ "desk ?reset=1#/login": {
+  "small": [],
+  "texts": [
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "English (UK)"
+   },
+   {
+    "fs": 14,
+    "el": "p.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 15,
+    "el": "label.field-label",
+    "text": "Email"
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "This is a click dummy. Anything you type stays on this device."
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ },
+ "desk ?reset=1#/register": {
+  "small": [],
+  "texts": [
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "English (UK)"
+   },
+   {
+    "fs": 14,
+    "el": "p.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 15,
+    "el": "label.field-label",
+    "text": "Your name"
+   },
+   {
+    "fs": 14,
+    "el": "p.field-hint",
+    "text": "So we can greet you. A first name is enough."
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "This is a click dummy. Anything you type stays on this device."
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ },
+ "desk ?reset=1#/questions": {
+  "small": [],
+  "texts": [
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "English (UK)"
+   },
+   {
+    "fs": 15,
+    "el": "p.q-count",
+    "text": "Question 1 of 7"
+   },
+   {
+    "fs": 15,
+    "el": "button.btn.sm.quiet",
+    "text": "Skip all"
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ },
+ "desk ?reset=1#/ack": {
+  "small": [],
+  "texts": [
+   {
+    "fs": 15,
+    "el": "p.ack-small",
+    "text": "You will see this once. It is also at the bottom of every page."
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ },
+ "desk ?demo=1#/chat": {
+  "small": [
+   {
+    "t": "textarea.composer-input",
+    "w": 688,
+    "h": 32,
+    "label": "",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "h2.sb-h",
+    "text": "Tracked applications"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-applied",
+    "text": "Applied"
+   },
+   {
+    "fs": 13,
+    "el": "span.trk-docs",
+    "text": "4 of 4 documents"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-none",
+    "text": "Not started"
+   },
+   {
+    "fs": 13,
+    "el": "span.acct-sub",
+    "text": "Profile and settings"
+   },
+   {
+    "fs": 15,
+    "el": "button.chip",
+    "text": "What can I claim?"
+   },
+   {
+    "fs": 13,
+    "el": "span.composer-hint",
+    "text": "Press Enter to send"
+   },
+   {
+    "fs": 13,
+    "el": "p.dock-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ },
+ "desk ?demo=1#/benefits": {
+  "small": [
+   {
+    "t": "a",
+    "w": 82,
+    "h": 20,
+    "label": "See which",
+    "inline": true
+   },
+   {
+    "t": "a.stretch",
+    "w": 180,
+    "h": 22,
+    "label": "Free Courses for Jobs",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 205,
+    "h": 22,
+    "label": "University hardship fund",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 124,
+    "h": 22,
+    "label": "Public libraries",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 268,
+    "h": 22,
+    "label": "Homelessness help under NRPF",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 270,
+    "h": 22,
+    "label": "Rent deposit and bond schemes",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 259,
+    "h": 22,
+    "label": "British Gas Energy Trust grants",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 201,
+    "h": 22,
+    "label": "Warm Welcome Spaces",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 212,
+    "h": 22,
+    "label": "Priority Services Register",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 102,
+    "h": 22,
+    "label": "Lifetime ISA",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 167,
+    "h": 22,
+    "label": "Marriage Allowance",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 153,
+    "h": 22,
+    "label": "HMRC tax refunds",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 117,
+    "h": 22,
+    "label": "16-25 Railcard",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 250,
+    "h": 22,
+    "label": "18+ Student Oyster photocard",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 176,
+    "h": 22,
+    "label": "National bus fare cap",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 128,
+    "h": 22,
+    "label": "GP registration",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 277,
+    "h": 22,
+    "label": "NHS services that are always free",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 227,
+    "h": 22,
+    "label": "National Insurance number",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 286,
+    "h": 22,
+    "label": "British Red Cross refugee services",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 97,
+    "h": 22,
+    "label": "Holiday pay",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 205,
+    "h": 22,
+    "label": "Independent food banks",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 164,
+    "h": 22,
+    "label": "Community fridges",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 206,
+    "h": 22,
+    "label": "Furniture reuse charities",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 187,
+    "h": 22,
+    "label": "Turn2us grants search",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 111,
+    "h": 22,
+    "label": "Smart Works",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 227,
+    "h": 22,
+    "label": "Community Fibre Essential",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 186,
+    "h": 22,
+    "label": "4th Utility Social Tariff",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 218,
+    "h": 22,
+    "label": "Free water-saving devices",
+    "inline": false
+   },
+   {
+    "t": "a.stretch",
+    "w": 175,
+    "h": 22,
+    "label": "Free business advice",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "h2.sb-h",
+    "text": "Tracked applications"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-applied",
+    "text": "Applied"
+   },
+   {
+    "fs": 13,
+    "el": "span.trk-docs",
+    "text": "4 of 4 documents"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-none",
+    "text": "Not started"
+   },
+   {
+    "fs": 13,
+    "el": "span.acct-sub",
+    "text": "Profile and settings"
+   },
+   {
+    "fs": 14,
+    "el": "p.eyebrow",
+    "text": "Benefits"
+   },
+   {
+    "fs": 15,
+    "el": "p.total-label",
+    "text": "Potential, if all approved"
+   },
+   {
+    "fs": 14,
+    "el": "p.total-sub",
+    "text": "Adds up the 8 schemes that have an amount. Many others have no set amo"
+   },
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "All"
+   },
+   {
+    "fs": 13,
+    "el": "span.fchip-n",
+    "text": "80"
+   },
+   {
+    "fs": 14,
+    "el": "span.legend-title",
+    "text": "On each card:"
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "Time to apply"
+   },
+   {
+    "fs": 14,
+    "el": "p.legend-note",
+    "text": "Effort is Landit's own guide. Based on the number of documents and ste"
+   },
+   {
+    "fs": 13,
+    "el": "span.group-n",
+    "text": "19"
+   },
+   {
+    "fs": 14,
+    "el": "span.cat-label",
+    "text": "Education"
+   },
+   {
+    "fs": 15,
+    "el": "p.bcard-sub",
+    "text": "Free A-level-equivalent qualification from the approved list"
+   },
+   {
+    "fs": 14,
+    "el": "p.val-q",
+    "text": "Could be worth"
+   },
+   {
+    "fs": 15,
+    "el": "p.val-none",
+    "text": "No set amount"
+   },
+   {
+    "fs": 15,
+    "el": "p.blocked-why",
+    "text": "These are public funds (paragraph 6.2 of the Immigration Rules). Your "
+   },
+   {
+    "fs": 15,
+    "el": "p.blocked-reason",
+    "text": "This is a public fund. Your visa has a no recourse to public funds con"
+   },
+   {
+    "fs": 13,
+    "el": "span.bl-cat",
+    "text": "Welfare support"
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ },
+ "desk ?demo=1#/benefit/council-tax-student-exemption": {
+  "small": [
+   {
+    "t": "a",
+    "w": 110,
+    "h": 20,
+    "label": "Go to Benefits",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "h2.sb-h",
+    "text": "Tracked applications"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-applied",
+    "text": "Applied"
+   },
+   {
+    "fs": 13,
+    "el": "span.trk-docs",
+    "text": "4 of 4 documents"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-none",
+    "text": "Not started"
+   },
+   {
+    "fs": 13,
+    "el": "span.acct-sub",
+    "text": "Profile and settings"
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ },
+ "desk ?demo=1#/community": {
+  "small": [
+   {
+    "t": "a.btag",
+    "w": 315,
+    "h": 32,
+    "label": "Council Tax student exemption (Class N)",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 209,
+    "h": 32,
+    "label": "University hardship fund",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 140,
+    "h": 32,
+    "label": "16-25 Railcard",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 148,
+    "h": 32,
+    "label": "GP registration",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 294,
+    "h": 32,
+    "label": "NHS Low Income Scheme (HC2/HC3)",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 175,
+    "h": 32,
+    "label": "Basic bank account",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 168,
+    "h": 32,
+    "label": "HMRC tax refunds",
+    "inline": false
+   },
+   {
+    "t": "a.btag",
+    "w": 244,
+    "h": 32,
+    "label": "18+ Student Oyster photocard",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "h2.sb-h",
+    "text": "Tracked applications"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-applied",
+    "text": "Applied"
+   },
+   {
+    "fs": 13,
+    "el": "span.trk-docs",
+    "text": "4 of 4 documents"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-none",
+    "text": "Not started"
+   },
+   {
+    "fs": 13,
+    "el": "span.acct-sub",
+    "text": "Profile and settings"
+   },
+   {
+    "fs": 14,
+    "el": "p.eyebrow",
+    "text": "Community"
+   },
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "These are example posts, written to show how this page could work."
+   },
+   {
+    "fs": 15,
+    "el": "label.field-label",
+    "text": "Show posts about"
+   },
+   {
+    "fs": 14,
+    "el": "p.post-when",
+    "text": "2 days ago"
+   },
+   {
+    "fs": 13,
+    "el": "span.tag-quiet",
+    "text": "Example post"
+   },
+   {
+    "fs": 15,
+    "el": "span.c-author",
+    "text": "Daniel"
+   },
+   {
+    "fs": 13,
+    "el": "span.c-when",
+    "text": "1 day ago"
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ },
+ "desk ?demo=1#/community/ratings": {
+  "small": [
+   {
+    "t": "a",
+    "w": 345,
+    "h": 28,
+    "label": "Council Tax student exemption (Class N)",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 208,
+    "h": 28,
+    "label": "University hardship fund",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 118,
+    "h": 28,
+    "label": "16-25 Railcard",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 129,
+    "h": 28,
+    "label": "GP registration",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 317,
+    "h": 28,
+    "label": "NHS Low Income Scheme (HC2/HC3)",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 165,
+    "h": 28,
+    "label": "Basic bank account",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 155,
+    "h": 28,
+    "label": "HMRC tax refunds",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 253,
+    "h": 28,
+    "label": "18+ Student Oyster photocard",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "h2.sb-h",
+    "text": "Tracked applications"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-applied",
+    "text": "Applied"
+   },
+   {
+    "fs": 13,
+    "el": "span.trk-docs",
+    "text": "4 of 4 documents"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-none",
+    "text": "Not started"
+   },
+   {
+    "fs": 13,
+    "el": "span.acct-sub",
+    "text": "Profile and settings"
+   },
+   {
+    "fs": 14,
+    "el": "p.eyebrow",
+    "text": "Community"
+   },
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "These are example posts, written to show how this page could work."
+   },
+   {
+    "fs": 14,
+    "el": "span.cat-label",
+    "text": "Council help"
+   },
+   {
+    "fs": 14,
+    "el": "p.rscale-h",
+    "text": "Worth it?"
+   },
+   {
+    "fs": 15,
+    "el": "p.rscale-sum",
+    "text": "6 of 7 people said it was very worth it"
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "Very 6"
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ },
+ "desk ?demo=1#/settings": {
+  "small": [
+   {
+    "t": "a",
+    "w": 64,
+    "h": 20,
+    "label": "Benefits",
+    "inline": true
+   },
+   {
+    "t": "a",
+    "w": 87,
+    "h": 35,
+    "label": "999bsl.co.uk",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 104,
+    "h": 35,
+    "label": "report-it.org.uk",
+    "inline": false
+   },
+   {
+    "t": "a",
+    "w": 145,
+    "h": 35,
+    "label": "reportfraud.police.uk",
+    "inline": false
+   }
+  ],
+  "texts": [
+   {
+    "fs": 14,
+    "el": "h2.sb-h",
+    "text": "Tracked applications"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-applied",
+    "text": "Applied"
+   },
+   {
+    "fs": 13,
+    "el": "span.trk-docs",
+    "text": "4 of 4 documents"
+   },
+   {
+    "fs": 13,
+    "el": "span.status-pill.s-none",
+    "text": "Not started"
+   },
+   {
+    "fs": 13,
+    "el": "span.acct-sub",
+    "text": "Profile and settings"
+   },
+   {
+    "fs": 14,
+    "el": "p.eyebrow",
+    "text": "Profile"
+   },
+   {
+    "fs": 15,
+    "el": "a",
+    "text": "Your details"
+   },
+   {
+    "fs": 15,
+    "el": "span",
+    "text": "Edit"
+   },
+   {
+    "fs": 13,
+    "el": "span.theme-note",
+    "text": "Warm and light"
+   },
+   {
+    "fs": 14,
+    "el": "p.d-muted.small",
+    "text": "Menus and buttons change where a translation exists. Scheme details st"
+   },
+   {
+    "fs": 15,
+    "el": "span.switch-sub",
+    "text": "Landit can read replies and benefit pages out loud."
+   },
+   {
+    "fs": 15,
+    "el": "p.help-note",
+    "text": "Helplines like Victim Support, Rape Crisis and the domestic abuse line"
+   },
+   {
+    "fs": 14,
+    "el": "span",
+    "text": "Numbers for England."
+   },
+   {
+    "fs": 15,
+    "el": "p.help-item-note",
+    "text": "Free, 24/7, any phone. 112 works exactly the same. Location is passed "
+   },
+   {
+    "fs": 15,
+    "el": "p.set-v.muted",
+    "text": "Your answers and tracked applications stay on this device."
+   },
+   {
+    "fs": 15,
+    "el": "button.btn.sm",
+    "text": "Sign out"
+   },
+   {
+    "fs": 15,
+    "el": "button.btn.sm.danger",
+    "text": "Delete account"
+   },
+   {
+    "fs": 14,
+    "el": "span.free-label",
+    "text": "Free for first users"
+   },
+   {
+    "fs": 15,
+    "el": "p.d-muted",
+    "text": "This is a click dummy. Nothing you type is sent anywhere."
+   },
+   {
+    "fs": 14,
+    "el": "p.foot-disc",
+    "text": "Landit provides information only, not legal or financial advice. Eligi"
+   },
+   {
+    "fs": 14,
+    "el": "span.foot-rates",
+    "text": "2026/27 rates (April 2026)"
+   }
+  ],
+  "overflowX": false,
+  "sw": 1440
+ }
+}

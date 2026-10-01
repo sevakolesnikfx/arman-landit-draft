@@ -1,0 +1,3756 @@
+{
+ "desk ?reset=1#/login": [
+  {
+   "tag": "BUTTON",
+   "label": "Language: English (UK)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 144,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "login-email",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 379,
+   "h": 52
+  },
+  {
+   "tag": "INPUT",
+   "label": "login-pass",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 379,
+   "h": 52
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show password",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Sign in",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 379,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Create account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 129,
+   "h": 45
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "desk ?reset=1#/register": [
+  {
+   "tag": "BUTTON",
+   "label": "Language: English (UK)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 144,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "reg-name",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 379,
+   "h": 52
+  },
+  {
+   "tag": "INPUT",
+   "label": "reg-email",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 379,
+   "h": 52
+  },
+  {
+   "tag": "INPUT",
+   "label": "reg-pass",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 379,
+   "h": 52
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show password",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Create account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 379,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Sign in",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 61,
+   "h": 45
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "desk ?reset=1#/questions": [
+  {
+   "tag": "BUTTON",
+   "label": "Language: English (UK)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 144,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Skip all",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "worker",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 298,
+   "h": 70
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Skip this question",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 174,
+   "h": 48
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "desk ?reset=1#/ack": [
+  {
+   "tag": "BUTTON",
+   "label": "I understand",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 157,
+   "h": 56
+  },
+  {
+   "tag": "BODY"
+  },
+  {
+   "tag": "BUTTON",
+   "label": "I understand",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 157,
+   "h": 56
+  },
+  {
+   "tag": "BUTTON",
+   "label": "I understand",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 157,
+   "h": 56
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "desk ?demo=1#/chat": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Close sidebar",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "New chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Community",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "University hardship fund Applied 4 of 4 documents",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 92
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council Tax student exemption (Class N) Not starte",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 112
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Account: Amara. Profile, settings and Help now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 56
+  },
+  {
+   "tag": "BUTTON",
+   "label": "What can I claim?",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 156,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council tax as a student",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 200,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "What does no recourse to public funds mean?",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 352,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Help with travel costs",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 182,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Help with bills",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 130,
+   "h": 44
+  },
+  {
+   "tag": "TEXTAREA",
+   "label": "Ask a question",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 688,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Voice typing",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Send",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 46,
+   "h": 46
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "desk ?demo=1#/benefits": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Close sidebar",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "New chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Community",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "University hardship fund Applied 4 of 4 documents",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 92
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council Tax student exemption (Class N) Not starte",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 112
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Account: Amara. Profile, settings and Help now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "See which",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 82,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "label": "All 80",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 68,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Money 5",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 111,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council help 5",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 150,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Health 8",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 110,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Education 19",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 142,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Work 3",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Transport 10",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 139,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Energy 7",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 113,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Water 3",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 107,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Phone and internet 5",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 197,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Food 4",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 99,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Charity 6",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 115,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Visa and legal 4",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 159,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Business 1",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 125,
+   "h": 44
+  },
+  {
+   "tag": "SELECT",
+   "label": "Highest amount Quickest to apply Fewest documents ",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 202,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Free Courses for Jobs",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Free Courses for Jobs",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Free Courses for Jobs",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 180,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: University hardship fund",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: University hardship fund",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "University hardship fund",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 205,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Public libraries",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Public libraries",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Public libraries",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 124,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show all 19 in Education",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 245,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Council Tax student exemption (Class N)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Council Tax student exemption (Class N)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Council Tax student exemption (Class N)",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 171,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Homelessness help under NRPF",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Homelessness help under NRPF",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Homelessness help under NRPF",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 268,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Rent deposit and bond schemes",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Rent deposit and bond schemes",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Rent deposit and bond schemes",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 270,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show all 5 in Council help",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 255,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: British Gas Energy Trust grants",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: British Gas Energy Trust grants",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "British Gas Energy Trust grants",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 259,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Warm Welcome Spaces",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Warm Welcome Spaces",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Warm Welcome Spaces",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 201,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Priority Services Register",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Priority Services Register",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Priority Services Register",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 212,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show all 7 in Energy",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 215,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Lifetime ISA",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Lifetime ISA",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Lifetime ISA",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 102,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Marriage Allowance",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  }
+ ],
+ "desk ?demo=1#/benefit/council-tax-student": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Close sidebar",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "New chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Community",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "University hardship fund Applied 4 of 4 documents",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 92
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council Tax student exemption (Class N) Not starte",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 112
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Account: Amara. Profile, settings and Help now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Tracking",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 131,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 110,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Read aloud",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 133,
+   "h": 48
+  },
+  {
+   "tag": "INPUT",
+   "label": "Not started",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 170,
+   "h": 48
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 678,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 678,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 678,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 702,
+   "h": 86
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 702,
+   "h": 63
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 702,
+   "h": 86
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 702,
+   "h": 63
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 702,
+   "h": 63
+  },
+  {
+   "tag": "A",
+   "label": "Apply on the official site (opens in a new tab)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 273,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Read 1 post",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 134,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Rate this scheme",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 176,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "nrpfnetwork.org.uk/information-and-resources/right",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 704,
+   "h": 66
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "desk ?demo=1#/community": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Close sidebar",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "New chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Community",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "University hardship fund Applied 4 of 4 documents",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 92
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council Tax student exemption (Class N) Not starte",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 112
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Account: Amara. Profile, settings and Help now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Posts",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 107,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Ratings",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 122,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Write a post",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 158,
+   "h": 48
+  },
+  {
+   "tag": "SELECT",
+   "label": "All benefits Council Tax student exemption (Class ",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 416,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Council Tax student exemption (Class N)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 315,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "2 comments",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 165,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "University hardship fund",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 209,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "2 comments",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 165,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "16-25 Railcard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 140,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "GP registration",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 148,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "NHS Low Income Scheme (HC2/HC3)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 294,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Basic bank account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 175,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "0 comments",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 167,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "HMRC tax refunds",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 168,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "18+ Student Oyster photocard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 244,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "0 comments",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 167,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "desk ?demo=1#/community/ratings": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Close sidebar",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "New chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Community",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "University hardship fund Applied 4 of 4 documents",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 92
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council Tax student exemption (Class N) Not starte",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 112
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Account: Amara. Profile, settings and Help now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Posts",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 107,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Ratings",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 122,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Rate a scheme",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 176,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Council Tax student exemption (Class N)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 345,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "University hardship fund",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 208,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "16-25 Railcard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 118,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "GP registration",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 129,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "NHS Low Income Scheme (HC2/HC3)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 317,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "Basic bank account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 165,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "HMRC tax refunds",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "18+ Student Oyster photocard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 253,
+   "h": 28
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "desk ?demo=1#/settings": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Close sidebar",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "New chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Community",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "University hardship fund Applied 4 of 4 documents",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 92
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council Tax student exemption (Class N) Not starte",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 273,
+   "h": 112
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Account: Amara. Profile, settings and Help now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": true,
+   "w": 275,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Your details",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 115,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Your answers",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 126,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Preferences",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 118,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Help now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 98,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 92,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Name",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Email",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 64,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Visa or status",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Where you live",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Work",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Study",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Children",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Home",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Age",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "paper",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 157,
+   "h": 160
+  },
+  {
+   "tag": "INPUT",
+   "label": "normal",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 214,
+   "h": 84
+  },
+  {
+   "tag": "INPUT",
+   "label": "en",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 325,
+   "h": 56
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 660,
+   "h": 51
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Emergency, right now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 660,
+   "h": 52
+  },
+  {
+   "tag": "A",
+   "label": "Call Police, fire, ambulance, coastguard: 999",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 96,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Call Cannot speak safely: Call 999, then press 55",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 224,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "999bsl.co.uk",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 87,
+   "h": 35
+  },
+  {
+   "tag": "A",
+   "label": "Call Deaf or speech-impaired: 999 BSL · Relay UK 1",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 224,
+   "h": 56
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Police, not an emergency",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 660,
+   "h": 52
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Health",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 660,
+   "h": 52
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Scams and fraud",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 660,
+   "h": 52
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Abuse, violence and exploitation",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 660,
+   "h": 52
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Children",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 660,
+   "h": 52
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Home and consumer",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 660,
+   "h": 52
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Sign out",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 90,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Delete account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 138,
+   "h": 44
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "phone ?reset=1#/login": [
+  {
+   "tag": "BUTTON",
+   "label": "Language: English (UK)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 144,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "login-email",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 318,
+   "h": 52
+  },
+  {
+   "tag": "INPUT",
+   "label": "login-pass",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 318,
+   "h": 52
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show password",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Sign in",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 318,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Create account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 129,
+   "h": 45
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "phone ?reset=1#/register": [
+  {
+   "tag": "BUTTON",
+   "label": "Language: English (UK)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 144,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "reg-name",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 318,
+   "h": 52
+  },
+  {
+   "tag": "INPUT",
+   "label": "reg-email",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 318,
+   "h": 52
+  },
+  {
+   "tag": "INPUT",
+   "label": "reg-pass",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 318,
+   "h": 52
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show password",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Create account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 318,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Sign in",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 61,
+   "h": 45
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "phone ?reset=1#/questions": [
+  {
+   "tag": "BUTTON",
+   "label": "Language: English (UK)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 144,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Skip all",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "worker",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 321,
+   "h": 70
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Skip this question",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 321,
+   "h": 48
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "phone ?reset=1#/ack": [
+  {
+   "tag": "BUTTON",
+   "label": "I understand",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 316,
+   "h": 56
+  },
+  {
+   "tag": "BODY"
+  },
+  {
+   "tag": "BUTTON",
+   "label": "I understand",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 316,
+   "h": 56
+  },
+  {
+   "tag": "BUTTON",
+   "label": "I understand",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 316,
+   "h": 56
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "phone ?demo=1#/chat": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Open menu and tracked applications",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 93,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "New chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "What can I claim?",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 156,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council tax as a student",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 200,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "What does no recourse to public funds mean?",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 352,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Help with travel costs",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 182,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Help with bills",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 130,
+   "h": 44
+  },
+  {
+   "tag": "TEXTAREA",
+   "label": "Ask a question",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 237,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Voice typing",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Send",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 46,
+   "h": 46
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "phone ?demo=1#/benefits": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Open menu and tracked applications",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 93,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "See which",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 82,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "label": "All 80",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 68,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Money 5",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 111,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Council help 5",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 150,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Health 8",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 110,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Education 19",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 142,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Work 3",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Transport 10",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 139,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Energy 7",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 113,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Water 3",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 107,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Phone and internet 5",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 197,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Food 4",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 99,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Charity 6",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 115,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Visa and legal 4",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 159,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Business 1",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 125,
+   "h": 44
+  },
+  {
+   "tag": "SELECT",
+   "label": "Highest amount Quickest to apply Fewest documents ",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 274,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Free Courses for Jobs",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Free Courses for Jobs",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Free Courses for Jobs",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 180,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: University hardship fund",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: University hardship fund",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "University hardship fund",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 205,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show all 19 in Education",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 245,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Council Tax student exemption (Class N)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Council Tax student exemption (Class N)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Council Tax student exemption (Class N)",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 171,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Homelessness help under NRPF",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Homelessness help under NRPF",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Homelessness help under NRPF",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 268,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show all 5 in Council help",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 255,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: British Gas Energy Trust grants",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: British Gas Energy Trust grants",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "British Gas Energy Trust grants",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 259,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Warm Welcome Spaces",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Warm Welcome Spaces",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Warm Welcome Spaces",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 201,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show all 7 in Energy",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 215,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Lifetime ISA",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Lifetime ISA",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Lifetime ISA",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 102,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Marriage Allowance",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Marriage Allowance",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Marriage Allowance",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 167,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show all 5 in Money",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 213,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: 16-25 Railcard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: 16-25 Railcard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "16-25 Railcard",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 117,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: 18+ Student Oyster photocard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: 18+ Student Oyster photocard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "18+ Student Oyster photocard",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 250,
+   "h": 22
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Show all 10 in Transport",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 243,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: Prescription charges and the prepayment cer",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: Prescription charges and the prepayment cer",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Prescription charges and the prepayment certificat",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 226,
+   "h": 45
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Track: GP registration",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share: GP registration",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "GP registration",
+   "ring": false,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 128,
+   "h": 22
+  }
+ ],
+ "phone ?demo=1#/benefit/council-tax-student": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Open menu and tracked applications",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 93,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 102,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Tracking",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 186,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Share",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 164,
+   "h": 48
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Read aloud",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 358,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "Not started",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 171,
+   "h": 48
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 332,
+   "h": 64
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 332,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 332,
+   "h": 64
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 356,
+   "h": 113
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 356,
+   "h": 86
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 356,
+   "h": 140
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 356,
+   "h": 86
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 356,
+   "h": 86
+  },
+  {
+   "tag": "A",
+   "label": "Apply on the official site (opens in a new tab)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 273,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "Read 1 post",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 134,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Rate this scheme",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 176,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "nrpfnetwork.org.uk/information-and-resources/right",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 358,
+   "h": 90
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "phone ?demo=1#/community": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Open menu and tracked applications",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 93,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Posts",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 107,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Ratings",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 122,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Write a post",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 158,
+   "h": 48
+  },
+  {
+   "tag": "SELECT",
+   "label": "All benefits Council Tax student exemption (Class ",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 358,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Council Tax student exemption (Class N)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 315,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "2 comments",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 165,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "University hardship fund",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 209,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "2 comments",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 165,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "16-25 Railcard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 140,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "GP registration",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 148,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "NHS Low Income Scheme (HC2/HC3)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 294,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Basic bank account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 175,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "0 comments",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 167,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "HMRC tax refunds",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 168,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "18+ Student Oyster photocard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 244,
+   "h": 32
+  },
+  {
+   "tag": "BUTTON",
+   "label": "0 comments",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 167,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "1 comment",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 44
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "phone ?demo=1#/community/ratings": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Open menu and tracked applications",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 93,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Posts",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 107,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Ratings",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 122,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Rate a scheme",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 176,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Council Tax student exemption (Class N)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 316,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "University hardship fund",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 208,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "16-25 Railcard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 118,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "GP registration",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 129,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "NHS Low Income Scheme (HC2/HC3)",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 316,
+   "h": 50
+  },
+  {
+   "tag": "A",
+   "label": "Basic bank account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 165,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "HMRC tax refunds",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 155,
+   "h": 28
+  },
+  {
+   "tag": "A",
+   "label": "18+ Student Oyster photocard",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 253,
+   "h": 28
+  },
+  {
+   "tag": "BODY"
+  }
+ ],
+ "phone ?demo=1#/settings": [
+  {
+   "tag": "A",
+   "label": "Skip to content",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 153,
+   "h": 50
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Open menu and tracked applications",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Landit, go to Chat",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 93,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Your details",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 115,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Your answers",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 126,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Preferences",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 118,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Help now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 98,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 92,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Name",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Email",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "A",
+   "label": "Benefits",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 64,
+   "h": 20
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Visa or status",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Where you live",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Work",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Study",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Children",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Home",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Edit Age",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 81,
+   "h": 44
+  },
+  {
+   "tag": "INPUT",
+   "label": "paper",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 152,
+   "h": 160
+  },
+  {
+   "tag": "INPUT",
+   "label": "normal",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 100,
+   "h": 104
+  },
+  {
+   "tag": "INPUT",
+   "label": "en",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 314,
+   "h": 56
+  },
+  {
+   "tag": "INPUT",
+   "label": "on",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 314,
+   "h": 75
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Emergency, right now",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 314,
+   "h": 52
+  },
+  {
+   "tag": "A",
+   "label": "Call Police, fire, ambulance, coastguard: 999",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 96,
+   "h": 48
+  },
+  {
+   "tag": "A",
+   "label": "Call Cannot speak safely: Call 999, then press 55",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 224,
+   "h": 56
+  },
+  {
+   "tag": "A",
+   "label": "999bsl.co.uk",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 87,
+   "h": 35
+  },
+  {
+   "tag": "A",
+   "label": "Call Deaf or speech-impaired: 999 BSL · Relay UK 1",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 224,
+   "h": 56
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Police, not an emergency",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 314,
+   "h": 52
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Health",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 314,
+   "h": 52
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Scams and fraud",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 314,
+   "h": 52
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Abuse, violence and exploitation",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 314,
+   "h": 70
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Children",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 314,
+   "h": 52
+  },
+  {
+   "tag": "SUMMARY",
+   "label": "Home and consumer",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 314,
+   "h": 52
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Sign out",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 90,
+   "h": 44
+  },
+  {
+   "tag": "BUTTON",
+   "label": "Delete account",
+   "ring": true,
+   "offscreen": false,
+   "inSidebar": false,
+   "w": 138,
+   "h": 44
+  },
+  {
+   "tag": "BODY"
+  }
+ ]
+}
